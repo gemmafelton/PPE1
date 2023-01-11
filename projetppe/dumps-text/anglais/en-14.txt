@@ -1,0 +1,678 @@
+   [1]Harvard Business Review Home
+   [2]Subscribe [3]Cart [4]Sign In
+   ____________________ ____________________ (BUTTON) Search [5]CLEAR
+     *
+     *
+     *
+     *
+     *
+     *
+     * SUGGESTED TOPICS
+     *
+     *
+     *
+
+   Explore HBR
+     * [6]Diversity
+     * [7]Latest
+     * [8]The Magazine
+     * [9]Ascend
+     * [10]Most Popular
+     * [11]Podcasts
+     * [12]Video
+     * [13]Store
+     * [14]Webinars
+     * [15]Newsletters
+
+   Popular Topics
+     * [16]Managing Yourself
+     * [17]Leadership
+     * [18]Strategy
+     * [19]Managing Teams
+     * [20]Gender
+     * [21]Innovation
+     * [22]Work-life Balance
+     * [23]All Topics
+
+   For Subscribers
+     * [24]The Big Idea
+     * [25]Data & Visuals
+     * [26]Reading Lists
+     * [27]Case Selections
+     * [28]HBR Learning
+     * [29]Subscribe
+
+   My Account
+     * [30]My Library
+     * [31]Topic Feeds
+     * [32]Orders
+     * [33]Account Settings
+     * [34]Email Preferences
+     * [35]Log Out
+     * [36]Sign In
+
+     *
+     *
+     *
+     *
+
+   [37]Subscribe [38]Diversity [39]Latest [40]Podcasts [41]Video [42]The
+   Magazine [43]Ascend [44]Store [45]Webinars [46]Newsletters [47]All
+   Topics [48]The Big Idea [49]Data & Visuals [50]Reading Lists [51]Case
+   Selections [52]HBR Learning [53]My Library [54]Account Settings [55]Log
+   Out [56]Sign In
+
+Your Cart
+
+   Your Shopping Cart is empty.
+   [57]Visit Our Store
+   Guest User
+   Subscriber
+   [58]My Library [59]Topic Feeds [60]Orders [61]Account Settings
+   [62]Email Preferences [63]Log Out
+   Reading List
+   Reading Lists
+
+   You have 2 free articles left this month.
+   You are reading your last free article for this month.
+   [64]Subscribe for unlimited access.
+   [65]Create an account to read 2 more.
+
+   [HBR_logo_black.svg]
+   [66]Hiring and recruitment
+
+Hiring Discrimination Against Black Americans Hasn't Declined in 25 Years
+
+   A meta-analysis of job callback rates.
+   by
+     * [67]Lincoln Quillian,
+     * [68]Devah Pager,
+     * [69]Arnfinn H. Midtbøen, and
+     * [70]Ole Hexel
+
+   by
+     * [71]Lincoln Quillian,
+     * [72]Devah Pager,
+     * [73]Arnfinn H. Midtbøen, and
+     * [74]Ole Hexel
+
+   October 11, 2017
+   [oct17-11-568528987.jpg]
+     * Tweet
+     * Post
+     * Share
+     *
+     * Save
+     * Get PDF
+     * Buy Copies
+     * Print
+
+   Summary.
+
+   Many white Americans believe that race is no longer central to one's
+   opportunities in life, and that we're well on our way to systemic
+   racial equality. Are these beliefs accurate? While it's often difficult
+   to measure levels of discrimination over time, research into hiring
+   discrimination shows that black Americans still face discrimination in
+   the hiring process. A meta-analysis of callback rates from all existing
+   field experiments (24 total, including data from more than 54,000
+   applications across more than 25,000 positions) showed evidence of
+   discrimination against both black and Latino applicants. Since 1990
+   white applicants received, on average, 36% more callbacks than black
+   applicants and 24% more callbacks than Latino applicants with otherwise
+   identical résumés. When it comes to Latinos, there is some evidence of
+   a decline in discrimination over the past 25 years. Due to the small
+   number of field experiments including Latinos, statistical tests
+   indicate the evidence of decline is inconclusive. For blacks, however,
+   researchers found no change in hiring rates over time.
+     * Tweet
+     * Post
+     * Share
+     *
+     * Save
+     * Get PDF
+     * Buy Copies
+     * Print
+
+   [75]Leer en español
+   [76]Ler em português
+
+   Race is often at the forefront of American conversation. It has lately
+   emerged with new urgency around discussions of policing, immigration,
+   First Amendment rights, and even professional football. And yet even as
+   we are confronted with [77]dramatic examples of ongoing racial
+   tensions, most white Americans remain convinced that [78]race is no
+   longer central to one's opportunities in life. [79]Polling data shows
+   that many believe these lingering conflicts represent the actions of a
+   few bad apples and aren't in sync with the larger trend toward systemic
+   racial equality.
+
+   Are these beliefs accurate? What do we know about long-term trends in
+   racial discrimination?
+
+   Discrimination, given how it often manifests subtly, is notoriously
+   difficult to measure in any context. And until recently we have not had
+   much information that we could use to reliably assess changes in
+   discrimination over time. However, in [80]our recent study, published
+   in the Proceedings of the National Academy of Sciences, we were able to
+   analyze trends in discrimination by performing a meta-analysis from all
+   available field experiments pertaining to one area: racial
+   discrimination in hiring. We focused on experiments performed since
+   1990, when field studies became more numerous and their
+   methodologically improved. We analyzed data from 24 field experiments,
+   which included data from more than 54,000 applications across more than
+   25,000 positions.
+
+   We chose field experiments as a sample because they are [81]widely
+   regarded as the most valid method to assess discrimination. They
+   generally come in two major types: Résumé audits, done through the mail
+   or online, submit fictitious résumés with equivalent qualifications and
+   ethnically identifiable names. And in-person audits --
+   done with trained pairs of testers, white and nonwhite -- have
+   participants apply for jobs. By examining the rates of callbacks, or
+   invitations to job interviews, for white and nonwhite applicants with
+   equivalent qualifications, these studies provide high-quality measures
+   of rates of discrimination in hiring.
+
+   Broadly, our meta-analysis of callback rates from all existing field
+   experiments showed evidence of discrimination against both black and
+   Latino applicants. Since 1990 white applicants received, on average,
+   36% more callbacks than black applicants and 24% more callbacks than
+   Latino applicants with identical résumés.
+
+   When it comes to Latinos, we found some evidence of a decline in
+   discrimination over the past 25 years. Because of the small number of
+   field experiments including Latinos, however, statistical tests
+   indicate the evidence of decline is inconclusive.
+
+   For black applicants we found no change in hiring rates over time. In
+   the figure below, the dots represent results from 21 studies
+   contrasting white and black applicants, based on a total of 42,708
+   applications for 20,990 positions. The line shows the overall trend.
+   The line slants slightly upward, but it's statistically
+   indistinguishable from a flat line.
+   W170929_QUILLAN_BLACKAMERICANS_v2
+
+
+   We wondered if this level of discrimination might be influenced by
+   applicant education, applicant gender, study method, occupational
+   groups, and local labor market conditions. When we controlled for these
+   factors, we found that none account for the trend in discrimination.
+   Under these and other adjustments, our results suggest that levels of
+   discrimination against black job applicants hasn't changed since 1990.
+
+   Our results do not address the possibility that hiring discrimination
+   may have substantially dropped in the 1960s or early 1970s, during the
+   civil rights era, when many forms of direct discrimination were
+   outlawed. Further, our results pertain only to discrimination at the
+   point of hire, not at later points in the employment relationship, such
+   as wage setting or promotion decisions. It may be the case, then, that
+   meaningful reductions in discrimination have taken place at other
+   points in the employment relationship. What our results do point to is
+   that at the initial point of entry -- hiring decisions -- blacks remain
+   substantially disadvantaged relative to equally qualified whites, and
+   we see little indication of progress over time.
+
+   What might account for the stubborn persistence of hiring
+   discrimination? At first glance, our findings seem to contradict other
+   trends. [82]Attitude surveys [83]indicate that overtly prejudicial
+   beliefs have declined, and endorsement of the principles of equal
+   treatment regardless of race has increased. Americans appear to have
+   become more concerned with diversity and inclusion and, [84]in a small
+   number of elite firms, affirmative action practices have made
+   meaningful changes in the opportunities available to racial minorities.
+
+   At the same time, however, assessments of subtle forms of racial
+   stereotypes and measures of unconscious bias have [85]shown little
+   change [86]over time. The vast majority of hiring is subject to very
+   little oversight, and compensatory policies that address racial bias
+   reach a very small fraction of hiring overall. Together, these trends
+   offer little support for optimism about racial progress in the United
+   States. While some people may assume that discrimination has declined
+   over time, through increasing diversity in institutions along with
+   other cultural changes, it seems as though, at least in terms of
+   hiring, this expectation doesn't meet with reality.
+
+   We believe that our results provide a strong rationale for affirmative
+   action policies and point to the continuing need for the enforcement of
+   antidiscrimination legislation. Even among well-intended employers,
+   racial bias may lurk in hiring decisions. Whether conscious or not,
+   bias continues to affect decision making, and we find little evidence
+   that this pattern will diminish on its own. Instead, more active
+   intervention may be needed to reduce discrimination at the point of
+   hire.
+   New!
+   [HBR-learning-icon.png]
+   HBR Learning
+   [topic_landing_page_1400.png]
+   Attracting and Cultivating Talent Course
+   Accelerate your career with Harvard ManageMentor®. HBR Learning's
+   online leadership training helps you hone your skills with courses like
+   Attracting and Cultivating Talent. Earn badges to share on LinkedIn and
+   your resume. Access more than 40 courses trusted by Fortune 500
+   companies.
+   Discover how to attract, hire, develop, and keep talented people who
+   will grow and thrive throughout their employee journey.
+   Start Course
+   [87]Learn More & See All Courses
+   Read more on [88]Hiring and recruitment or related topics [89]Race and
+   [90]Workplace discrimination
+   For HBR Subscribers
+   Must Reads on Diversity
+   HBR's definitive articles on diversity will help your company confront
+   bias and make progress toward inclusion--and higher performance.
+   Show Reading List Show Reading List
+     * LQ
+       [91]Lincoln Quillian is Professor of Sociology and Faculty Fellow
+       at the Institute for Policy Research at Northwestern University.
+       His current research is involves the study of hiring discrimination
+       through meta-analysis of field experiments and research to
+       understand factors contributing to segregation on the basis of race
+       and income.
+     * DP
+       [92]Devah Pager is Professor of Sociology and Public Policy at
+       Harvard University and the Susan S. and the Kenneth L. Wallach
+       Professor at the Radcliffe Institute for Advanced Study. Her
+       current research involves the use of field experiments to study
+       hiring discrimination and to evaluate the consequences of legal
+       debt.
+     * AM
+       [93]Arnfinn H. Midtbøen is Senior Research Fellow at The Institute
+       for Social Research in Oslo, Norway. Midtbøen works on a broad set
+       of research issues, such as ethnic discrimination, second
+       generation incorporation, citizenship, and immigrant employment
+       niches.
+     * OH
+       [94]Ole Hexel is a PhD student at Northwestern University and
+       Sciences Po Paris. His dissertation examines the importance of
+       family assets in the transmission of status across generations,
+       through a comparison of inter vivos transfers in several western
+       democracies.
+
+     * Tweet
+     * Post
+     * Share
+     *
+     * Save
+     * Get PDF
+     * Buy Copies
+     * Print
+
+   New!
+   [HBR-learning-icon.png] HBR Learning
+   Attracting and Cultivating Talent Course
+   Accelerate your career with Harvard ManageMentor®. HBR Learning's
+   online leadership training helps you hone your skills with courses like
+   Attracting and Cultivating Talent. Earn badges to share on LinkedIn and
+   your resume. Access more than 40 courses trusted by Fortune 500
+   companies.
+   Discover how to attract, hire, develop, and keep talented people who
+   will grow and thrive throughout their employee journey.
+   [95]Start Course
+   [96]Learn More & See All Courses
+   [topic_landing_page_1400.png]
+   Read more on [97]Hiring and recruitment or related topics [98]Race and
+   [99]Workplace discrimination
+
+   Want to see the other articles in this list?
+   [100](BUTTON) Subscribe Now
+   [101]I'm already a subscriber.
+   Sign In.
+   ____________________ ____________________
+   (BUTTON) Sign In
+   [102]Forgot Password?
+   [103]I'm a subscriber, but I don't have an HBR.org account
+   Thanks for your patience.
+   We're upgrading our systems so we can better serve our subscribers.
+   Unfortunately, that means we have to temporarily suspend subscriber
+   syncing. We apologize for the inconvenience.
+   We'll be back up and running within 48 hours.
+   Let's find your subscription.
+   Enter your subscriber email address.
+   ____________________ (BUTTON) Continue
+   We need a little more information to find your subscription.
+   Enter an account number.
+   ____________________ (BUTTON) Continue
+   [104]I want to try again with a different email address.
+   Need help getting access?
+   Call customer service:
+   US / Canada: 800-274-3214
+   Asia / Pacific: +61 2 9158 6127
+   All Other Countries: +44 1858 438 412
+   Have questions? [105]See our subscription FAQ.
+   You're a subscriber! Now get access to your benefits.
+   Confirm your subscriber information and enter your password.Confirm
+   your subscriber information and create a password
+   NAME:
+   EMAIL: Not You?
+   [eyeHidden.svg] Show password Hide password ____________________
+   Passwords must have at least 10 characters, one number, one lower and
+   one upper case letter, and one special character
+   (BUTTON) Sync Your SubscriptionCreate Account
+   Forgot Password?
+   You're all set, .
+   You now have access to all your subscriber benefits on HBR.org. We've
+   sent an email to confirming your HBR.org account.
+   (BUTTON) Back To the article
+   Forgot your password?
+   Enter your email address and we'll send you a link to reset your
+   password.
+   ____________________
+   (BUTTON) Continue
+   Forgot your password?
+   If your email is registered with us, you will receive an email with a
+   link to reset your password.
+   Don't have an account? Activate your subscription.
+   Need help getting access? Contact Customer Service:
+   800.988.0886 (U.S./Canada) 617.783.7500 (International)
+   [106]customerservice@harvardbusiness.org
+   [107]No thanks, take me back to the article [108]Take me back, I want
+   to start over.
+
+Partner Center
+
+   [109]Diversity [110]Latest [111]Magazine [112]Ascend [113]Topics
+   [114]Podcasts [115]Video [116]Store [117]The Big Idea [118]Data &
+   Visuals [119]Case Selections [120]HBR Learning
+
+   [121]Harvard Business Review Home
+   [122]Subscribe
+
+Explore HBR
+
+     * [123]The Latest
+     * [124]Most Popular
+     * [125]All Topics
+     * [126]Magazine Archive
+     * [127]The Big Idea
+     * [128]Reading Lists
+     * [129]Case Selections
+     * [130]Video
+     * [131]Podcasts
+     * [132]Webinars
+     * [133]Data & Visuals
+     * [134]My Library
+     * [135]Newsletters
+     * [136]HBR Press
+     * [137]HBR Ascend
+
+HBR Store
+
+     * [138]Article Reprints
+     * [139]Books
+     * [140]Cases
+     * [141]Collections
+     * [142]Magazine Issues
+     * [143]HBR Guide Series
+     * [144]HBR 20-Minute Managers
+     * [145]HBR Emotional Intelligence Series
+     * [146]HBR Must Reads
+     * [147]Tools
+
+About HBR
+
+     * [148]Contact Us
+     * [149]Advertise with Us
+     * [150]Information for Booksellers/Retailers
+     * [151]Masthead
+     * [152]Global Editions
+     * [153]Media Inquiries
+     * [154]Guidelines for Authors
+     * [155]HBR Analytic Services
+     * [156]Copyright Permissions
+
+Manage My Account
+
+     * [157]My Library
+     * [158]Topic Feeds
+     * [159]Orders
+     * [160]Account Settings
+     * [161]Email Preferences
+     * [162]Account FAQ
+     * [163]Help Center
+     * [164]Contact Customer Service
+
+Follow HBR
+
+     * [165]Facebook
+     * [166]Twitter
+     * [167]LinkedIn
+     * [168]Instagram
+     * [169]Your Newsreader
+
+   Harvard Business Publishing
+     * [170]About Us
+     * [171]Careers
+     * [172]Privacy Policy
+     * [173]Cookie Policy
+     * [174]Copyright Information
+     * [175]Trademark Policy
+
+   Harvard Business Publishing:
+     * [176]Higher Education
+     * [177]Corporate Learning
+     * [178]Harvard Business Review
+     * [179]Harvard Business School
+
+   Copyright ©   Harvard Business School Publishing. All rights reserved.
+   Harvard Business Publishing is an affiliate of Harvard Business School.
+
+   [p?c1=2&c2=14457509&cv=2.0&cj=1]
+
+References
+
+   Visible links:
+   1. https://hbr.org/
+   2. https://hbr.org/subscriptions?ab=topbar-subtout&tpcc=houseads.site.topbar-subtout
+   3. https://hbr.org/shopping-cart
+   4. https://hbr.org/2017/10/hiring-discrimination-against-black-americans-hasnt-declined-in-25-years
+   5. https://hbr.org/2017/10/hiring-discrimination-against-black-americans-hasnt-declined-in-25-years
+   6. https://hbr.org/insight-center/race-equity-and-power-at-work
+   7. https://hbr.org/the-latest
+   8. https://hbr.org/magazine
+   9. https://hbr.org/ascend
+  10. https://hbr.org/most-popular
+  11. https://hbr.org/podcasts
+  12. https://hbr.org/video
+  13. https://hbr.org/store
+  14. https://hbr.org/webinars
+  15. https://hbr.org/email-newsletters
+  16. https://hbr.org/topic/subject/managing-yourself
+  17. https://hbr.org/topic/subject/leadership
+  18. https://hbr.org/topic/subject/strategy
+  19. https://hbr.org/topic/subject/managing-people
+  20. https://hbr.org/topic/subject/gender
+  21. https://hbr.org/topic/subject/innovation
+  22. https://hbr.org/topic/subject/work-life-balance
+  23. https://hbr.org/topics
+  24. https://hbr.org/big-ideas
+  25. https://hbr.org/data-visuals
+  26. https://hbr.org/reading-lists
+  27. https://hbr.org/case-selections
+  28. https://hbr.org/learning
+  29. https://hbr.org/subscriptions?ab=leftnav-subtout&tpcc=houseads.site.leftnav-subtout
+  30. https://hbr.org/my-library
+  31. https://hbr.org/my-library/topics
+  32. https://hbr.org/my-library/orders
+  33. https://hbr.org/my-library/settings
+  34. https://hbr.org/my-library/preferences
+  35. https://hbr.org/logout
+  36. https://hbr.org/2017/10/hiring-discrimination-against-black-americans-hasnt-declined-in-25-years
+  37. https://hbr.org/subscriptions?ab=leftnav-subtout&tpcc=houseads.site.leftnav-subtout
+  38. https://hbr.org/insight-center/race-equity-and-power-at-work
+  39. https://hbr.org/the-latest
+  40. https://hbr.org/podcasts
+  41. https://hbr.org/video
+  42. https://hbr.org/magazine
+  43. https://hbr.org/ascend
+  44. https://hbr.org/store
+  45. https://hbr.org/webinars
+  46. https://hbr.org/email-newsletters
+  47. https://hbr.org/topics
+  48. https://hbr.org/big-ideas
+  49. https://hbr.org/data-visuals
+  50. https://hbr.org/reading-lists
+  51. https://hbr.org/case-selections
+  52. https://hbr.org/learning
+  53. https://hbr.org/my-library
+  54. https://hbr.org/my-library/settings
+  55. https://hbr.org/logout
+  56. https://hbr.org/2017/10/hiring-discrimination-against-black-americans-hasnt-declined-in-25-years
+  57. https://hbr.org/store
+  58. https://hbr.org/my-library/library
+  59. https://hbr.org/my-library/topics
+  60. https://hbr.org/my-library/orders
+  61. https://hbr.org/my-library/settings
+  62. https://hbr.org/my-library/preferences
+  63. https://hbr.org/logout
+  64. https://hbr.org/subscriptions?ab=redstrip-subtout&tpcc=houseads.site.redstrip-subtout
+  65. https://hbr.org/2017/10/hiring-discrimination-against-black-americans-hasnt-declined-in-25-years
+  66. https://hbr.org/topic/subject/hiring-and-recruitment
+  67. https://hbr.org/search?term=lincoln%20quillian
+  68. https://hbr.org/search?term=devah%20pager
+  69. https://hbr.org/search?term=arnfinn%20h.%20midtb%C3%B8en
+  70. https://hbr.org/search?term=ole%20hexel
+  71. https://hbr.org/search?term=lincoln%20quillian
+  72. https://hbr.org/search?term=devah%20pager
+  73. https://hbr.org/search?term=arnfinn%20h.%20midtb%C3%B8en
+  74. https://hbr.org/search?term=ole%20hexel
+  75. https://hbr.org/2017/10/hiring-discrimination-against-black-americans-hasnt-declined-in-25-years?language=es
+  76. https://hbr.org/2017/10/hiring-discrimination-against-black-americans-hasnt-declined-in-25-years?language=pt
+  77. https://www.washingtonpost.com/local/public-safety/study-charlottesville-white-supremacist-rally-in-august-drew-attendees-from-35-states/2017/10/08/fe57868e-ac45-11e7-a908-a3470754bbb9_story.html?utm_term=.7e76955d6e86
+  78. https://www.washingtonpost.com/news/wonk/wp/2014/10/08/white-people-think-racial-discrimination-in-america-is-basically-over/?utm_term=.4f5407ff98e7
+  79. http://www.pewsocialtrends.org/2016/06/27/on-views-of-race-and-inequality-blacks-and-whites-are-worlds-apart/
+  80. http://www.pnas.org/content/114/41/10870.full
+  81. https://www.nap.edu/catalog/10887/measuring-racial-discrimination
+  82. http://igpa.uillinois.edu/programs/racial-attitudes
+  83. http://www.hup.harvard.edu/catalog.php?isbn=9780674745698
+  84. https://www.amazon.com/Realities-Affirmative-Action-Employment-Barbara/dp/0912764368
+  85. http://journals.sagepub.com/doi/abs/10.1111/1467-9280.00262
+  86. http://journals.sagepub.com/doi/abs/10.1177/01461672952111002
+  87. https://hbr.org/learning?ab=articlepage_hmm-landing_hmm-tout-rightrail
+  88. https://hbr.org/topic/subject/hiring-and-recruitment?ab=articlepage-topic
+  89. https://hbr.org/topic/subject/race?ab=articlepage-topic
+  90. https://hbr.org/topic/subject/workplace-discrimination?ab=articlepage-topic
+  91. https://hbr.org/search?term=lincoln%20quillian&search_type=search-all
+  92. https://hbr.org/search?term=devah%20pager&search_type=search-all
+  93. https://hbr.org/search?term=arnfinn%20h.%20midtb%C3%B8en&search_type=search-all
+  94. https://hbr.org/search?term=ole%20hexel&search_type=search-all
+  95. https://hbr.org/api/hmm/link?url=%2Fcontent%2Fattracting_and_cultivating_talent%2Flandingpage.html%3Futm_source%3Dhbrwebsite%26utm_medium%3Darticle-tout
+  96. https://hbr.org/learning?ab=articlepage_hmm-landing_hmm-tout-bottom
+  97. https://hbr.org/topic/subject/hiring-and-recruitment?ab=articlepage-topic
+  98. https://hbr.org/topic/subject/race?ab=articlepage-topic
+  99. https://hbr.org/topic/subject/workplace-discrimination?ab=articlepage-topic
+ 100. https://hbr.org/subscriptions?ab=paywall-article-subtout&tpcc=houseads.site.paywall-article-subtout
+ 101. https://hbr.org/2017/10/hiring-discrimination-against-black-americans-hasnt-declined-in-25-years
+ 102. https://hbr.org/2017/10/hiring-discrimination-against-black-americans-hasnt-declined-in-25-years
+ 103. https://hbr.org/2017/10/hiring-discrimination-against-black-americans-hasnt-declined-in-25-years
+ 104. https://hbr.org/2017/10/hiring-discrimination-against-black-americans-hasnt-declined-in-25-years
+ 105. https://hbr.org/subscriber-help
+ 106. mailto:customerservice@harvardbusiness.org
+ 107. https://hbr.org/2017/10/hiring-discrimination-against-black-americans-hasnt-declined-in-25-years
+ 108. https://hbr.org/2017/10/hiring-discrimination-against-black-americans-hasnt-declined-in-25-years
+ 109. https://hbr.org/insight-center/race-equity-and-power-at-work
+ 110. https://hbr.org/the-latest
+ 111. https://hbr.org/magazine
+ 112. https://hbr.org/ascend
+ 113. https://hbr.org/topics
+ 114. https://hbr.org/podcasts
+ 115. https://hbr.org/video
+ 116. https://hbr.org/store
+ 117. https://hbr.org/big-ideas
+ 118. https://hbr.org/data-visuals
+ 119. https://hbr.org/case-selections
+ 120. https://hbr.org/learning
+ 121. https://hbr.org/
+ 122. https://hbr.org/subscriptions?ab=footer-subtout&tpcc=houseads.site.footer-subtout
+ 123. https://hbr.org/the-latest
+ 124. https://hbr.org/most-popular
+ 125. https://hbr.org/topics
+ 126. https://hbr.org/magazine
+ 127. https://hbr.org/big-ideas
+ 128. https://hbr.org/reading-lists
+ 129. https://hbr.org/case-selections
+ 130. https://hbr.org/video
+ 131. https://hbr.org/podcasts
+ 132. https://hbr.org/webinars
+ 133. https://hbr.org/data-visuals
+ 134. https://hbr.org/my-library
+ 135. https://hbr.org/email-newsletters
+ 136. https://hbr.org/hbrpress
+ 137. https://hbr.org/ascend
+ 138. https://hbr.org/store/articles
+ 139. https://hbr.org/store/books
+ 140. https://hbr.org/store/case-studies
+ 141. https://hbr.org/store/collections
+ 142. https://hbr.org/store/magazine-issues
+ 143. https://hbr.org/store/landing/guides
+ 144. https://hbr.org/store/landing/20-minute-managers
+ 145. https://hbr.org/store/landing/emotional-intelligence-series
+ 146. https://hbr.org/store/landing/mustreads
+ 147. https://hbr.org/store/tools
+ 148. https://hbr.org/contact-us
+ 149. https://hbr.org/hbr-advertising-sales
+ 150. https://hbr.org/booksellers-retailers
+ 151. https://hbr.org/about-hbr
+ 152. https://hbr.org/global-editions
+ 153. https://hbr.org/media-inquiries
+ 154. https://hbr.org/guidelines-for-authors-web
+ 155. https://hbr.org/hbr-analytic-services
+ 156. https://hbr.org/permissions
+ 157. https://hbr.org/my-library
+ 158. https://hbr.org/my-library/topics
+ 159. https://hbr.org/my-library/orders
+ 160. https://hbr.org/my-library/settings
+ 161. https://hbr.org/my-library/preferences
+ 162. https://hbr.org/subscriber-help
+ 163. https://hbphelp.zendesk.com/hc/en-us
+ 164. https://hbr.org/subscriber-help#contact-customer-service
+ 165. http://www.facebook.com/HBR
+ 166. http://twitter.com/HarvardBiz
+ 167. https://www.linkedin.com/company/harvard-business-review?trk=biz-companies-cym
+ 168. https://www.instagram.com/harvard_business_review/?hl=en
+ 169. http://feeds.hbr.org/harvardbusiness/
+ 170. https://hbr.org/corporate/about
+ 171. https://hbr.org/corporate/careers
+ 172. https://hbr.org/privacy-policy
+ 173. https://hbr.org/corporate/cookie-policy
+ 174. https://hbr.org/corporate/copyright
+ 175. http://trademark.harvard.edu/pages/trademark-notice
+ 176. http://hbsp.harvard.edu/
+ 177. http://www.harvardbusiness.org/
+ 178. http://hbr.org/
+ 179. http://www.hbs.edu/
+
+   Hidden links:
+ 181. https://hbr.org/2017/10/hiring-discrimination-against-black-americans-hasnt-declined-in-25-years
+ 182. https://hbr.org/2017/10/hiring-discrimination-against-black-americans-hasnt-declined-in-25-years
+ 183. https://hbr.org/2017/10/hiring-discrimination-against-black-americans-hasnt-declined-in-25-years
+ 184. https://hbr.org/2017/10/hiring-discrimination-against-black-americans-hasnt-declined-in-25-years
+ 185. http://twitter.com/HarvardBiz
+ 186. http://www.facebook.com/HBR
+ 187. https://www.linkedin.com/company/harvard-business-review?trk=biz-companies-cym
+ 188. https://www.instagram.com/harvard_business_review/?hl=en
+ 189. https://hbr.org/2017/10/hiring-discrimination-against-black-americans-hasnt-declined-in-25-years
+ 190. https://hbr.org/2017/10/hiring-discrimination-against-black-americans-hasnt-declined-in-25-years
+ 191. https://hbr.org/2017/10/hiring-discrimination-against-black-americans-hasnt-declined-in-25-years
+ 192. http://twitter.com/HarvardBiz
+ 193. http://www.facebook.com/HBR
+ 194. https://www.linkedin.com/company/harvard-business-review?trk=biz-companies-cym
+ 195. https://hbr.org/2017/10/hiring-discrimination-against-black-americans-hasnt-declined-in-25-years
+ 196. https://hbr.org/2017/10/hiring-discrimination-against-black-americans-hasnt-declined-in-25-years
+ 197. https://hbr.org/product/hiring-discrimination-against-black-americans-hasn-t-declined-in-25-years/H03XD9-PDF-ENG
+ 198. javascript:window.print();
+ 199. http://twitter.com/HarvardBiz
+ 200. http://www.facebook.com/HBR
+ 201. https://www.linkedin.com/company/harvard-business-review?trk=biz-companies-cym
+ 202. https://hbr.org/2017/10/hiring-discrimination-against-black-americans-hasnt-declined-in-25-years
+ 203. https://hbr.org/2017/10/hiring-discrimination-against-black-americans-hasnt-declined-in-25-years
+ 204. https://hbr.org/product/hiring-discrimination-against-black-americans-hasn-t-declined-in-25-years/H03XD9-PDF-ENG
+ 205. javascript:window.print();
+ 206. https://hbr.org/api/hmm/link?url=%2Fcontent%2Fattracting_and_cultivating_talent%2Flandingpage.html%3Futm_source%3Dhbrwebsite%26utm_medium%3Darticle-tout
+ 207. http://twitter.com/HarvardBiz
+ 208. http://www.facebook.com/HBR
+ 209. https://www.linkedin.com/company/harvard-business-review?trk=biz-companies-cym
+ 210. https://hbr.org/2017/10/hiring-discrimination-against-black-americans-hasnt-declined-in-25-years
+ 211. https://hbr.org/2017/10/hiring-discrimination-against-black-americans-hasnt-declined-in-25-years
+ 212. https://hbr.org/product/hiring-discrimination-against-black-americans-hasn-t-declined-in-25-years/H03XD9-PDF-ENG
+ 213. javascript:window.print();

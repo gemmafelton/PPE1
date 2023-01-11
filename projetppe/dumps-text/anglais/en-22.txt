@@ -1,0 +1,637 @@
+   IFRAME: [1]https://www.googletagmanager.com/ns.html?id=GTM-N39QFDR
+
+   (BUTTON)
+   ____________________Search Query (BUTTON) Show Search
+     * [2]News
+       (BUTTON)
+          + [3]Arts & Life
+          + [4]Commentary
+          + [5]Community
+          + [6]Criminal Justice & Legal System
+          + [7]Economy
+          + [8]Education
+          + [9]Environment & Climate Change
+          + [10]Health
+          + [11]Politics & Government
+          + [12]Public Safety
+          + [13]Social Justice
+          + [14]Sports
+          + [15]Transportation & Infrastructure
+          + [16]Weather
+          + [17]Arts & Life
+          + [18]Commentary
+          + [19]Community
+          + [20]Criminal Justice & Legal System
+          + [21]Economy
+          + [22]Education
+          + [23]Environment & Climate Change
+          + [24]Health
+          + [25]Politics & Government
+          + [26]Public Safety
+          + [27]Social Justice
+          + [28]Sports
+          + [29]Transportation & Infrastructure
+          + [30]Weather
+     * [31]Stateside
+       (BUTTON)
+          + [32]Stateside Podcast
+          + [33]Radio Episodes
+          + [34]Collision Course
+          + [35]Stateside Podcast
+          + [36]Radio Episodes
+          + [37]Collision Course
+     * [38]Podcasts & Shows
+       (BUTTON)
+          + [39]Morning Edition
+          + [40]It's Just Politics
+          + [41]That's What They Say
+          + [42]Auchter's Art
+          + [43]Believed
+          + [44]All On-Air Programs
+          + [45]Morning Edition
+          + [46]It's Just Politics
+          + [47]That's What They Say
+          + [48]Auchter's Art
+          + [49]Believed
+          + [50]All On-Air Programs
+     * [51]Projects
+       (BUTTON)
+          + [52]Enterprise
+          + [53]Mornings in Michigan
+          + [54]Great Lakes News Collaborative
+          + [55]Minutes
+          + [56]State of Opportunity
+          + [57]Enterprise
+          + [58]Mornings in Michigan
+          + [59]Great Lakes News Collaborative
+          + [60]Minutes
+          + [61]State of Opportunity
+     * [62]Listen
+       (BUTTON)
+          + [63]How to Listen
+          + [64]Broadcast Schedule
+          + [65]Download the Michigan Radio App
+          + [66]How to Listen
+          + [67]Broadcast Schedule
+          + [68]Download the Michigan Radio App
+     * [69]Connect
+       (BUTTON)
+          + [70]About Michigan Radio
+          + [71]Contact Us
+          + [72]Events
+          + [73]Meet Our Staff
+          + [74]Newsletters
+          + [75]About Michigan Radio
+          + [76]Contact Us
+          + [77]Events
+          + [78]Meet Our Staff
+          + [79]Newsletters
+     * [80]Support
+       (BUTTON)
+          + [81]Become a Member
+          + [82]Philanthropy
+          + [83]Corporate Sponsorship
+          + [84]Donate a Vehicle/Boat/Property
+          + [85]Michigan Radio Shop
+          + [86]Contact Development
+          + [87]Become a Member
+          + [88]Philanthropy
+          + [89]Corporate Sponsorship
+          + [90]Donate a Vehicle/Boat/Property
+          + [91]Michigan Radio Shop
+          + [92]Contact Development
+
+   © 2023 MICHIGAN RADIO
+
+   (BUTTON) Menu
+   91.7 Ann Arbor/Detroit 104.1 Grand Rapids 91.3 Port Huron 89.7 Lansing
+   91.1 Flint
+   (BUTTON) Show Search
+   ____________________Search Query (BUTTON)
+   [93]Donate
+
+   (BUTTON) (BUTTON)
+   (BUTTON)
+   Play Live Radio
+   Next Up:
+   0:00
+   0:00
+   Available On Air Stations
+     * (BUTTON) On Air Now Playing WUOMFM
+
+   (BUTTON)
+   (BUTTON) All Streams
+
+     * [94]News
+       (BUTTON)
+          + [95]Arts & Life
+          + [96]Commentary
+          + [97]Community
+          + [98]Criminal Justice & Legal System
+          + [99]Economy
+          + [100]Education
+          + [101]Environment & Climate Change
+          + [102]Health
+          + [103]Politics & Government
+          + [104]Public Safety
+          + [105]Social Justice
+          + [106]Sports
+          + [107]Transportation & Infrastructure
+          + [108]Weather
+          + [109]Arts & Life
+          + [110]Commentary
+          + [111]Community
+          + [112]Criminal Justice & Legal System
+          + [113]Economy
+          + [114]Education
+          + [115]Environment & Climate Change
+          + [116]Health
+          + [117]Politics & Government
+          + [118]Public Safety
+          + [119]Social Justice
+          + [120]Sports
+          + [121]Transportation & Infrastructure
+          + [122]Weather
+     * [123]Stateside
+       (BUTTON)
+          + [124]Stateside Podcast
+          + [125]Radio Episodes
+          + [126]Collision Course
+          + [127]Stateside Podcast
+          + [128]Radio Episodes
+          + [129]Collision Course
+     * [130]Podcasts & Shows
+       (BUTTON)
+          + [131]Morning Edition
+          + [132]It's Just Politics
+          + [133]That's What They Say
+          + [134]Auchter's Art
+          + [135]Believed
+          + [136]All On-Air Programs
+          + [137]Morning Edition
+          + [138]It's Just Politics
+          + [139]That's What They Say
+          + [140]Auchter's Art
+          + [141]Believed
+          + [142]All On-Air Programs
+     * [143]Projects
+       (BUTTON)
+          + [144]Enterprise
+          + [145]Mornings in Michigan
+          + [146]Great Lakes News Collaborative
+          + [147]Minutes
+          + [148]State of Opportunity
+          + [149]Enterprise
+          + [150]Mornings in Michigan
+          + [151]Great Lakes News Collaborative
+          + [152]Minutes
+          + [153]State of Opportunity
+     * [154]Listen
+       (BUTTON)
+          + [155]How to Listen
+          + [156]Broadcast Schedule
+          + [157]Download the Michigan Radio App
+          + [158]How to Listen
+          + [159]Broadcast Schedule
+          + [160]Download the Michigan Radio App
+     * [161]Connect
+       (BUTTON)
+          + [162]About Michigan Radio
+          + [163]Contact Us
+          + [164]Events
+          + [165]Meet Our Staff
+          + [166]Newsletters
+          + [167]About Michigan Radio
+          + [168]Contact Us
+          + [169]Events
+          + [170]Meet Our Staff
+          + [171]Newsletters
+     * [172]Support
+       (BUTTON)
+          + [173]Become a Member
+          + [174]Philanthropy
+          + [175]Corporate Sponsorship
+          + [176]Donate a Vehicle/Boat/Property
+          + [177]Michigan Radio Shop
+          + [178]Contact Development
+          + [179]Become a Member
+          + [180]Philanthropy
+          + [181]Corporate Sponsorship
+          + [182]Donate a Vehicle/Boat/Property
+          + [183]Michigan Radio Shop
+          + [184]Contact Development
+
+   [185]Criminal Justice & Legal System
+
+State civil rights department files more racial discrimination charges
+against Grand Rapids police
+
+   Michigan Radio | By [186]Dustin Dwyer
+   Published December 14, 2022 at 4:01 PM EST
+     * [187]Facebook
+     * [188]Twitter
+     * [189]LinkedIn
+     * [190]Email
+
+   grand_rapids_police_headquarters_0.jpg
+   Dustin Dwyer
+   /
+   Michigan Radio
+
+   The Michigan Department of Civil Rights has filed more charges of
+   racial discrimination against the Grand Rapids Police Department.
+
+   The charges announced Thursday are over [191]an incident that happened
+   in the city in 2018, when GRPD stopped a group of three Black boys and
+   held them at gunpoint, based on a call that the boys had a toy gun.
+
+   "There was no initial crime reported," said MDCR director John E.
+   Johnson Jr. "There's nothing illegal about two children walking near
+   train tracks with what the 911 caller identified repeatedly as a toy
+   gun."
+
+   Johnson said GRPD couldn't provide any evidence of white children ever
+   receiving the same treatment. The formal civil rights charges against
+   the department only involve the treatment of the two 11-year-old boys
+   stopped during the incident. The MDCR says it didn't receive a
+   complaint about the 17-year-old who was stopped with them.
+
+   The MDCR says it currently has 21 open investigations of alleged civil
+   rights abuses by the GRPD -- more than twice as many open civil rights
+   investigations as any other police department in the state. The next
+   highest number is for Detroit police, with eight open investigations
+   against it, then Lansing, with six, according to a civil rights
+   department spokesperson.
+
+   The spokesperson said the department currently has a total of 119 open
+   civil rights investigations involving police departments in Michigan.
+
+   The number of open investigations of alleged abuses involving GRPD
+   includes [192]two cases that led to formal charges filed this summer.
+
+   All of the formal charges announced by the MDCR are submitted to an
+   administrative law judge, who decides whether to issue fines against
+   the police department, and possibly force the department to take steps
+   to correct its practices.
+
+   "We are aware of today's announcement by the MDCR," said a city
+   spokesperson in response to a request for comment from Michigan Radio.
+   "We have not yet been served with the charges. We'll be reviewing the
+   charges and responding appropriately."
+
+   Residents in Grand Rapids have complained for years about how the Grand
+   Rapids police department treats its non-white residents. A [193]2017
+   report commissioned by the city showed that Black drivers were twice as
+   likely to be stopped as white drivers. And there have been [194]a
+   series of high profile incidents involving how GRPD treats children
+   during stops. Two of those incidents are now part of the formal charges
+   against the department.
+
+   The civil rights department held two public listening sessions in the
+   city in 2019 to hear residents' claims about the police department.
+   Johnson said more than 80 people spoke at the hearings, and dozens more
+   filed complaints with the civil rights department.
+
+   The formal charges announced Thursday come a week after the city was
+   hit with [195]a $100 million civil lawsuit that alleges racial
+   discrimination in the killing of Patrick Lyoya. A Grand Rapids police
+   officer shot and killed Lyoya following a traffic stop in April. Lyoya
+   was Black and had no weapon when he was stopped.
+
+   And earlier this month, Grand Rapids city commissioners [196]approved
+   paying more than $300,000 to settle a lawsuit over the police
+   department violating the civil rights of two Black men it stopped in
+   2011. Police took photos and fingerprints of the two men, Denishio
+   Johnson and Keyon Harrison, after stopping them -- though neither was
+   accused of any crime. The Michigan Supreme Court [197]ruled this year
+   that the policy of photographing and fingerprinting innocent people
+   violated the Fourth Amendment of the U.S. Constitution.
+
+   The ACLU of Michigan said 75% of the people GRPD photographed and
+   fingerprinted under the policy were Black.
+
+   On December 6, Grand Rapids City Commissioners [198]agreed to settle
+   the 11-year old lawsuit by paying Harrison and Johnson $30,000 each,
+   and paying the ACLU of Michigan $270,000 in legal fees.
+   Tags
+   [199]Criminal Justice & Legal System [200]Grand Rapids[201]Grand Rapids
+   police[202]Grand Rapids Police Department[203]grpd[204]Patrick Lyoya
+     * [205]Facebook
+     * [206]Twitter
+     * [207]LinkedIn
+     * [208]Email
+
+   [209]Dustin Dwyer
+   Dustin Dwyer reports enterprise and long-form stories from Michigan
+   Radio's West Michigan bureau. He was a fellow in the class of 2018 at
+   the Nieman Foundation for Journalism at Harvard. He's been with
+   Michigan Radio since 2004, when he started as an intern in the
+   newsroom.
+   [210]See stories by Dustin Dwyer
+
+   [211]Justice.png
+
+   Latest Stories
+    1. [212]Report finds UIA ineffective in processing unemployment claims
+       during pandemic
+    2. [213]Temperature swings take a toll on northern Michigan ski trails
+    3. [214]Tribal gaming authority ordered to pay investors nearly $89
+       million in failed casino deal
+    4. [215]MI Dept of State complies with Jan 6 special counsel subpoena
+    5. [216]January 15th is the last day of open enrollment for ACA
+       healthcare
+    6. [217]The XBB.1.5 omicron subvariant sparks concern about long term
+       effects of infection
+
+   [218]Website donate banner (1).png
+   Related Content
+     * [219]The Grand Rapids Police Department
+       [220]Criminal Justice & Legal System
+       [221]State civil rights department formally charges GRPD with
+       racial discrimination
+       [222]Dustin Dwyer
+       The formal charges involve two incidents of alleged discrimination
+       against Black residents. The state civil rights department says 28
+       other claims are still under investigation.
+     * [223]grand_rapids_police_headquarters.jpg
+       [224]Criminal Justice & Legal System
+       [225]GRPD violated constitutional rights, state supreme court rules
+       [226]Dustin Dwyer
+       The case involves a fingerprinting policy the city says it ended in
+       2015.
+     * [227]Grand Rapids Police cruiser
+       [228]News
+       [229]GRPD under scrutiny again after recent incident with unarmed
+       black boys
+       [230]Bryce Huffman
+       The Grand Rapids Police Department released body cam footage Friday
+       of a stop involving two unarmed 11-year old black boys.The video
+       shows several police...
+
+   Stay Connected
+     * [231]twitter
+     * [232]instagram
+     * [233]youtube
+     * [234]facebook
+     * [235]linkedin
+
+   © 2023 MICHIGAN RADIO
+     * [236]Contact Us
+     * [237]Work with Us
+     * [238]Public Documents
+     * [239]Michigan Radio Hourly News
+     * [240]Contest Rules
+     * [241]Privacy & Terms of Use
+     * [242]FCC Applications
+
+References
+
+   Visible links:
+   1. https://www.googletagmanager.com/ns.html?id=GTM-N39QFDR
+   2. https://www.michiganradio.org/news
+   3. https://www.michiganradio.org/arts-life
+   4. https://www.michiganradio.org/commentary
+   5. https://www.michiganradio.org/community
+   6. https://www.michiganradio.org/criminal-justice-legal-system
+   7. https://www.michiganradio.org/economy
+   8. https://www.michiganradio.org/education
+   9. https://www.michiganradio.org/environment-climate-change
+  10. https://www.michiganradio.org/health
+  11. https://www.michiganradio.org/politics-government
+  12. https://www.michiganradio.org/public-safety
+  13. https://www.michiganradio.org/social-justice
+  14. https://www.michiganradio.org/sports
+  15. https://www.michiganradio.org/transportation-infrastructure
+  16. https://www.michiganradio.org/weather
+  17. https://www.michiganradio.org/arts-life
+  18. https://www.michiganradio.org/commentary
+  19. https://www.michiganradio.org/community
+  20. https://www.michiganradio.org/criminal-justice-legal-system
+  21. https://www.michiganradio.org/economy
+  22. https://www.michiganradio.org/education
+  23. https://www.michiganradio.org/environment-climate-change
+  24. https://www.michiganradio.org/health
+  25. https://www.michiganradio.org/politics-government
+  26. https://www.michiganradio.org/public-safety
+  27. https://www.michiganradio.org/social-justice
+  28. https://www.michiganradio.org/sports
+  29. https://www.michiganradio.org/transportation-infrastructure
+  30. https://www.michiganradio.org/weather
+  31. https://www.michiganradio.org/stateside
+  32. https://www.michiganradio.org/podcast/stateside
+  33. https://www.michiganradio.org/show/stateside
+  34. https://www.michiganradio.org/tags/collision-course
+  35. https://www.michiganradio.org/podcast/stateside
+  36. https://www.michiganradio.org/show/stateside
+  37. https://www.michiganradio.org/tags/collision-course
+  38. https://www.michiganradio.org/all-shows
+  39. https://www.michiganradio.org/show/morning-edition
+  40. https://www.michiganradio.org/podcast/its-just-politics
+  41. https://www.michiganradio.org/podcast/thats-what-they-say
+  42. https://www.michiganradio.org/tags/auchters-art
+  43. https://believed.michiganradio.org/
+  44. https://www.michiganradio.org/all-shows
+  45. https://www.michiganradio.org/show/morning-edition
+  46. https://www.michiganradio.org/podcast/its-just-politics
+  47. https://www.michiganradio.org/podcast/thats-what-they-say
+  48. https://www.michiganradio.org/tags/auchters-art
+  49. https://believed.michiganradio.org/
+  50. https://www.michiganradio.org/all-shows
+  51. https://www.michiganradio.org/reporting-projects
+  52. https://www.michiganradio.org/enterprise
+  53. https://www.michiganradio.org/mornings-in-michigan
+  54. https://www.michiganradio.org/great-lakes-news-collaborative
+  55. https://www.searchminutes.com/
+  56. https://stateofopportunity.michiganradio.org/
+  57. https://www.michiganradio.org/enterprise
+  58. https://www.michiganradio.org/mornings-in-michigan
+  59. https://www.michiganradio.org/great-lakes-news-collaborative
+  60. https://www.searchminutes.com/
+  61. https://stateofopportunity.michiganradio.org/
+  62. https://www.michiganradio.org/how-to-listen
+  63. https://www.michiganradio.org/how-to-listen
+  64. https://www.michiganradio.org/michigan-radio-schedule
+  65. https://www.michiganradio.org/station-news/2019-06-25/download-the-michigan-radio-app
+  66. https://www.michiganradio.org/how-to-listen
+  67. https://www.michiganradio.org/michigan-radio-schedule
+  68. https://www.michiganradio.org/station-news/2019-06-25/download-the-michigan-radio-app
+  69. https://www.michiganradio.org/contact-michigan-radio
+  70. https://www.michiganradio.org/about-us
+  71. https://www.michiganradio.org/contact-michigan-radio
+  72. https://www.michiganradio.org/events
+  73. https://www.michiganradio.org/michigan-radio-staff
+  74. https://www.michiganradio.org/newsletters-and-news-roundups
+  75. https://www.michiganradio.org/about-us
+  76. https://www.michiganradio.org/contact-michigan-radio
+  77. https://www.michiganradio.org/events
+  78. https://www.michiganradio.org/michigan-radio-staff
+  79. https://www.michiganradio.org/newsletters-and-news-roundups
+  80. https://www.michiganradio.org/development
+  81. https://www.michiganradio.org/development/membership
+  82. https://www.michiganradio.org/development/philanthropy
+  83. https://www.michiganradio.org/development/sponsorship
+  84. https://www.michiganradio.org/development/other-ways-to-give
+  85. https://www.michiganradio.org/michigan-radio-shop
+  86. https://www.michiganradio.org/development/membership/contact
+  87. https://www.michiganradio.org/development/membership
+  88. https://www.michiganradio.org/development/philanthropy
+  89. https://www.michiganradio.org/development/sponsorship
+  90. https://www.michiganradio.org/development/other-ways-to-give
+  91. https://www.michiganradio.org/michigan-radio-shop
+  92. https://www.michiganradio.org/development/membership/contact
+  93. http://michiganradio.org/donate
+  94. https://www.michiganradio.org/news
+  95. https://www.michiganradio.org/arts-life
+  96. https://www.michiganradio.org/commentary
+  97. https://www.michiganradio.org/community
+  98. https://www.michiganradio.org/criminal-justice-legal-system
+  99. https://www.michiganradio.org/economy
+ 100. https://www.michiganradio.org/education
+ 101. https://www.michiganradio.org/environment-climate-change
+ 102. https://www.michiganradio.org/health
+ 103. https://www.michiganradio.org/politics-government
+ 104. https://www.michiganradio.org/public-safety
+ 105. https://www.michiganradio.org/social-justice
+ 106. https://www.michiganradio.org/sports
+ 107. https://www.michiganradio.org/transportation-infrastructure
+ 108. https://www.michiganradio.org/weather
+ 109. https://www.michiganradio.org/arts-life
+ 110. https://www.michiganradio.org/commentary
+ 111. https://www.michiganradio.org/community
+ 112. https://www.michiganradio.org/criminal-justice-legal-system
+ 113. https://www.michiganradio.org/economy
+ 114. https://www.michiganradio.org/education
+ 115. https://www.michiganradio.org/environment-climate-change
+ 116. https://www.michiganradio.org/health
+ 117. https://www.michiganradio.org/politics-government
+ 118. https://www.michiganradio.org/public-safety
+ 119. https://www.michiganradio.org/social-justice
+ 120. https://www.michiganradio.org/sports
+ 121. https://www.michiganradio.org/transportation-infrastructure
+ 122. https://www.michiganradio.org/weather
+ 123. https://www.michiganradio.org/stateside
+ 124. https://www.michiganradio.org/podcast/stateside
+ 125. https://www.michiganradio.org/show/stateside
+ 126. https://www.michiganradio.org/tags/collision-course
+ 127. https://www.michiganradio.org/podcast/stateside
+ 128. https://www.michiganradio.org/show/stateside
+ 129. https://www.michiganradio.org/tags/collision-course
+ 130. https://www.michiganradio.org/all-shows
+ 131. https://www.michiganradio.org/show/morning-edition
+ 132. https://www.michiganradio.org/podcast/its-just-politics
+ 133. https://www.michiganradio.org/podcast/thats-what-they-say
+ 134. https://www.michiganradio.org/tags/auchters-art
+ 135. https://believed.michiganradio.org/
+ 136. https://www.michiganradio.org/all-shows
+ 137. https://www.michiganradio.org/show/morning-edition
+ 138. https://www.michiganradio.org/podcast/its-just-politics
+ 139. https://www.michiganradio.org/podcast/thats-what-they-say
+ 140. https://www.michiganradio.org/tags/auchters-art
+ 141. https://believed.michiganradio.org/
+ 142. https://www.michiganradio.org/all-shows
+ 143. https://www.michiganradio.org/reporting-projects
+ 144. https://www.michiganradio.org/enterprise
+ 145. https://www.michiganradio.org/mornings-in-michigan
+ 146. https://www.michiganradio.org/great-lakes-news-collaborative
+ 147. https://www.searchminutes.com/
+ 148. https://stateofopportunity.michiganradio.org/
+ 149. https://www.michiganradio.org/enterprise
+ 150. https://www.michiganradio.org/mornings-in-michigan
+ 151. https://www.michiganradio.org/great-lakes-news-collaborative
+ 152. https://www.searchminutes.com/
+ 153. https://stateofopportunity.michiganradio.org/
+ 154. https://www.michiganradio.org/how-to-listen
+ 155. https://www.michiganradio.org/how-to-listen
+ 156. https://www.michiganradio.org/michigan-radio-schedule
+ 157. https://www.michiganradio.org/station-news/2019-06-25/download-the-michigan-radio-app
+ 158. https://www.michiganradio.org/how-to-listen
+ 159. https://www.michiganradio.org/michigan-radio-schedule
+ 160. https://www.michiganradio.org/station-news/2019-06-25/download-the-michigan-radio-app
+ 161. https://www.michiganradio.org/contact-michigan-radio
+ 162. https://www.michiganradio.org/about-us
+ 163. https://www.michiganradio.org/contact-michigan-radio
+ 164. https://www.michiganradio.org/events
+ 165. https://www.michiganradio.org/michigan-radio-staff
+ 166. https://www.michiganradio.org/newsletters-and-news-roundups
+ 167. https://www.michiganradio.org/about-us
+ 168. https://www.michiganradio.org/contact-michigan-radio
+ 169. https://www.michiganradio.org/events
+ 170. https://www.michiganradio.org/michigan-radio-staff
+ 171. https://www.michiganradio.org/newsletters-and-news-roundups
+ 172. https://www.michiganradio.org/development
+ 173. https://www.michiganradio.org/development/membership
+ 174. https://www.michiganradio.org/development/philanthropy
+ 175. https://www.michiganradio.org/development/sponsorship
+ 176. https://www.michiganradio.org/development/other-ways-to-give
+ 177. https://www.michiganradio.org/michigan-radio-shop
+ 178. https://www.michiganradio.org/development/membership/contact
+ 179. https://www.michiganradio.org/development/membership
+ 180. https://www.michiganradio.org/development/philanthropy
+ 181. https://www.michiganradio.org/development/sponsorship
+ 182. https://www.michiganradio.org/development/other-ways-to-give
+ 183. https://www.michiganradio.org/michigan-radio-shop
+ 184. https://www.michiganradio.org/development/membership/contact
+ 185. https://www.michiganradio.org/criminal-justice-legal-system
+ 186. https://www.michiganradio.org/people/dustin-dwyer
+ 187. https://www.facebook.com/dialog/share?app_id=478861183554801&display=popup&href=https%3A%2F%2Fwww.michiganradio.org%2Fcriminal-justice-legal-system%2F2022-12-14%2Fstate-civil-rights-department-files-more-racial-discrimination-charges-against-grand-rapids-police
+ 188. https://twitter.com/intent/tweet?url=https%3A%2F%2Fwww.michiganradio.org%2Fcriminal-justice-legal-system%2F2022-12-14%2Fstate-civil-rights-department-files-more-racial-discrimination-charges-against-grand-rapids-police&text=State%20civil%20rights%20department%20files%20more%20racial%20discrimination%20charges%20against%20Grand%20Rapids%20police
+ 189. https://www.linkedin.com/shareArticle?url=https%3A%2F%2Fwww.michiganradio.org%2Fcriminal-justice-legal-system%2F2022-12-14%2Fstate-civil-rights-department-files-more-racial-discrimination-charges-against-grand-rapids-police&mini=true&title=State%20civil%20rights%20department%20files%20more%20racial%20discrimination%20charges%20against%20Grand%20Rapids%20police&summary=The%20Michigan%20Department%20of%20Civil%20Rights%20says%20it%20has%2021%20open%20investigation%27s%20against%20GRPD.%20So%20far%2C%20four%20have%20resulted%20in%20formal%20charges.&source=Michigan%20Radio
+ 190. mailto:?body=State%20civil%20rights%20department%20files%20more%20racial%20discrimination%20charges%20against%20Grand%20Rapids%20police%0A%0Ahttps%3A%2F%2Fwww.michiganradio.org%2Fcriminal-justice-legal-system%2F2022-12-14%2Fstate-civil-rights-department-files-more-racial-discrimination-charges-against-grand-rapids-police%0A%0AThe%20Michigan%20Department%20of%20Civil%20Rights%20says%20it%20has%2021%20open%20investigation%27s%20against%20GRPD.%20So%20far%2C%20four%20have%20resulted%20in%20formal%20charges.
+ 191. https://www.michiganradio.org/news/2018-09-01/grpd-under-scrutiny-again-after-recent-incident-with-unarmed-black-boys
+ 192. https://www.michiganradio.org/criminal-justice-legal-system/2022-07-25/state-civil-rights-department-formally-charges-grpd-with-racial-discrimination
+ 193. https://www.michiganradio.org/law/2017-04-20/if-youre-black-in-grand-rapids-youre-twice-as-likely-to-get-pulled-over
+ 194. https://www.michiganradio.org/news/2018-10-21/residents-urge-grpd-to-change-policy-after-recent-incident-with-unarmed-black-girl
+ 195. https://www.michiganradio.org/criminal-justice-legal-system/2022-12-07/lyoya-family-files-wrongful-death-lawsuit-against-grand-rapids-former-police-officer-schurr
+ 196. http://grandrapidscitymi.iqm2.com/Citizens/FileOpen.aspx?Type=12&ID=5175
+ 197. https://www.michiganradio.org/criminal-justice-legal-system/2022-07-22/grpd-violated-constitutional-rights-state-supreme-court-rules
+ 198. http://grandrapidscitymi.iqm2.com/Citizens/FileOpen.aspx?Type=12&ID=5175
+ 199. https://www.michiganradio.org/criminal-justice-legal-system
+ 200. https://www.michiganradio.org/tags/grand-rapids
+ 201. https://www.michiganradio.org/tags/grand-rapids-police
+ 202. https://www.michiganradio.org/tags/grand-rapids-police-department
+ 203. https://www.michiganradio.org/tags/grpd
+ 204. https://www.michiganradio.org/tags/patrick-lyoya
+ 205. https://www.facebook.com/dialog/share?app_id=478861183554801&display=popup&href=https%3A%2F%2Fwww.michiganradio.org%2Fcriminal-justice-legal-system%2F2022-12-14%2Fstate-civil-rights-department-files-more-racial-discrimination-charges-against-grand-rapids-police
+ 206. https://twitter.com/intent/tweet?url=https%3A%2F%2Fwww.michiganradio.org%2Fcriminal-justice-legal-system%2F2022-12-14%2Fstate-civil-rights-department-files-more-racial-discrimination-charges-against-grand-rapids-police&text=State%20civil%20rights%20department%20files%20more%20racial%20discrimination%20charges%20against%20Grand%20Rapids%20police
+ 207. https://www.linkedin.com/shareArticle?url=https%3A%2F%2Fwww.michiganradio.org%2Fcriminal-justice-legal-system%2F2022-12-14%2Fstate-civil-rights-department-files-more-racial-discrimination-charges-against-grand-rapids-police&mini=true&title=State%20civil%20rights%20department%20files%20more%20racial%20discrimination%20charges%20against%20Grand%20Rapids%20police&summary=The%20Michigan%20Department%20of%20Civil%20Rights%20says%20it%20has%2021%20open%20investigation%27s%20against%20GRPD.%20So%20far%2C%20four%20have%20resulted%20in%20formal%20charges.&source=Michigan%20Radio
+ 208. mailto:?body=State%20civil%20rights%20department%20files%20more%20racial%20discrimination%20charges%20against%20Grand%20Rapids%20police%0A%0Ahttps%3A%2F%2Fwww.michiganradio.org%2Fcriminal-justice-legal-system%2F2022-12-14%2Fstate-civil-rights-department-files-more-racial-discrimination-charges-against-grand-rapids-police%0A%0AThe%20Michigan%20Department%20of%20Civil%20Rights%20says%20it%20has%2021%20open%20investigation%27s%20against%20GRPD.%20So%20far%2C%20four%20have%20resulted%20in%20formal%20charges.
+ 209. https://www.michiganradio.org/people/dustin-dwyer
+ 210. https://www.michiganradio.org/people/dustin-dwyer
+ 211. http://michiganradio.org/donate
+ 212. https://www.michiganradio.org/politics-government/2023-01-07/report-finds-uia-ineffective-in-processing-unemployment-claims-during-pandemic
+ 213. https://www.michiganradio.org/sports/2023-01-06/temperature-swings-take-a-toll-on-northern-michigan-ski-trails
+ 214. https://www.michiganradio.org/criminal-justice-legal-system/2023-01-06/tribal-gaming-authority-ordered-to-pay-investors-nearly-89-million-in-failed-casino-deal
+ 215. https://www.michiganradio.org/politics-government/2023-01-06/mi-dept-of-state-complies-with-jan-6-special-counsel-subpoena
+ 216. https://www.michiganradio.org/health/2023-01-06/january-15th-is-the-last-day-of-open-enrollment-for-aca-healthcare
+ 217. https://www.michiganradio.org/health/2023-01-06/the-xbb-1-5-omicron-subvariant-sparks-concern-about-long-term-effects-of-infection
+ 218. https://michiganradio.secureallegiance.com/wuom/WebModule/Donate.aspx?P=SUSTAINER&PAGETYPE=PLG&CHECK=7xZmO7zqt1vzhRN6l0Ol%2B61gzMC6uhq5nDjkJobrCdg%3D
+ 219. https://www.michiganradio.org/criminal-justice-legal-system/2022-07-25/state-civil-rights-department-formally-charges-grpd-with-racial-discrimination
+ 220. https://www.michiganradio.org/criminal-justice-legal-system
+ 221. https://www.michiganradio.org/criminal-justice-legal-system/2022-07-25/state-civil-rights-department-formally-charges-grpd-with-racial-discrimination
+ 222. https://www.michiganradio.org/people/dustin-dwyer
+ 223. https://www.michiganradio.org/criminal-justice-legal-system/2022-07-22/grpd-violated-constitutional-rights-state-supreme-court-rules
+ 224. https://www.michiganradio.org/criminal-justice-legal-system
+ 225. https://www.michiganradio.org/criminal-justice-legal-system/2022-07-22/grpd-violated-constitutional-rights-state-supreme-court-rules
+ 226. https://www.michiganradio.org/people/dustin-dwyer
+ 227. https://www.michiganradio.org/news/2018-09-01/grpd-under-scrutiny-again-after-recent-incident-with-unarmed-black-boys
+ 228. https://www.michiganradio.org/news
+ 229. https://www.michiganradio.org/news/2018-09-01/grpd-under-scrutiny-again-after-recent-incident-with-unarmed-black-boys
+ 230. https://www.michiganradio.org/people/bryce-huffman
+ 231. https://twitter.com/michiganradio
+ 232. https://www.instagram.com/michiganradio/
+ 233. https://www.youtube.com/michiganradio
+ 234. https://www.facebook.com/michiganradio
+ 235. https://www.linkedin.com/company/michigan-radio
+ 236. https://www.michiganradio.org/contact-michigan-radio
+ 237. https://www.michiganradio.org/build-your-career-at-michigan-radio
+ 238. https://www.michiganradio.org/public-documents
+ 239. https://media.michiganradio.org/newscast/newscast.mp3
+ 240. https://www.michiganradio.org/michigan-radio-contest-entry-rules
+ 241. https://www.michiganradio.org/privacy-terms-of-use
+ 242. https://www.michiganradio.org/fcc-applications
+
+   Hidden links:
+ 244. https://www.michiganradio.org/
+ 245. https://www.michiganradio.org/
+ 246. https://www.michiganradio.org/people/dustin-dwyer
+ 247. https://www.michiganradio.org/

@@ -1,0 +1,2375 @@
+   #[1]search [2]nature.com [3]nature.com
+
+   IFRAME: [4]https://collect.nature.com/ns.html?id=GTM-MRVXSHQ
+
+   [5]Skip to main content
+
+   Thank you for visiting nature.com. You are using a browser version with
+   limited support for CSS. To obtain the best experience, we recommend
+   you use a more up to date browser (or turn off compatibility mode in
+   Internet Explorer). In the meantime, to ensure continued support, we
+   are displaying the site without styles and JavaScript.
+
+   Advertisement
+   [6]Advertisement
+
+   [7]Nature Communications
+     * [8]View all journals
+     * [9]Search
+     * [10]Log in
+
+     * [11]Explore content
+     * [12]About the journal
+     * [13]Publish with us
+
+     * [14]Sign up for alerts
+     * [15]RSS feed
+
+    1. [16]nature
+
+     [17]nature communications
+
+     [18]articles
+
+     article
+
+   Nationwide geospatial analysis of county racial and ethnic composition
+   and public drinking water arsenic and uranium
+   [19]Download PDF
+
+   Your article has downloaded
+
+Similar articles being viewed by others
+
+   (BUTTON)
+
+   Carousel with three slides shown at a time. Use the Previous and Next
+   buttons to navigate three slides at a time, or the slide dot buttons at
+   the end to jump three slides at a time.
+
+[20]Safely managed drinking water services in the Democratic People's
+Republic of Korea: findings from the 2017 Multiple Indicator Cluster Survey
+
+   09 June 2020
+
+   Caetano C. Dorea, Tatjana Karaulac, ... Richard Johnston
+
+[21]A mass-balance model to assess arsenic exposure from multiple wells in
+Bangladesh
+
+   08 October 2021
+
+   Linden B. Huhmann, Charles F. Harvey, ... Alexander van Geen
+
+[22]Spatial assessment of tap-water safety in China
+
+   09 June 2022
+
+   Mengjie Liu, Nigel Graham, ... Wenzheng Yu
+
+[23]Urban river pollution control in developing countries
+
+   11 March 2019
+
+   Zuxin Xu, Jin Xu, ... Zhen He
+
+[24]Impact of land use/land cover changes on water quality and human health
+in district Peshawar Pakistan
+
+   16 August 2021
+
+   Waqas Ahmad, Javed Iqbal, ... Syed Adnan
+
+[25]Assessment of disinfection byproduct concentrations in tap water across
+China
+
+   09 June 2022
+
+[26]Influence of point-of-use dispensers on lead level assessment in drinking
+water of a lead pipe-free campus
+
+   29 September 2022
+
+   Saroj Adhikari, Yi-Pin Lin & Ding-Quan Ng
+
+[27]Ecological and health risk assessment of trace metals in water collected
+from Haripur gas blowout area of Bangladesh
+
+   02 August 2021
+
+   M. Farhad Howladar, Md. Numan Hossain, ... Debjani Das
+
+[28]Changes in Water and Sewage Management after Communism: example of the
+Oder River Basin (Central Europe)
+
+   15 April 2020
+
+   Wl/odzimierz Marszelewski & Adam Piasecki
+
+   [29]Download PDF
+
+     * Article
+     * Open Access
+     * [30]Published: 03 December 2022
+
+Nationwide geospatial analysis of county racial and ethnic composition and
+public drinking water arsenic and uranium
+
+     * [31]Irene Martinez-Morata  [32]ORCID:
+       orcid.org/0000-0003-3165-4931^[33]1,
+     * [34]Benjamin C. Bostick  [35]ORCID:
+       orcid.org/0000-0002-7513-6469^[36]2,
+     * [37]Otakuye Conroy-Ben  [38]ORCID:
+       orcid.org/0000-0001-8086-1625^[39]3,
+     * [40]Dustin T. Duncan^[41]4,
+     * [42]Miranda R. Jones^[43]5,
+     * [44]Maya Spaur^[45]1,
+     * [46]Kevin P. Patterson  [47]ORCID:
+       orcid.org/0000-0002-4915-556X^[48]1,
+     * [49]Seth J. Prins^[50]4,
+     * [51]Ana Navas-Acien^[52]1 &
+     * ...
+     * [53]Anne E. Nigra  [54]ORCID: orcid.org/0000-0002-5033-0345^[55]1
+
+   (BUTTON) Show authors
+
+   [56]Nature Communications volume 13, Article number: 7461 (2022)
+   [57]Cite this article
+     * 5333 Accesses
+     * 1 Citations
+     * 455 Altmetric
+     * [58]Metrics details
+
+Subjects
+
+     * [59]Environmental social sciences
+     * [60]Risk factors
+
+Abstract
+
+   There is no safe level of exposure to inorganic arsenic or uranium, yet
+   recent studies identified sociodemographic and regional inequalities in
+   concentrations of these frequently detected contaminants in public
+   water systems across the US. We analyze the county-level association
+   between racial/ethnic composition and public water arsenic and uranium
+   concentrations from 2000-2011 using geospatial models. We find that
+   higher proportions of Hispanic/Latino and American Indian/Alaskan
+   Native residents are associated with significantly higher arsenic and
+   uranium concentrations. These associations differ in magnitude and
+   direction across regions; higher proportions of non-Hispanic Black
+   residents are associated with higher arsenic and uranium in regions
+   where concentrations of these contaminants are high. The findings from
+   this nationwide geospatial analysis identifying racial/ethnic
+   inequalities in arsenic and uranium concentrations in public drinking
+   water across the US can advance environmental justice initiatives by
+   informing regulatory action and financial and technical support to
+   protect communities of color.
+
+Introduction
+
+   In some US populations, drinking water is a significant source of
+   exposure to inorganic arsenic and uranium, which are major
+   environmental exposures associated with cancer, cardiovascular disease
+   and other adverse health outcomes^[61]1,[62]2,[63]3,[64]4,[65]5,[66]6.
+   Inorganic arsenic (a metalloid) is a known human carcinogen, is
+   consistently ranked number one on the Centers for Disease Control and
+   Prevention (CDC)/Agency for Toxic Substances and Disease Registry's
+   (ATSDR) Substance Priority List^[67]7, and is also associated with
+   adverse birth outcomes, diabetes, metabolic disease, and cardiovascular
+   disease, even at low- to moderate- levels of exposure common in the US
+   population^[68]1,[69]3,[70]4,[71]8. While alpha radiation from uranium
+   decay is classified as carcinogenic, growing epidemiologic evidence
+   also indicates that uranium exposure is associated with chronic kidney
+   disease and is toxic to the respiratory, neurologic, and reproductive
+   systems^[72]2,[73]6,[74]9,[75]10. The US Environmental Protection
+   Agency (EPA) regulates both arsenic and uranium in US public drinking
+   water systems, including community water systems (CWSs) which serve
+   over 90% of residents year-round^[76]11. Although the US EPA sets a
+   maximum contaminant level (MCL) of 30 µg/L for uranium and 10 µg/L for
+   arsenic, EPA's non-enforceable maximum contaminant level goal for both
+   is 0 µg/L because there is no known safe level of exposure to either
+   inorganic arsenic or uranium (Denmark and the states of New Jersey and
+   New Hampshire set more health-protective arsenic MCLs of 5 µg/L, and
+   drinking water providers in the Netherlands adopted a voluntary
+   standard of 1 µg/L in 2016)^[77]12,[78]13,[79]14,[80]15.
+
+   Recent studies indicate that both metals are frequently detected in
+   CWSs and significant geographic and sociodemographic inequalities in
+   CWS concentrations exist across the US^[81]16,[82]17. CWSs reporting
+   the highest concentrations of arsenic and/or uranium were those serving
+   communities characterized as Hispanic/Latino or American Indian, those
+   located in the Central Midwest or Southwest, those serving incarcerated
+   populations in the Southwest, and those reliant on
+   groundwater^[83]16,[84]17,[85]18,[86]19. Structural racism likely
+   underlies these inequalities in drinking water quality; water
+   contaminant exposure disparities are driven by a complex, interactive,
+   multilevel system structured around the natural (e.g. hydrogeology,
+   climate, soil), built (e.g. agriculture, water infrastructure, land-use
+   patterns), and sociopolitical (e.g. regulatory policy, historical
+   settlement patterns) environments^[87]20,[88]21,[89]22,[90]23,[91]24.
+   These documented disparities in CWS-level arsenic and uranium across
+   sociodemographic subgroups underscore the need for robust geospatial
+   analyses of community-level racial/ethnic composition and drinking
+   water exposures to account for spatial dependency in CWS
+   concentrations, which can yield biased effect estimates in traditional
+   regression models^[92]25. Previously, nationwide studies evaluating
+   these associations were not possible because nationwide estimates of
+   contaminant concentrations were not available (distribution boundaries
+   are not publicly available for the majority of CWSs). However, our team
+   recently developed county-level, population-weighted estimates of
+   contaminant concentrations in CWSs across the US for the 2000-2011 time
+   period, which were developed from routine compliance monitoring records
+   (EPA requires CWSs to routinely monitor for regulated contaminants,
+   including arsenic and uranium)^[93]16,[94]17.
+
+   In this study, we examined the county-level association between
+   racial/ethnic composition (the proportion of residents belonging to a
+   given racial/ethnic group) and CWS arsenic and uranium concentrations
+   across the conterminous US using geospatial models. Our objectives were
+   to (a) evaluate the county-level distribution and spatial
+   autocorrelation of CWS arsenic and uranium, (b) assess the nationwide
+   county-level association between racial/ethnic composition and CWS
+   arsenic and uranium concentrations in geospatial models, and c)
+   quantify the strength, direction, and spatial stationarity of these
+   associations at the local level. We specifically assessed geometric
+   mean ratios in CWS metal concentrations per 10% higher proportion of
+   residents who were non-Hispanic Black, non-Hispanic White,
+   Hispanic/Latino, and American Indian/Alaskan Native. We predicted that
+   higher proportions of non-Hispanic White residents would be associated
+   with lower CWS arsenic and uranium concentrations (likely reflecting
+   white supremacy and structural racism related to public drinking water
+   infrastructure, investment decisions, and regulatory action that
+   specifically benefit non-Hispanic White communities, which have been
+   previously documented for some water
+   exposures)^[95]23,[96]24,[97]26,[98]27, and that higher proportions of
+   Hispanic/Latino and American Indian residents would be associated with
+   higher CWS arsenic and uranium concentrations (also consistent with
+   previous documented inequalities in public drinking water
+   infrastructure and regulatory action across population
+   groups)^[99]20,[100]23,[101]28,[102]29. We also anticipated that the
+   association between racial/ethnic composition and CWS arsenic and
+   uranium concentrations would be unique for each racial/ethnic group and
+   would differ in magnitude and direction of the association across
+   different regions of the US because of regional differences in
+   racial/ethnic composition, geologic context, urban vs rural landscapes,
+   and land-use patterns relevant for drinking water arsenic and uranium
+   concentrations. As a secondary analysis, we also assessed the
+   association between racial/ethnic composition and CWS selenium and
+   barium because these metals/metalloids are also regulated in CWSs by
+   the EPA, are frequently detected in CWSs, and previous studies found
+   significant inequalities in concentrations across sociodemographic and
+   regional groups in CWS-level analyses^[103]16 (although the health
+   impacts of chronic, low-level exposure to selenium and barium are less
+   clear^[104]5,[105]30,[106]31).
+
+   In this work, we show that higher proportions of Hispanic/Latino and
+   American Indian/Alaskan Native residents are associated with
+   significantly higher CWS arsenic and uranium concentrations at the
+   county-level, while higher proportions of non-Hispanic White residents
+   are associated with lower CWS arsenic and uranium concentrations. The
+   association between racial/ethnic composition and CWS arsenic and
+   uranium concentrations differs in magnitude and direction across
+   regions; higher proportions of non-Hispanic Black residents is
+   associated with higher CWS arsenic and uranium in regions where
+   concentrations of these contaminants are high. Findings from this study
+   can advance environmental justice initiatives by informing federal and
+   state-level infrastructure investments, financial and technical support
+   for CWSs, and additional regulatory action to protect communities
+   disproportionately exposed to major public drinking water contaminants.
+
+Results
+
+Spatial distribution and clustering of arsenic and uranium in CWSs
+
+   Our analysis uses previously developed, county-level,
+   population-weighted concentration estimates of CWS arsenic (2006-2011,
+   N = 2585 counties) and uranium (2000-2011, N = 1174
+   counties)^[107]16,[108]17. Maps showing the mean concentration
+   estimates of county-level CWS arsenic and uranium across the
+   conterminous US are presented in Fig. [109]1. Both county-level CWS
+   arsenic and uranium exhibited significant positive global spatial
+   autocorrelation (Moran's I = 0.62, p value < 0.001 for arsenic, and I =
+   0.68, p value < 0.001 for uranium). We next identified specific areas
+   of the US where spatial autocorrelation was present by assessing Local
+   Indicators of Spatial Association (LISA) clusters. We observed
+   significant High-High and Low-Low LISA clusters for both arsenic and
+   uranium, which are presented in Fig. [110]1. Areas with High-High
+   significant spatial autocorrelation for both arsenic and uranium were
+   located in the Midwest and Southwest (e.g. Nevada, California, Arizona,
+   New Mexico, Texas, Kansas, Nebraska) where CWS arsenic and uranium
+   concentrations are highest in underlying
+   groundwater^[111]16,[112]17,[113]32. Low-Low clusters for arsenic were
+   identified in the Southeast and Mid-Atlantic regions (e.g. Alabama,
+   Arkansas, North and South Carolina, Virginia, Kentucky). Low-Low
+   clusters for uranium were located in similar geographic areas, although
+   spatial coverage was poorer in the eastern US. We also identified
+   significant positive spatial autocorrelation for barium and selenium
+   (Supplementary Fig. [114]1).
+   Fig. 1: Nationwide spatial distribution of county-level community water
+   system (CWS) metal concentrations and local indicators of spatial
+   associations (LISA) clusters.
+   [115]figure 1
+
+   a Arsenic. b Uranium. County-level CWS metal concentrations were
+   originally developed and described by Nigra et al. (2020) and Ravalli
+   et al. (2022) and are categorized and colored in red scale. The highest
+   concentration categories correspond to the current MCL (10 µ/L for
+   arsenic and 30 µ/L for uranium). High-High LISA clusters are shown in
+   red, and Low-Low LISA clusters are shown in blue. Counties overlaid
+   with gray hatch marks are missing CWS metal concentration estimates.
+   All counties included in the analyses had at least 1 neighbor county.
+   [116]Full size image
+
+County-level sociodemographic characteristics and metal concentrations
+
+   Because we restricted our analysis of each racial/ethnic group to
+   counties with at least 100 residents of that group to avoid positivity
+   violations^[117]33 (i.e., the number of residents in a given
+   racial/ethnic subgroup should be greater than zero for all counties
+   analyzed or effect estimates would be extrapolated beyond the range of
+   actual values), the number of counties included in the analysis of each
+   racial/ethnic group differed (see Methods setion: Exclusion criteria).
+   Across the counties included in each racial/ethnic analysis and all
+   counties included in any analysis (N = 2653), we first described mean
+   county-level CWS arsenic and uranium concentrations, racial/ethnic
+   composition, and other county-level characteristics of interest
+   (Table [118]1). Nationwide, the county-level mean percentage of
+   residents belonging to each racial/ethnic group was 7% (non-Hispanic
+   Black), 2% (American Indian/Alaskan Native), 9% (Hispanic/Latino), and
+   80% (non-Hispanic White). In analyses for each racial/ethnic group, we
+   evaluated a total of 1881 (non-Hispanic Black), 1575 (American
+   Indian/Alaskan Native), 2401 (Hispanic/Latino), and 2653 (non-Hispanic
+   White) counties. Compared to counties included in any analysis,
+   counties included in the analysis for non-Hispanic Black residents had
+   lower mean CWS arsenic (1.17 µg/L vs. 1.42 µg/L) and uranium (2.5 µg/L
+   vs. 3.45 µg/L) concentrations, a lower percentage of CWSs reliant on
+   groundwater, and a lower percentage of the population living in rural
+   areas. Counties included in the analysis for American Indian/Alaskan
+   Native residents had larger population size and density and the lowest
+   percentage of the population living in rural areas. Counties included
+   in the analysis for Hispanic/Latino residents had higher mean CWS
+   uranium (3.38 µg/L vs. 3.45 µg/L) concentrations. No counties were
+   excluded for having <100 residents in the analysis for non-Hispanic
+   White residents, and therefore these counties are the same as all
+   counties included in any analysis.
+   Table 1 County-level mean estimated community water system (CWS) metal
+   concentrations and sociodemographic characteristics for all counties
+   included in any analysis (N = 2631 counties), and separately for
+   counties included in analyses specific to each racial/ethnic group
+   (counties with >100 residents of each racial/ethnic group)
+   [119]Full size table
+
+Spatial lag regression
+
+   To identify nationwide inequalities in CWS arsenic and uranium by
+   racial/ethnic composition, we quantified the association between
+   county-level racial/ethnic composition and CWS arsenic and uranium
+   separately for each of the four racial/ethnic groups using spatial lag
+   regression models with an autoregressive correlation structure to
+   account for spatial dependence (see Methods section: Statistical
+   analysis: spatial lag regression)^[120]34. We evaluated the geometric
+   mean ratios (GMRs) and corresponding percent differences in CWS arsenic
+   and uranium concentrations per a 10 percent higher proportion of
+   residents belonging to each racial/ethnic group in progressively
+   adjusted models (Table [121]2).
+   Table 2 Geometric mean ratios (95% CI) of county-level community water
+   system (CWS) arsenic and uranium concentrations per a 10 percent higher
+   proportion of non-Hispanic Black, American Indian/Alaskan Native,
+   Hispanic/Latino, and non-Hispanic White residents, from spatial lag
+   regression models
+   [122]Full size table
+
+   Our main model of interest (Model 1) adjusted for population density,
+   the percent of public drinking water sourced from groundwater supplies,
+   median household income, and the percent of adults with a high school
+   diploma. Effect estimates were considered statistically significant
+   when 95% confidence intervals did not cross the null (GMR of 1 and
+   percent change of 0). In fully adjusted models (Model 1), the percent
+   increase in the geometric mean (95% CI) of CWS metal concentrations per
+   10% higher proportion of Hispanic/Latino residents was 6% (4, 8) for
+   arsenic and 17% (13, 22) for uranium. For a 10% higher proportion of
+   American Indian/Alaskan Native residents, the percent increase in the
+   geometric mean (95% CI) of CWS metal concentration was 7% (3, 11) for
+   arsenic and 2% (-4, 8) for uranium. For a 10% higher proportion of
+   non-Hispanic Black residents, the percent decrease in the geometric
+   mean (95% CI) of CWS metal concentration was 8% (10, 6) for arsenic and
+   9% (13, 5) for uranium. The percent decrease in the geometric mean (95%
+   CI) of CWS metal concentrations for a 10% higher proportion of
+   non-Hispanic White residents was 1% (2, 0) for arsenic and 5% (8, 3)
+   for uranium. Models further adjusting for the composition of other
+   racial/ethnic groups yielded similar results (Model 2).
+
+   We performed several sensitivity analyses, all with similar findings.
+   Adjusting for the CDC/ATSDR's county-level index of socioeconomic
+   status^[123]35 (rather than median household income and the percent of
+   adults with a high school education) yielded similar findings,
+   supporting that the adjustment for income and education in Model 1
+   (derived from our conceptual framework in Supplementary Fig. [124]1)
+   was able to capture socioeconomic status. We conducted several
+   additional sensitivity analyses that also yielded robust findings,
+   including: further adjustment for the total number of non-Hispanic
+   White residents, using county-level 95th percentile CWS arsenic and
+   uranium concentrations (rather than the mean), assessing higher
+   proportions of residents in a given racial/ethnic group corresponding
+   to the interquartile range and 60% (rather than 10%), without
+   adjustment for population density, and after restriction to counties in
+   the western US where CWS arsenic and uranium are highest (see Methods:
+   Statistical analysis: spatial lag regression and Supplementary
+   Table [125]1). As a complementary analysis to our assessment of higher
+   proportions of non-Hispanic White residents, we also assessed the
+   association per a 10% higher proportion of all residents who were not
+   categorized as non-Hispanic White, including non-Hispanic Black,
+   American Indian/Alaskan Native, Hispanic/Latino, non-Hispanic Asian,
+   Native Hawaiian or Other Pacific Islander, and all residents in other
+   racial/ethnic categories. For a 10% higher proportion of these
+   residents (all residents who were not categorized as non-Hispanic
+   White), the percent increase in the geometric mean (95% CI) was 1% (-1,
+   3) for arsenic and 10% (6, 14) for uranium (results are shown in
+   Supplementary Table [126]2). Because this association persisted even
+   after combining all residents not categorized as non-Hispanic White,
+   these complementary findings support the general hypothesis and leading
+   theoretical framework on water exposure disparities- that white
+   supremacy and structural racism are associated with drinking water
+   inequalities^[127]23. However, the specific mechanisms underlying these
+   disparities (e.g., infrastructure investments or management decisions
+   specifically benefiting non-Hispanic White communities, etc.) are
+   beyond the scope of this analysis. Findings were also similar for
+   barium and selenium (Supplementary Table [128]3).
+
+Geographically weighted regression
+
+   To assess local inequalities in CWS arsenic and uranium by
+   racial/ethnic composition we next explored the strength and direction
+   of the association between racial/ethnic composition and CWS arsenic
+   and uranium, and evaluated spatial non-stationarity in the effect
+   estimates via geographically weighted regression models (see Methods
+   section: Statistical analysis: Geographically weighted regression).
+   County-specific coefficients from the geographically weighted
+   regression analysis for each racial/ethnic group and CWS arsenic and
+   uranium are displayed in Figs. [129]2 and [130]3, respectively. County
+   colors represent the magnitude of the local GMR of CWS metals for a 10%
+   higher proportion of residents in each specified racial/ethnic group,
+   with positive associations (GMR > 1) displayed in red and inverse (GMR
+   < 1) associations displayed in blue. Positive associations imply that
+   the CWS metal concentrations are higher in the county than predicted
+   from the regression model, potentially due to local-scale
+   heterogeneity.
+   Fig. 2: Direction and magnitude of the geometric mean ratio (GMR) of
+   county-level community water system (CWS) arsenic concentrations per 10
+   percent higher county proportion of non-Hispanic Black, American
+   Indian/Alaskan Native, Hispanic/Latino, and non-Hispanic White
+   residents from geographically weighted regression models.
+   [131]figure 2
+
+   Models were adjusted for population density, the percent of public
+   drinking water supplied from groundwater sources, median household
+   income, and the percent of residents with a high school diploma.
+   Counties with a positive effect estimate (GMR > 1) are shown in red
+   scale colors, counties with a negative effect estimate (GMR < 1) are
+   shown in blue scale colors, and counties where a null effect estimate
+   was observed are shown in white. Counties with missing data are shown
+   with light gray hatch marks. The number of counties included in the
+   geographically weighted regression analysis for each racial/ethnic
+   group were: non-Hispanic Black (n = 1848), American Indian/Alaskan
+   Native (n = 1522), Hispanic/Latino (n = 2341), and non-Hispanic White
+   (n = 2585). Photocopy-friendly versions of these maps (contrasts
+   visible in black and white) are available in Supplementary Fig. [132]8.
+   [133]Full size image
+   Fig. 3: Direction and magnitude of the geometric mean ratio (GMR) of
+   county-level community water system (CWS) uranium concentrations per 10
+   percent higher county proportion of non-Hispanic Black, American
+   Indian/Alaskan Native, Hispanic/Latino, and non-Hispanic White
+   residents from geographically weighted regression models.
+   [134]figure 3
+
+   Models were adjusted for population density, the percent of public
+   drinking water supplied from groundwater sources, median household
+   income, and the percent of residents with a high school diploma.
+   Counties with a positive effect estimate (GMR > 1) are shown in red
+   scale colors, counties with a negative effect estimate (GMR < 1) are
+   shown in blue scale colors, and counties where a null effect estimate
+   was observed are shown in white. Counties with missing data are shown
+   with light gray hatch marks. The number of counties included in the
+   geographically weighted regression analysis for each racial/ethnic
+   group were: non-Hispanic Black (n = 832), American Indian/Alaskan
+   Native (n = 778), Hispanic/Latino (n = 1170), and non-Hispanic White (n
+   = 1174). Photocopy-friendly versions of these maps (contrasts visible
+   in black and white) are available in Supplementary Fig. [135]8.
+   [136]Full size image
+
+   We observed spatial non-stationarity in the associations between
+   racial/ethnic composition and CWS metal concentrations for all
+   racial/ethnic groups for both arsenic and uranium, with different
+   associations at the local level for each racial/ethnic group. Although
+   the GMRs of CWS metal concentrations per a 10 percent higher proportion
+   of non-Hispanic Black residents were inverse in nationwide spatial lag
+   regression models (Table [137]2), geographically weighted regression
+   indicated a positive association for CWS arsenic and uranium in areas
+   where these CWS concentrations are high (particularly in the southwest,
+   see Fig. [138]1). This was particularly evident for arsenic in western
+   Texas, Arizona, California, Nevada, Utah, Oregon, and Washington, and
+   for uranium in Arizona, California, Nevada, Oregon, and Oklahoma where
+   we observed positive associations of higher magnitude (Figs. [139]2 and
+   [140]3). Similarly, we observed a positive association between higher
+   proportions of American Indian/Alaskan Native residents and CWS arsenic
+   and uranium in the Northern Plains and in the west, particularly across
+   Oregon, Washington, Montana, North Dakota and South Dakota, Minnesota,
+   and Wisconsin for arsenic, and California, Nevada, Oregon, North
+   Dakota, and Wisconsin for uranium. Findings for Hispanic/Latino
+   residents were more consistent with findings from global spatial lag
+   models, with significant, positive associations between higher
+   proportions of Hispanic/Latino residents and CWS arsenic and uranium
+   across most of the conterminous US. As anticipated, we observed higher
+   model goodness-of-fit in areas with higher CWS metal concentrations and
+   better spatial coverage of CWS arsenic and uranium estimates
+   (Supplementary Figs. [141]3 and [142]4). Associations and
+   goodness-of-fit for selenium and barium also differed locally and are
+   presented in Supplementary Figs. [143]5 and [144]6.
+
+Discussion
+
+   Our study provides new evidence that racial/ethnic composition is
+   associated with public drinking water arsenic and uranium
+   concentrations, adding to a growing body of literature characterizing
+   nationwide environmental and racial injustices in US public drinking
+   water
+   contaminants^[145]16,[146]17,[147]18,[148]19,[149]20,[150]26,[151]27,[1
+   52]28,[153]29. Although our analysis was informed by a strong
+   conceptual framework (see Supplementary Fig. [154]1) and other
+   previously well-developed frameworks describing how disparities in
+   drinking water exposures result from structural and environmental
+   racism^[155]20,[156]21,[157]22,[158]23,[159]24, our study is
+   descriptive in nature and is not intended to identify mechanisms by
+   which racial/ethnic public water concentration disparities were created
+   or reinforced.
+
+   As predicted, nationwide analyses indicated that a higher proportion of
+   non-Hispanic White residents was associated with lower CWS arsenic and
+   uranium, while a higher proportion of Hispanic/Latino and American
+   Indian/Alaskan Native residents was associated with higher CWS arsenic
+   and uranium. These findings remained robust across several sensitivity
+   analyses considering alternative adjustment approaches and alternative
+   magnitudes of change in racial/ethnic composition, and are also
+   consistent with previous studies utilizing non-geospatial approaches at
+   the water system level^[160]20,[161]26,[162]29. These findings likely
+   reflect structural environmental racism and white supremacy and
+   privilege.
+
+   Structural racism refers to the "totality of ways in which societies
+   foster racial discrimination, through mutually reinforcing inequitable
+   systems (in housing, education, employment, earnings, benefits, credit,
+   media, health care, criminal justice, and so on)"^[163]36,[164]37.
+   Structural racism serves to maintain white supremacy, in part, by
+   amassing resources for and benefiting white communities to the
+   detriment of communities of color^[165]38,[166]39,[167]40. Extensive
+   research in the fields of sociology and epidemiology support that
+   racism is a fundamental cause of disease and producer of health
+   inequalities across racial/ethnic groups^[168]41,[169]42,[170]43.
+   Structural racism produces health inequalities for marginalized
+   communities through numerous mechanisms, including through the creation
+   and perpetuation of inequalities in toxic environmental exposures,
+   social determinants of health, and other psychosocial
+   stressors^[171]36,[172]37,[173]39,[174]44,[175]45,[176]46. Prior
+   studies identifying the specific mechanisms underlying water
+   inequalities are abundant, although responsible mechanisms differ
+   across contaminants, geographic regions, and the sociodemographic
+   characteristics of impacted communities. Briefly, previous studies have
+   identified community linguistic isolation, selective enforcement of
+   drinking water regulations, the underbounding of communities of color
+   from municipal boundaries and water services, and the direct
+   withholding of resources and infrastructure investments as examples of
+   mechanisms responsible for producing and maintaining inequalities in
+   exposure to regulated drinking water
+   contaminants^[177]23,[178]26,[179]47,[180]48,[181]49. For example,
+   inequalities in public water lead exposure are related to changes in
+   water supply sources, corrosion control, service line infrastructure
+   investments, and targeted tap sampling for compliance
+   monitoring^[182]32,[183]50,[184]51,[185]52,[186]53. Similar mechanisms
+   may underlie the unequal distribution of arsenic and uranium
+   concentrations in CWS observed in this study, although additional
+   research is needed to evaluate those mechanisms in detail.
+
+   Consistent with our other prediction that these associations would
+   differ across geographic regions due to underlying geologic context,
+   (i.e., water metal concentrations are influenced by natural composition
+   of rocks and soil, and anthropogenic contamination from industrial
+   activity, mining, agriculture)^[187]2,[188]3,[189]5 we found larger
+   effect estimates from geographically weighted regression models in the
+   southwestern US where water arsenic and uranium are high, and smaller
+   effect estimates in other regions where these concentrations of these
+   contaminants are low (i.e., the southeast). Taken together, these
+   findings also suggest that communities with higher proportions of
+   Hispanic/Latino and American Indian/Alaskan Native residents may be
+   served by public water systems with elevated concentrations of other
+   contaminants that were not evaluated in the present study, especially
+   for contaminants that are present at meaningful concentrations in the
+   geographic area.
+
+   There are several potential explanations for the observed inverse
+   relationship between the proportion of non-Hispanic Black residents and
+   CWS arsenic and uranium concentrations in nationwide analyses. First,
+   nationwide, non-Hispanic Black residents are more likely to live in
+   urban areas^[190]54,[191]55, and therefore may be more likely served by
+   large urban CWSs which have higher economies of scale and can implement
+   more health protective water treatment systems and decisions. Cities
+   with higher proportions of non-Hispanic Black residents are also more
+   likely located in the eastern and southeastern US, where CWS arsenic
+   concentrations are low. Although the majority of Hispanic/Latino
+   residents also live in urban areas, these residents are also more
+   likely to live in the southwestern US where groundwater arsenic and
+   uranium concentrations are naturally high^[192]19,[193]56,[194]57. This
+   explanation is supported by our findings from geographically weighted
+   regression (Figs. [195]2 and [196]3) and the analyses restricted to
+   western counties (Supplementary Table [197]1), which indicated that a
+   higher proportion of non-Hispanic Black residents was associated with
+   higher CWS arsenic and uranium in the southwest, but not in the
+   southeast where arsenic and uranium water concentrations are low
+   (Fig. [198]1). These findings suggest that racial/ethnic inequalities
+   in public water contaminant exposures may be more likely or more severe
+   in geographic regions with both a high percentage of public water users
+   of the specified racial/ethnic group and relatively high concentrations
+   of specific contaminants in source water. Additional public water
+   contaminants beyond metals should be also assessed, as these will
+   likely display different nationwide geographic patterns which may
+   overlap with areas where a majority of residents are non-Hispanic
+   Black^[199]23,[200]24. Future studies should assess these differences
+   in analyses stratified by urban/rural areas to evaluate these potential
+   explanations. Additionally, in areas of the US where non-Hispanic Black
+   and American Indian communities rely heavily on private wells (the
+   rural southeast and the rural Great Plains and southwest,
+   respectively), public water systems may predominantly serve
+   non-Hispanic White residents. Therefore, it is possible that the
+   current analysis may underestimate the impact of community
+   racial/ethnic composition on public water arsenic and uranium for both
+   non-Hispanic Black and American Indian communities in these particular
+   areas.
+
+   Across all analyses, our findings were largely consistent for arsenic
+   and uranium, likely reflecting the clustering and co-occurrence of
+   arsenic and uranium in public water systems which has been previously
+   described in detail^[201]16. The co-occurrence of arsenic and uranium
+   has been documented in both regulated and unregulated water
+   supplies^[202]16,[203]19,[204]32,[205]58,[206]59, and may be related to
+   carbonate complexes increasing the solubility of arsenic and uranium,
+   and/or the presence of bicarbonate ions in oxic water sources
+   (bicarbonate ions may be especially relevant for the continued
+   co-occurrence of arsenic and uranium in treated
+   water)^[207]60,[208]61,[209]62.
+
+   Our findings are particularly relevant to public health because there
+   is no safe level of exposure to inorganic arsenic and
+   uranium^[210]2,[211]3. At moderate to high levels of exposure,
+   inorganic arsenic is associated with a number of adverse health
+   outcomes including diabetes, lung disease, neurologic effects, kidney
+   disease, and birth outcomes including low birth weight and impaired
+   neurodevelopment; inorganic arsenic is also associated with
+   cardiovascular disease and increased oxidative stress even at low to
+   moderate exposure levels common in the US
+   population^[212]1,[213]5,[214]63,[215]64,[216]65,[217]66. Uranium
+   exposure is associated with kidney disease, including kidney cancer,
+   and neurologic and cardiovascular disease, although evidence for other
+   adverse health outcomes is more
+   limited^[218]2,[219]6,[220]9,[221]10,[222]67. Although the effect
+   estimates described in the current study are small to modest, their
+   public health implications may be substantial when considered across
+   the entire population. Several studies have identified disparities in
+   health outcomes across racial/ethnic groups that are related to uranium
+   and arsenic exposure. For example, American Indian/Alaskan Native
+   populations experience substantially higher rates of kidney cancer
+   compared to non-Hispanic White populations, especially in the
+   Southwestern US where uranium exposures and co-exposures to arsenic and
+   other metal mixtures are relatively high as a result of the uranium
+   mining activity that occurred over the past
+   century^[223]19,[224]58,[225]59,[226]68. For example, the mean uranium
+   concentration in urine (biomarker of internal dose) among pregnant
+   women living in the American Indian Reservations in the Southwest is
+   2.67-2.8 times higher compared to the general US population^[227]69.
+
+   Our study has several limitations. First, our nationwide evaluation of
+   the county-level association between racial/ethnic composition and CWS
+   metal concentrations may mask associations operating at finer
+   geographic resolutions (e.g. within states, or across Census blocks or
+   zip-codes)^[228]21,[229]70. We were not able to evaluate these
+   associations at finer geographic resolutions because nationwide CWS
+   concentration estimates are not yet available at these levels of
+   aggregation (there is currently no publicly available, nationwide map
+   of public drinking water system distribution boundaries that can be
+   used to generate concentration estimates at these resolutions). Future
+   studies at smaller spatial scales and with finer geographic resolution
+   may also address the substantial differences in county size across the
+   US. Larger county sizes may lead to larger measurement error, which may
+   especially impact findings in the western US compared to the eastern US
+   where counties areas are smaller. One recent study at the Census-block
+   level in California also found significant associations between higher
+   proportions of residents of color and drinking water arsenic
+   concentrations, suggesting that these associations are likely also
+   present for other states in the southwestern US^[230]71. Although some
+   studies have evaluated sociodemographic characteristics of the
+   "city-served" by CWSs, which is reported in the US EPA's Safe Drinking
+   Water Information System (SDWIS), approximately half of all public
+   water systems did not report "city-served" in SDWIS^[231]24,[232]72. In
+   future studies, available water system distribution maps can be used to
+   determine if "city-served" as reported in SDWIS provides a reasonable
+   approximation of water system distribution boundaries nationwide.
+
+   Second, although our nationwide, county-level analysis was intended to
+   minimize selection bias, we restricted our analyses to counties with at
+   least 100 residents in the racial/ethnic group of interest to avoid
+   positivity violations, and this may have introduced selection bias.
+   Counties excluded from analysis under this criterion had smaller
+   population sizes, lower population densities, a higher percentage of
+   residents living in rural areas, higher proportions of non-Hispanic
+   White residents, and higher CWS arsenic and uranium concentrations
+   (Supplementary Table [233]4). We did not assess associations for Asian
+   and Native Hawaiian or Pacific Islander groups because no counties had
+   >60% of residents for these groups. Future analyses can assess these
+   associations at finer geographic resolutions, restricted to areas with
+   larger populations of interest. We relied on Census bridged race
+   categorized data, which does not capture several domains of
+   racial/ethnic composition and could lead to misclassification. In
+   addition, our analyses for uranium were limited by the relatively poor
+   spatial coverage in CWS uranium concentration estimates, especially for
+   the eastern and southeastern US. The CWS uranium concentrations used
+   here are based on the most recently available CWS uranium monitoring
+   records made publicly available by EPA, and are to our knowledge the
+   most complete estimates currently available. Future studies can improve
+   upon these estimates when EPA releases additional compliance monitoring
+   records for the Fourth Six Year Review (expected 2023).
+
+   Future studies should also evaluate the association between
+   racial/ethnic segregation and inequalities in CWS metal concentration
+   estimates, especially because prior analyses of noise exposure^[234]70
+   and air pollution^[235]21,[236]73,[237]74 indicate that racial/ethnic
+   segregation is associated with exposure inequalities. Geographically
+   weighted regression indicated a positive association between larger
+   proportions of non-Hispanic Black residents and CWS arsenic in parts of
+   west Texas and the Midwest. These findings suggest that additional
+   analyses at a finer geographic resolution should focus specifically on
+   these particularly vulnerable geographic areas where metals in CWSs and
+   soil are particularly high (public water system distribution boundaries
+   are also publicly available for many of these states). Future analyses
+   should also assess whether changes in racial/ethnic composition and
+   migration patterns over time are associated with changes in CWS arsenic
+   and uranium concentrations over time.
+
+   Current US public drinking water infrastructure, management, and
+   regulatory action does not adequately protect communities of color from
+   elevated contaminant exposures. Recent federal infrastructure
+   investment proposals have suggested targeting financial and technical
+   support to small public water systems in rural and tribal areas, which
+   experience substantial difficulties in achieving lower contaminant
+   concentrations^[238]75. Findings from our current study add to a
+   mounting body of evidence supporting that financial and technical
+   support, infrastructure investments, and regulatory action must be
+   directed towards supporting communities with larger populations of
+   American Indian/Alaskan Native, Hispanic/Latino, and non-Hispanic Black
+   residents. Given the known inequalities in public drinking water lead
+   exposure for non-Hispanic Black communities across the US, specific and
+   additional financial and technical support should also be directed to
+   public water systems serving these communities to reduce elevated water
+   concentrations and associated health outcomes. Racial/ethnic
+   inequalities in public drinking water arsenic and uranium
+   concentrations are unacceptable, and further research is needed to
+   identify the specific mechanisms by which structural racism is
+   operating to result in concentration inequalities for multiple
+   regulated drinking water contaminants.
+
+Methods
+
+County-level public drinking water metal concentrations
+
+   We utilized previously developed, county-level, population-weighted
+   concentration estimates of arsenic, uranium, selenium, and barium
+   concentrations in CWSs across the US, which were previously developed
+   and described in detail^[239]17. These concentration estimates are
+   based on the most recent publicly available nationwide monitoring data
+   for public water systems. Briefly, county-level CWS metal concentration
+   estimates were developed using routine compliance monitoring records
+   compiled by the US Environmental Protection Agency's (EPA) for the
+   National Contaminant Occurrence Database supporting the Second and
+   Third Six Year Review (SYR)^[240]76. The SYR database contains routine
+   compliance monitoring records voluntarily submitted to EPA by primacy
+   agencies including states and tribal authorities^[241]77,[242]78. CWS
+   metal concentrations were averaged within a six-year period (2006-2011)
+   for arsenic, selenium, and barium and within an eleven-year period
+   (2000-2011) for uranium. These three- and eleven-year averages yield
+   unbiased concentration estimates by accounting for the different
+   compliance monitoring periods defined by EPA's Standardized Monitoring
+   Framework requirements for arsenic (regulated under the Chemical
+   Contaminants Rule and the Final Arsenic Rule) and for uranium
+   (regulated under the Radionuclides Rule)^[243]17. Average metal
+   concentrations at the county-level were calculated by weighing the
+   average concentration for each CWS within the county by the size of the
+   population served by each CWS. County-level CWS metal averages are
+   missing when a) no compliance monitoring records were submitted for
+   that county to the SYR, or b) CWSs serving that county reported serving
+   <50% of the public-water reliant population in the entire
+   county^[244]17. All county-level CWS metal variables were right skewed
+   and natural log-transformed for analysis.
+
+County-level racial/ethnic composition and sociodemographic data
+
+   County-level racial/ethnic composition variables were derived from 2010
+   US Census Population Estimates and included the proportion of residents
+   who are American Indian or Alaskan Native (hereafter referred to as
+   American Indian/Alaskan Native), non-Hispanic Asian, Native Hawaiian or
+   Other Pacific Islander, Hispanic or Latino (hereafter referred to as
+   Hispanic/Latino), non-Hispanic Black or African American (hereafter
+   referred to as non-Hispanic Black), and non-Hispanic White. We selected
+   sociodemographic variables from time periods that overlapped with the
+   time period of the CWS arsenic and uranium concentration estimates
+   (2006-2011). The percent of adults with a high school diploma was
+   derived from the 2007-2011 US Census American Community Survey. Median
+   household income was derived from the 2011 Small Area Income and
+   Poverty Estimates and 2010-2011 National Center for Education
+   Statistics data. We also downloaded the CDC/ATSDR's 2014 county-level
+   index for socioeconomic status, which we adjusted for in sensitivity
+   analyses rather than adjusting for median household income and the
+   percent of adults with a high school diploma (the CDC's county-level
+   index for socioeconomic status is a rank-order index for all counties
+   in the US based on the percent of adults living below the federal
+   poverty line, the percent of unemployed adults, median household
+   income, and the percent of adults without a high school
+   diploma)^[245]35. Although other variables which reflect socioeconomic
+   status were available and are likely related to both racial/ethnic
+   composition and CWS metal concentrations (such as the percent of the
+   population living in rural areas, the percent of residents without
+   health insurance, percent unemployment, percent of children eligible
+   for free lunch, and percent of children living below poverty level),
+   these variables did not open biasing paths on our conceptual diagram
+   (Supplementary Fig. [246]1), and we therefore did not adjust for them.
+   County total population and population density (population per square
+   mile) were also retrieved from the 2010 US Census. We estimated the
+   percent of public drinking water supplied by groundwater sources
+   (versus surface water sources) from estimates of total groundwater and
+   surface water withdrawn for public drinking water calculated by the US
+   Geological Survey for 2010 (we used 2015 estimates for 20 counties
+   which were missing estimates in 2010; the Spearman correlation
+   coefficient between estimates for the two years was
+   0.93)^[247]56,[248]57. A full description of all county-level variables
+   used in this analysis is available in Supplementary Table [249]5. All
+   data management and analysis were conducted in R version 4.0.3, except
+   the assessment of spatial autocorrelation which was conducted in GeoDa
+   version 1.18.0. For visualization, maps were generated in QGIS version
+   3.10.
+
+Exclusion criteria
+
+   We restricted our analysis to conterminous US counties/county
+   equivalents (N = 3158) because counties in Alaska and Hawaii have few
+   neighboring counties and unique geological contexts impacting water
+   contaminant concentrations. We further excluded 473 counties that did
+   not have CWS concentration estimates available for either arsenic or
+   uranium, 34 counties missing the percent of public drinking water
+   supplied by groundwater sources, and 20 counties missing the percent of
+   adults with a high school diploma. The county level CWS metal
+   concentration estimates and sociodemographic characteristics for
+   counties excluded from our analyses are presented in (Supplementary
+   Table [250]4). After these exclusions, the total number of counties
+   with CWS metal concentration estimates available was N = 2585 for
+   arsenic and N = 1174 for uranium. No counties were missing
+   racial/ethnic composition variables. We further restricted our analysis
+   to assessing the association between county-level racial/ethnic
+   composition and public drinking water metal concentrations for the
+   proportion of non-Hispanic Black, American Indian/Alaskan Native,
+   Hispanic/Latino, and non-Hispanic White residents. Analyses were
+   conducted separately for each of the five racial/ethnic groups. We
+   further restricted our analyses to counties with at least 100 residents
+   in the racial/ethnic group of interest because very small population
+   numbers could violate positivity assumptions (i.e., for some counties,
+   the proportion of residents of a given racial/ethnic group would be
+   zero or very near zero, and therefore effect estimates would be
+   extrapolated beyond the range of actual values), or bias results if
+   small increases in the absolute number of residents resulted in large
+   percentage differences^[251]33. We selected 100 as the cut-point
+   assuming most public water systems serve at least 25 households with an
+   average of four residents per household (EPA defines public water
+   systems as those that serve at least 15 service connections or 25
+   people at least 60 days per year)^[252]79. We did not evaluate
+   associations for the proportion of non-Hispanic Asian and Native
+   Hawaiian or Other Pacific Islander residents because no conterminous US
+   counties had >60% of residents in these categories, a common cut-point
+   to identify racial/ethnic majority areas in prior literature^[253]80.
+
+Statistical analysis: descriptive data analysis
+
+   To describe sociodemographic differences and differences in public
+   drinking water metal concentrations across all counties in our analysis
+   versus the counties included in the analysis for each racial/ethnic
+   group, we described mean county-level CWS arsenic and uranium,
+   concentrations, population size, population density, the percent of
+   public drinking water supplied from groundwater sources, median
+   household income, the percent of residents with a high school diploma,
+   the percent of the population living in rural areas, and racial/ethnic
+   composition across these county categories and presented them in
+   Table [254]1. We also compared these characteristics across counties
+   that were excluded from analysis to assess potential selection bias
+   (Supplementary Table [255]4).
+
+Statistical analysis: assessing spatial clustering
+
+   We first explored spatial autocorrelation (spatial dependence) in
+   county-level CWS metal concentration estimates across the US. We used a
+   simple contiguity first order queen weighting matrix with binary values
+   identifying neighbors (i = 1) and non-neighbors (i = 0). Counties with
+   no neighbors were excluded. We evaluated the county-level association
+   between the five racial/ethnic composition variables and CWS mean
+   arsenic and uranium concentrations in 8 separate ordinary least squares
+   (OLS) linear models, regressing each CWS metal on each of the four
+   racial/ethnic composition variables (proportion of non-Hispanic Black,
+   American Indian/Alaskan Native, Hispanic/Latino, and non-Hispanic White
+   residents). To assess global spatial autocorrelation, we visually
+   assessed the residuals from each OLS model and assessed Moran's I
+   residual scatterplots and statistics for each CWS metal. The Moran's I
+   statistic is the coefficient of best fit associated with the OLS line
+   of best fit for each local unit's (i) standardized value plotted
+   against the local unit's identified neighborhood (j) standardized
+   average value of CWS metal concentration. To assess local spatial
+   autocorrelation, we examined Local Indicators of Spatial Association
+   (LISA) statistics, where every local unit's (I[i]) LISA score is the
+   product of the standardized units' value (z[i]) relative to the average
+   standard local values, multiplied by the sum of the weight matrix value
+   times the neighborhood average value^[256]80.
+
+Statistical analysis: spatial lag regression
+
+   Because OLS residuals, Moran's I scatterplots, and Moran's I statistics
+   (p < 0.001) all indicated global spatial autocorrelation for arsenic
+   and uranium, and ignoring spatial autocorrelation violates assumptions
+   of independence and can bias effect estimates^[257]34, we further
+   assessed whether a spatial error or spatial lag model was most
+   appropriate for our data using the Lagrange (Lag) Multiplier
+   diagnostics function (lm.LMtest) in R using the package "spatialreg". A
+   significant spatial lag or error term indicate that the residuals
+   across spatial locations are correlated. Both the spatial lag and
+   spatial error models returned p-values < 0.001, but we concluded that
+   the spatial lag model was preferable to the spatial error model because
+   the model estimates were larger^[258]81. A description of these
+   diagnostic assessments for the OLS and spatial lag regression models
+   are available in Supplementary Table [259]6.
+
+   To quantify the association between county-level racial/ethnic
+   composition and CWS metal concentrations, we evaluated spatial lag
+   regression models with an autoregressive correlation structure
+   separately for CWS arsenic and uranium concentrations and for each of
+   the five racial/ethnic composition variables in R using the lagsarlm
+   function from the "spatialreg" package^[260]82. We assessed the
+   geometric mean ratio (GMR) and corresponding percent difference of CWS
+   arsenic and uranium concentrations per 10% higher proportion of
+   residents classified as non-Hispanic Black, American Indian/Alaskan
+   Native, Hispanic/Latino, and non-Hispanic White. Fully adjusted models
+   (Model 1) were adjusted for population density, the percent of public
+   drinking water sourced from groundwater supplies, median household
+   income, the percent of adults with a high school diploma. Model 2
+   further adjusted for the proportion of the other racial/ethnic groups
+   except for the proportion of non-Hispanic White residents. This
+   "leave-one-out" modeling approach is useful when proportional variables
+   sum to nearly 100% and higher proportions of one component occur
+   simultaneously with lower proportions of at least one other component
+   (this approach has been used in studies assessing arsenic metabolism,
+   cell type ratios, and nutritional epidemiology)^[261]83. An example of
+   the interpretation of the coefficient of interest from these models is
+   as follows: in models assessing the proportion of Hispanic/Latino
+   residents as the primary exposure, the coefficient for the proportion
+   of Hispanic/Latino residents estimates the geometric mean ratio of CWS
+   metal concentrations per 10% higher proportion of Hispanic/Latino
+   residents because the proportion of non-Hispanic White residents is
+   lower, controlling for the proportion of non-Hispanic Black and
+   American Indian/Alaskan Native residents. We selected non-Hispanic
+   White as the "leave-one-out" group because structural racism privileges
+   and benefits this population group and we predicted that counties with
+   lower proportions of these residents would have higher CWS metal
+   concentrations. Because effect estimates from Model 1 and Model 2 were
+   very similar, we selected the more parsimonious Model 1 as the main
+   model of interest.
+
+   We performed several sensitivity analyses. First, we repeated the
+   analyses adjusting for Model 1 covariates and the total number of
+   non-Hispanic White residents, with similar findings (results not
+   shown). Second, we repeated the analyses using the county-level
+   weighted 95^th percentile public drinking water metal concentrations
+   (instead of the natural log-mean estimates), with similar findings
+   although effect estimates were generally stronger (results not shown).
+   Third, we repeated the analyses by assessing the geometric mean ratio
+   of CWS arsenic and uranium per change in the proportion of a given
+   racial/ethnic group that corresponds to (a) a 60% higher proportion of
+   residents, a common cut-point to identify racial/ethnic majority areas
+   in prior literature^[262]80, and (b) the value corresponding to the
+   interquartile range for the proportion of residents in the specified
+   racial/ethnic group, with similar findings for both approaches
+   (Supplementary Table [263]1). Fourth, we repeated the spatial lag
+   regression evaluating the association for higher proportions of
+   American Indian/Alaskan Native residents without adjusting for
+   population density because many communities and counties with a large
+   proportion of these residents have relatively low population density
+   (effect estimates for both arsenic and uranium were similar but
+   stronger, results not shown). Fifth, we repeated our analyses after
+   restricting to counties in the western US where county-level CWS
+   arsenic and uranium estimates are highest (we defined the western US as
+   Washington, Oregon, Idaho, Montana, Wyoming, North Dakota, South
+   Dakota, Nebraska, Kansas, Oklahoma, Texas, New Mexico, Colorado, Utah,
+   Arizona, Nevada, and California). Analyses restricted to western US
+   generally yield similar findings although positive associations were
+   identified for 10% higher proportions of non-Hispanic Black residents
+   and uranium. However, these findings were limited by the small sample
+   size (n = 296 counties; Supplementary Table [264]1). Finally, to
+   complement our analyses assessing higher proportions of non-Hispanic
+   White residents, we assessed the associations per a 10% higher
+   proportion of all residents who were not categorized as non-Hispanic
+   White, including non-Hispanic Black, American Indian/Alaskan Native,
+   Hispanic/Latino, non-Hispanic Asian, Native Hawaiian or Other Pacific
+   Islander, and all residents in other racial/ethnic categories. This
+   sensitivity analysis is specifically intended to evaluate the
+   prediction that higher proportions of non-Hispanic White residents is
+   associated with lower CWS metal concentrations.
+
+Statistical analysis: geographically weighted regression
+
+   To explore the strength and direction of the association between
+   county-level racial/ethnic composition and CWS arsenic and uranium
+   concentrations and evaluate spatial non-stationarity in the effect
+   estimates, we conducted geographically weighted regression using the
+   "GWmodel" package in R version 4.0.3^[265]84. Geographically weighted
+   regression models are exploratory, Gaussian-like, distance-based models
+   that incorporate a spatial weighting function, combine geographic and
+   attribute information, and obtain location-specific results. This
+   approach provides a different regression output for each individual
+   county, which allow us to assess variation across space in both (a) the
+   magnitude and direction of the effect of racial/ethnic composition on
+   CWS metal concentration, and (b) model goodness-of-fit. We ran separate
+   geographically weighted regression models reproducing the separate
+   models for CWS arsenic and uranium and for each of the four
+   racial/ethnic groups that we previously assessed with global spatial
+   lag regression models. Models were fully adjusted for population
+   density, the percent of public drinking water sourced from groundwater
+   supplies, median household income, and the percent of adults with a
+   high school diploma (Model 1).
+
+Reporting summary
+
+   Further information on research design is available in the [266]Nature
+   Portfolio Reporting Summary linked to this article.
+
+Data availability
+
+   All data used in this analysis are publicly available. The CWS metal
+   concentration data are available at:
+   [267]https://github.com/annenigra/US-PublicWaterSystem-Metal-Estimates.
+   An interactive map of county-level CWS metal concentrations is also
+   available at: [268]https://msph.shinyapps.io/drinking-water-dashboard/.
+   County-level racial/ethnic composition and county-level
+   sociodemographic data are available at:
+   [269]https://www.census.gov/library/publications/2011/compendia/usa-cou
+   nties-2011.html and:
+   [270]https://www.countyhealthrankings.org/explore-health-rankings/ranki
+   ngs-data-documentation/national-data-documentation-2010-2018. The CDC
+   Social Vulnerability Index data are available at:
+   [271]https://www.atsdr.cdc.gov/placeandhealth/svi/data_documentation_do
+   wnload.html. Data on the percent of public drinking water supplied by
+   groundwater sources are available at:
+   [272]http://pubs.er.usgs.gov/publication/cir1405. A full description of
+   all county-level variables used in this analysis is available in
+   Supplementary Table [273]5. Documentation of the data sources and
+   processed data is available in the following GitHub repository:
+   [274]https://github.com/annenigra/race-ethnicity-water-metals.
+
+Code availability
+
+   Replication code and the full dataset required to reproduce the results
+   are maintained in the following GitHub repository^[275]85:
+   [276]https://doi.org/10.5281/zenodo.7301984.
+
+References
+
+    1. Moon, K. A. et al. A dose-response meta-analysis of chronic arsenic
+       exposure and incident cardiovascular disease. Int. J. Epidemiol.
+       46, 1924-1939 (2017).
+       [277]Article  [278]PubMed  [279]PubMed Central  [280]Google
+       Scholar
+    2. Agency for Toxic Substances and Disease Registry (ATSDR).
+       Toxicological Profile For Uranium.
+       [281]https://wwwn.cdc.gov/TSP/ToxProfiles/ToxProfiles.aspx?id=440&t
+       id=77 (2013).
+    3. Agency for Toxic Substances and Disease Registry (ATSDR).
+       Toxicological Profile For Arsenic.
+       [282]https://wwwn.cdc.gov/TSP/ToxProfiles/ToxProfiles.aspx?id=22&ti
+       d=3 (2007).
+    4. Tellez-Plaza, M., Guallar, E. & Navas-Acien, A. Environmental
+       metals and cardiovascular disease. BMJ. 362, k3435 (2018).
+    5. Navas-Acien, A. & Tellez-Plaza, M. Metals and Health: Science and
+       Practice. Maxcy-Rosenau-Last Public Health & Preventive Medicine
+       (BMcGraw Hill, 2022).
+    6. Wang, S. et al. A review of uranium-induced reproductive toxicity.
+       Biol. Trace Elem. Res 196, 204-213 (2020).
+       [283]Article  [284]PubMed  [285]CAS  [286]Google Scholar
+    7. Agency for Toxic Substances and Disease Registry (ATSDR). Substance
+       Priority List. [287]https://www.atsdr.cdc.gov/spl/index.html
+       (2020).
+    8. Nigra, A. E., Moon, K. A., Jones, M. R., Sanchez, T. R. &
+       Navas-Acien, A. Urinary arsenic and heart disease mortality in
+       NHANES 2003-2014. Environ. Res. 200, 111387 (2021).
+       [288]Article  [289]PubMed  [290]PubMed Central  [291]CAS
+       [292]Google Scholar
+    9. Ma, M., Wang, R., Xu, L., Xu, M. & Liu, S. Emerging health risks
+       and underlying toxicological mechanisms of uranium contamination:
+       Lessons from the past two decades. Environ. Int. 145, 106107
+       (2020).
+       [293]Article  [294]PubMed  [295]CAS  [296]Google Scholar
+   10. Arzuaga, X., Rieth, S. H., Bathija, A. & Cooper, G. S. Renal
+       effects of exposure to natural and depleted uranium: a review of
+       the epidemiologic and experimental data. J. Toxicol. Environ. 13,
+       527-545 (2010).
+       [297]CAS  [298]Google Scholar
+   11. United States Environmental Protection Agency (US EPA). O. Report
+       on the Environment (ROE).
+       [299]https://www.epa.gov/report-environment (2015).
+   12. United States Environmental Protection Agency (US EPA). O. National
+       Primary Drinking Water Regulations.
+       [300]https://www.epa.gov/ground-water-and-drinking-water/national-p
+       rimary-drinking-water-regulations, (2015).
+   13. New Jersey Section of the American Water Works Association. Safe
+       Drinking Water Act Rules - [301]https://www.njawwa.org/page/SDWA,
+       (2017).
+   14. Ahmad, A. et al. Arsenic reduction to <1 µg/L in Dutch drinking
+       water. Environ. Int. 134, 105253 (2020).
+       [302]Article  [303]PubMed  [304]CAS  [305]Google Scholar
+   15. van der Wens, P. & Ahmad, A. Integrating Arsenic in Water Safety
+       Planning in The Netherlands (CRC Press, The Netherlands, 2019).
+   16. Ravalli, F. et al. Sociodemographic inequalities in uranium and
+       other metals in community water systems across the US, 2006-2011.
+       Lancet Planet. Health 6, E-320-E330 (2022).
+       [306]Article  [307]Google Scholar
+   17. Nigra, A. E. et al. Inequalities in public water arsenic
+       concentrations in counties and community water systems across the
+       United States, 2006-2011. Environ. Health Perspect. 128, 12 (2020).
+       [308]Article  [309]Google Scholar
+   18. Nigra, A. E. & Navas-Acien, A. Arsenic in US correctional facility
+       drinking water, 2006-2011. Environ. Res. 188, 109768 (2020).
+       [310]Article  [311]PubMed  [312]PubMed Central  [313]CAS
+       [314]Google Scholar
+   19. Jones, L., Credo, J., Parnell, R. & Ingram, J. C. Dissolved uranium
+       and arsenic in unregulated groundwater sources - western Navajo
+       Nation. J. Contemp. Water Res. Educ. 169, 27-43 (2020).
+       [315]Article  [316]PubMed  [317]PubMed Central  [318]Google
+       Scholar
+   20. McDonald, Y. J. & Jones, N. E. Drinking water violations and
+       environmental justice in the United States, 2011-2015. Am. J.
+       Public Health 108, 1401-1407 (2018).
+       [319]Article  [320]PubMed  [321]PubMed Central  [322]Google
+       Scholar
+   21. Morello-Frosch, R. & Lopez, R. The riskscape and the color line:
+       examining the role of segregation in environmental health
+       disparities. Environ. Res. 102, 181-196 (2006).
+       [323]Article  [324]PubMed  [325]CAS  [326]Google Scholar
+   22. Switzer, D. & Teodoro, M. P. The color of drinking water: class,
+       race, ethnicity, and safe drinking water act compliance. AWWA Water
+       Sci. 109, 40-45 (2017).
+       [327]Google Scholar
+   23. Balazs, C. L. & Ray, I. The drinking water disparities framework:
+       on the origins and persistence of inequities in exposure. Am. J.
+       Public Health 104, 603-611 (2014).
+       [328]Article  [329]PubMed  [330]PubMed Central  [331]Google
+       Scholar
+   24. VanDerslice, J. Drinking water infrastructure and environmental
+       disparities: evidence and methodological considerations. Am. J.
+       Public Health 101, S109-S114 (2011).
+       [332]Article  [333]PubMed  [334]PubMed Central  [335]Google
+       Scholar
+   25. Chaix, B., Merlo, J., Subramanian, S. V., Lynch, J. & Chauvin, P.
+       Comparison of a spatial perspective with the multilevel analytical
+       approach in neighborhood studies: the case of mental and behavioral
+       disorders due to psychoactive substance use in Malmo, Sweden, 2001.
+       Am. J. Epidemiol. 162, 171-182 (2005).
+       [336]Article  [337]PubMed  [338]Google Scholar
+   26. Cory, D. C. & Rahman, T. Environmental justice and enforcement of
+       the safe drinking water act: The Arizona arsenic experience. Ecol.
+       Econ. 68, 1825-1837 (2009).
+       [339]Article  [340]Google Scholar
+   27. Wilson, S. M., Heaney, C. D., Cooper, J. & Wilson, O. Built
+       environment issues in unserved and underserved African-American
+       neighborhoods in North Carolina. Environ. Justice 1, 63-72 (2008).
+       [341]Article  [342]Google Scholar
+   28. Tariqi, A. Q. & Naughton, C. C. Water, health, and environmental
+       justice in california: geospatial analysis of nitrate contamination
+       and thyroid cancer. Environ. Eng. Sci. 38, 377-388 (2021).
+       [343]Article  [344]PubMed  [345]PubMed Central  [346]CAS
+       [347]Google Scholar
+   29. Balazs, C. L., Morello-Frosch, R., Hubbard, A. E. & Ray, I.
+       Environmental justice implications of arsenic contamination in
+       California's San Joaquin Valley: a cross-sectional, cluster-design
+       examining exposure and compliance in community drinking water
+       systems. Environ. Health 11, 84 (2012).
+       [348]Article  [349]PubMed  [350]PubMed Central  [351]CAS
+       [352]Google Scholar
+   30. Agency for Toxic Substances and Disease Registry (ATSDR).
+       Toxicological Profile: Barium.
+       [353]https://www.atsdr.cdc.gov/toxprofiles/tp.asp?id=327&tid=57,
+       (2020).
+   31. Agency for Toxic Substances and Disease Registry (ATSDR).
+       Toxicological Profile: Selenium.
+       [354]https://wwwn.cdc.gov/TSP/ToxProfiles/ToxProfiles.aspx?id=153&t
+       id=28., (2014).
+   32. Credo, J., Torkelson, J., Rock, T. & Ingram, J. C. Quantification
+       of elemental contaminants in unregulated water across western
+       Navajo Nation. Int. J. Environ. Res. Public Health 16, 2727 (2019).
+   33. Petersen, M. L., Porter, K. E., Gruber, S., Wang, Y. & van der
+       Laan, M. J. Diagnosing and responding to violations in the
+       positivity assumption. Stat. Methods Med. Res. 21, 31-54 (2012).
+       [355]Article  [356]MathSciNet  [357]PubMed  [358]Google Scholar
+   34. Zhang, L., Ma, Z. & Guo, L. An evaluation of spatial
+       autocorrelation and heterogeneity in the residuals of six
+       regression models. For. Sci. 55, 533-548 (2009).
+       [359]Google Scholar
+   35. Centers for Disease Control and Prevention/ Agency for Toxic
+       Substances and Disease Registry/ Geospatial Research, Analysis, and
+       Services Program. 2010 Social Vulnerability Index database.
+       [360]https://www.atsdr.cdc.gov/placeandhealth/svi/data_documentatio
+       n_download.html (2021).
+   36. Adkins-Jackson, P. B., Chantarat, T., Bailey, Z. D. & Ponce, N. A.
+       Measuring structural racism: a guide for epidemiologists and other
+       health researchers. Am. J. Epidemiol. 191, 539-547 (2022).
+       [361]Article  [362]PubMed  [363]Google Scholar
+   37. Bailey, Z. D. et al. Structural racism and health inequities in the
+       USA: evidence and interventions. Lancet 389, 1453-1463 (2017).
+       [364]Article  [365]PubMed  [366]Google Scholar
+   38. Wilson, S. M. Environmental justice movement: a review of history,
+       research, and public health issues. J. Public. Manage. Soc. Policy
+       16, 19-50 (2010).
+   39. Bailey Z. D., Feldman J. M. & Bassett M. T. How structural racism
+       works--racist policies as a root cause of US racial health
+       inequities. N. Engl. J. Med. 384, 768-773 (2021).
+   40. Hernández, D. Sacrifice along the energy continuum: a call for
+       energy justice. Environ. Justice 8, 151-156 (2015).
+       [367]Article  [368]PubMed  [369]PubMed Central  [370]Google
+       Scholar
+   41. Paradies, Y. et al. Racism as a determinant of health: a systematic
+       review and meta-analysis. PLoS ONE 10, e0138511 (2015).
+       [371]Article  [372]PubMed  [373]PubMed Central  [374]Google
+       Scholar
+   42. Link, B. G. & Phelan J. Social conditions as fundamental causes of
+       disease. J. Health Soc. Behav. 80-94 (1995).
+   43. Phelan, J. C. & Link, B. G. Is racism a fundamental cause of
+       inequalities in health? Annu. Rev. Sociol. 41, 311-330 (2015).
+       [375]Article  [376]Google Scholar
+   44. Krieger, N. & Sidney, S. Racial discrimination and blood pressure:
+       the CARDIA Study of young black and white adults. Am. J. Public
+       Health 86, 1370-1378 (1996).
+       [377]Article  [378]PubMed  [379]PubMed Central  [380]CAS
+       [381]Google Scholar
+   45. Kwate, N. O. & Goodman, M. S. Cross-sectional and longitudinal
+       effects of racism on mental health among residents of Black
+       neighborhoods in New York City. Am. J. Public Health 105, 711-718
+       (2015).
+       [382]Article  [383]PubMed  [384]PubMed Central  [385]Google
+       Scholar
+   46. Nardone, A. et al. Associations between historical residential
+       redlining and current age-adjusted rates of emergency department
+       visits due to asthma across eight cities in California: an
+       ecological study. Lancet Planet Health 4, e24-e31 (2020).
+       [386]Article  [387]PubMed  [388]Google Scholar
+   47. Marsh, B., Parnell, A. M. & Joyner, A. M. Institutionalization of
+       racial inequality in local political geographies. Urban Geogr. 31,
+       691-709 (2010).
+       [389]Article  [390]Google Scholar
+   48. MacDonald Gibson, J., Fisher, M., Clonch, A., Macdonald, J. M. &
+       Cook, P. J. Children drinking private well water have higher blood
+       lead than those with city water. Proc. Natl Acad. Sci. USA 117,
+       16898-16907 (2020).
+       [391]Article  [392]Google Scholar
+   49. Nigra, A. E. Environmental racism and the need for private well
+       protections. Proc. Natl Acad. Sci. USA 117, 17476-17478 (2020).
+       [393]Article  [394]PubMed  [395]PubMed Central  [396]CAS
+       [397]Google Scholar
+   50. Del Toral, M. A., Porter, A. & Schock, M. R. Detection and
+       evaluation of elevated lead release from service lines: a field
+       study. Environ. Sci. Technol. 47, 9300-9307 (2013).
+       [398]Article  [399]PubMed  [400]Google Scholar
+   51. Hanna-Attisha, M., LaChance, J., Sadler, R. C. & Champney Schnepp,
+       A. Elevated blood lead levels in children associated with the flint
+       drinking water crisis: a spatial analysis of risk and public health
+       response. Am. J. Public Health 106, 283-290 (2016).
+       [401]Article  [402]PubMed  [403]PubMed Central  [404]Google
+       Scholar
+   52. Nigra, A. E. & Navas-Acien, A. Racial inequalities in drinking
+       water lead exposure: a wake-up call to protect patients with end
+       stage kidney disease. J. Am. Soc. Nephrol. 32, 2419-2421 (2021).
+       [405]Article  [406]PubMed  [407]PubMed Central  [408]CAS
+       [409]Google Scholar
+   53. United States Federal Register. National Primary Drinking Water
+       Regulations: Lead and Copper Rule Revisions.
+       [410]https://www.federalregister.gov/documents/2021/01/15/2020-2869
+       1/national-primary-drinking-water-regulations-lead-and-copper-rule-
+       revisions (2021).
+   54. Frey, W. H. Melting Pot Cities and Suburbs: Racial and Ethnic
+       Change in Metro America in the 2000s. Brook Inst
+       [411]https://www.brookings.edu/research/melting-pot-cities-and-subu
+       rbs-racial-and-ethnic-change-in-metro-america-in-the-2000s/ (2011).
+   55. Cromartie, J. United Sates Department of Agriculture (USDA) Rural
+       America at a Glance.
+       [412]http://www.ers.usda.gov/publications/pub-details/?pubid=90555
+       (2018).
+   56. Maupin, M. A. et al. Estimated use of water in the United States in
+       2010. Estimated Use Of Wa 9ter In The United States In 2010
+       [413]http://pubs.er.usgs.gov/publication/cir1405 (2014).
+   57. Dieter, C. A. et al. Estimated use of water in the United States in
+       2015. Estimated Use Of Water In The United States In 2015. vol.
+       1441 [414]http://pubs.er.usgs.gov/publication/cir1441, (2018).
+   58. Ingram, J. C., Jones, L., Credo, J. & Rock, T. Uranium and arsenic
+       unregulated water issues on Navajo lands. J. Vac. Sci. Technol. A
+       38, 031003 (2020).
+       [415]Article  [416]PubMed  [417]PubMed Central  [418]CAS
+       [419]Google Scholar
+   59. Murphy, M., Lewis, L., Sabogal, R. I. & Bell, C. Survey of
+       unregulated drinking water sources on Navajo Nation. American
+       Public Health Association 137th Annual Meeting and Exposition on
+       Water and Public Health. Vol. 7 (2009).
+   60. Stanley, D. M. & Wilkin, R. T. Solution equilibria of uranyl
+       minerals: role of the common groundwater ions calcium and
+       carbonate. J. Hazard Mater. 377, 315-320 (2019).
+       [420]Article  [421]PubMed  [422]PubMed Central  [423]CAS
+       [424]Google Scholar
+   61. Stewart, B. D., Mayes, M. A. & Fendorf, S. Impact of
+       uranyl-calcium-carbonato complexes on uranium(VI) adsorption to
+       synthetic and natural sediments. Environ. Sci. Technol. 44, 928-934
+       (2010).
+       [425]Article  [426]PubMed  [427]CAS  [428]Google Scholar
+   62. Kim, M.-J., Nriagu, J. & Haack, S. Carbonate ions and arsenic
+       dissolution by groundwater. Environ. Sci. Technol. 34, 3094-3100
+       (2000).
+       [429]Article  [430]CAS  [431]Google Scholar
+   63. Bailey Kathryn, A. et al. Mechanisms underlying latent disease risk
+       associated with early-life arsenic exposure: current research
+       trends and scientific gaps. Environ. Health Perspect. 124, 170-175
+       (2016).
+       [432]Article  [433]PubMed  [434]CAS  [435]Google Scholar
+   64. Sanchez, T. R. et al. A meta-analysis of arsenic exposure and lung
+       function: is there evidence of restrictive or obstructive lung
+       disease? Curr. Environ. Health Rep. 5, 244-254 (2018).
+       [436]Article  [437]PubMed  [438]PubMed Central  [439]CAS
+       [440]Google Scholar
+   65. Moody, E. C., Coca, S. G. & Sanders, A. P. Toxic metals and chronic
+       kidney disease: a systematic review of recent literature. Curr.
+       Environ. Health Rep. 5, 453-463 (2018).
+       [441]Article  [442]PubMed  [443]PubMed Central  [444]CAS
+       [445]Google Scholar
+   66. Dashner-Titus, E. J. et al. Metal exposure and oxidative stress
+       markers in pregnant Navajo Birth Cohort Study participants. Free
+       Radic. Biol. Med. 124, 484-492 (2018).
+       [446]Article  [447]PubMed  [448]PubMed Central  [449]CAS
+       [450]Google Scholar
+   67. Dinocourt, C., Legrand, M., Dublineau, I. & Lestaevel, P. The
+       neurotoxicology of uranium. Toxicology 337, 58-71 (2015).
+       [451]Article  [452]PubMed  [453]CAS  [454]Google Scholar
+   68. Espey, D. K. et al. Annual report to the nation on the status of
+       cancer, 1975-2004, featuring cancer in American Indians and Alaska
+       Natives. Cancer 110, 2119-2152 (2007).
+       [455]Article  [456]PubMed  [457]Google Scholar
+   69. Hoover, J. H. et al. Exposure to uranium and co-occurring metals
+       among pregnant Navajo women. Environ. Res. 190, 109943 (2020).
+       [458]Article  [459]PubMed  [460]PubMed Central  [461]CAS
+       [462]Google Scholar
+   70. Casey, J. A. et al. Race/ethnicity, socioeconomic status,
+       residential segregation, and spatial variation in noise exposure in
+       the contiguous united states. Environ. Health Perspect. 125, 077017
+       (2017).
+       [463]Article  [464]PubMed  [465]PubMed Central  [466]Google
+       Scholar
+   71. Pace, C. et al. Inequities in drinking water quality among domestic
+       well communities and community water systems, California, 20112019.
+       Am. J. Public Health 112, 88-97 (2022).
+       [467]Article  [468]PubMed  [469]Google Scholar
+   72. Schaider, L. A., Swetschinski, L., Campbell, C. & Rudel, R. A.
+       Environmental justice and drinking water quality: are there
+       socioeconomic disparities in nitrate levels in U.S. drinking water?
+       Environ. Health 18, 3 (2019).
+       [470]Article  [471]PubMed  [472]PubMed Central  [473]Google
+       Scholar
+   73. Lopez, R. Segregation and black/white differences in exposure to
+       air toxics in 1990. Environ. Health Perspect. 110,, 289-295 (2002).
+       [474]Article  [475]PubMed  [476]Google Scholar
+   74. Morello-Frosch, R., Pastor, M. & Sadd, J. Environmental justice and
+       southern California's "riskscape": the distribution of air toxics
+       exposures and health risks among diverse communities. Urban Aff.
+       36, 551-578 (2001).
+       [477]Article  [478]Google Scholar
+   75. United States Environmental Protection Agency (US EPA). EPA Awards
+       Over $17 Million to Benefit Small Water Systems.
+       [479]https://www.epa.gov/newsreleases/epa-awards-over-17-million-be
+       nefit-small-water-systems, (2021).
+   76. United States Environmental Protection Agency (US EPA). Six-Year
+       Review 3 Compliance Monitoring Data (2006-2011).
+       [480]https://www.epa.gov/dwsixyearreview/six-year-review-3-complian
+       ce-monitoring-data-2006-2011 (2016).
+   77. United States Environmental Protection Agency (USEPA). The analysis
+       of regulated contaminant occurrence data from public water systems
+       in support of the Third Six-Year Review of National Primary
+       Drinking Water Regulations: Chemical Phase Rules and Radionuclides
+       Rules.
+       [481]https://www.epa.gov/sites/default/files/2016-12/documents/810r
+       16014.pdf (2016).
+   78. United States Environmental Protection Agency (USEPA). Data
+       Management and Quality Assurance/Quality Control Process for the
+       Third Six-Year Review Information Collection Rule Dataset.
+       [482]https://nepis.epa.gov/Exe/ZyPDF.cgi/P100QO9Q.PDF?Dockey=P100QO
+       9Q.PDF (2016).
+   79. United States Environmental Protection Agency (USEPA). O.
+       Information about Public Water Systems.
+       [483]https://www.epa.gov/dwreginfo/information-about-public-water-s
+       ystems (2015).
+   80. Duncan, D. T., Kawachi, I., White, K. & Williams, D. R. The
+       geography of recreational open space: influence of neighborhood
+       racial composition and neighborhood poverty. J. Urban Health 90,
+       618-631 (2013).
+       [484]Article  [485]PubMed  [486]Google Scholar
+   81. Florax, R. J. G. M. & Nijkamp, P. Misspecification in Linear
+       Spatial Regression Models. Encyclopedia of Social Measurement
+       (Elsevier, 2005).
+   82. RDocumentation. lagsarlm function spdep (version 0.7-8)
+       [487]https://www.rdocumentation.org/packages/spdep/versions/0.7-8/t
+       opics/lagsarlm (2018).
+   83. Huang, Q., Liu, Y., Du, Y. & Garmire, L. X. Evaluation of cell type
+       annotation r packages on single-cell rna-seq data. Genom. Proteom.
+       Bioinform. 19, 267-281 (2021).
+       [488]Article  [489]Google Scholar
+   84. Gollini, I., Lu, B., Charlton, M., Brunsdon, C. & Harris, P.
+       GWmodel: an R package for exploring spatial heterogeneity using
+       geographically weighted models. Journal of Statistical Software 63,
+       1-50 (2015).
+   85. Martinez-Morata, I. et al. Nationwide geospatial analysis of county
+       racial and ethnic composition and public drinking water arsenic and
+       uranium. Geospatialanalysis_CWS_race-ethinicity_us.
+       [490]https://doi.org/10.5281/zenodo.7301984 (2022).
+
+   [491]Download references
+
+Acknowledgements
+
+   Research reported in this publication was supported by the Office Of
+   The Director, National Institutes Of Health and the National Institute
+   Of Dental & Craniofacial Research, under Award Number DP5OD031849
+   (AEN), by National Institute of Environmental Health Sciences (NIEHS)
+   grant 2T32ES007322 (AEN), NIEHS grant P300ES009089 (AEN, ANA, BCB),
+   NIEHS grant P42 ES033719 (AEN, ANA, BCB), and by a fellowship from La
+   Caixa Foundation (ID100010434), fellowship code LCF/BQ/AA20/11820032
+   (IMM). The content is solely the responsibility of the authors and does
+   not necessarily represent the official views of the National Institutes
+   of Health.
+
+Author information
+
+Authors and Affiliations
+
+    1. Department of Environmental Health Sciences, Columbia University
+       Mailman School of Public Health, New York, NY, USA
+       Irene Martinez-Morata, Maya Spaur, Kevin P. Patterson, Ana
+       Navas-Acien & Anne E. Nigra
+    2. Lamont-Doherty Earth Observatory of Columbia University, Palisades,
+       NY, USA
+       Benjamin C. Bostick
+    3. School of Sustainable Engineering and the Built Environment,
+       Arizona State University, Tempe, AZ, USA
+       Otakuye Conroy-Ben
+    4. Department of Epidemiology, Columbia University Mailman School of
+       Public Health, New York, NY, USA
+       Dustin T. Duncan & Seth J. Prins
+    5. Department of Epidemiology, Johns Hopkins Bloomberg School of
+       Public Health, Baltimore, MD, USA
+       Miranda R. Jones
+
+   Authors
+    1. Irene Martinez-Morata
+       [492]View author publications
+       You can also search for this author in [493]PubMed [494]Google
+       Scholar
+    2. Benjamin C. Bostick
+       [495]View author publications
+       You can also search for this author in [496]PubMed [497]Google
+       Scholar
+    3. Otakuye Conroy-Ben
+       [498]View author publications
+       You can also search for this author in [499]PubMed [500]Google
+       Scholar
+    4. Dustin T. Duncan
+       [501]View author publications
+       You can also search for this author in [502]PubMed [503]Google
+       Scholar
+    5. Miranda R. Jones
+       [504]View author publications
+       You can also search for this author in [505]PubMed [506]Google
+       Scholar
+    6. Maya Spaur
+       [507]View author publications
+       You can also search for this author in [508]PubMed [509]Google
+       Scholar
+    7. Kevin P. Patterson
+       [510]View author publications
+       You can also search for this author in [511]PubMed [512]Google
+       Scholar
+    8. Seth J. Prins
+       [513]View author publications
+       You can also search for this author in [514]PubMed [515]Google
+       Scholar
+    9. Ana Navas-Acien
+       [516]View author publications
+       You can also search for this author in [517]PubMed [518]Google
+       Scholar
+   10. Anne E. Nigra
+       [519]View author publications
+       You can also search for this author in [520]PubMed [521]Google
+       Scholar
+
+Contributions
+
+   I.M.M.: conceptualization, methodology, formal analysis, investigation,
+   writing (original draft), writing (review and editing), validation, and
+   visualization. B.C.B.: methodology and writing (review and editing).
+   O.C.B.: methodology and writing (review and editing). D.T.D:
+   methodology and writing (review and editing). M.R.J.: methodology and
+   writing (review and editing). K.P.P.: methodology and writing (review
+   and editing). M.S.: methodology and writing (review and editing).
+   S.J.P.: methodology and writing (review and editing). A.N.A.:
+   conceptualization, methodology, and writing (review and editing).
+   A.E.N.: conceptualization, methodology, formal analysis, investigation,
+   writing (original draft), writing (review and editing), validation, and
+   visualization.
+
+Corresponding author
+
+   Correspondence to [522]Irene Martinez-Morata.
+
+Ethics declarations
+
+Competing interests
+
+   The authors declare no competing interests.
+
+Peer review
+
+Peer review information
+
+   Nature Communications thanks the anonymous reviewers for their
+   contribution to the peer review of this work. [523]Peer reviewer
+   reports are available.
+
+Additional information
+
+   Publisher's note Springer Nature remains neutral with regard to
+   jurisdictional claims in published maps and institutional affiliations.
+
+Supplementary information
+
+[524]Supplementary Information
+
+[525]Peer Review File
+
+[526]Reporting Summary
+
+Rights and permissions
+
+   Open Access This article is licensed under a Creative Commons
+   Attribution 4.0 International License, which permits use, sharing,
+   adaptation, distribution and reproduction in any medium or format, as
+   long as you give appropriate credit to the original author(s) and the
+   source, provide a link to the Creative Commons license, and indicate if
+   changes were made. The images or other third party material in this
+   article are included in the article's Creative Commons license, unless
+   indicated otherwise in a credit line to the material. If material is
+   not included in the article's Creative Commons license and your
+   intended use is not permitted by statutory regulation or exceeds the
+   permitted use, you will need to obtain permission directly from the
+   copyright holder. To view a copy of this license, visit
+   [527]http://creativecommons.org/licenses/by/4.0/.
+
+   [528]Reprints and Permissions
+
+About this article
+
+   [529]Verify currency and authenticity via CrossMark
+
+Cite this article
+
+   Martinez-Morata, I., Bostick, B.C., Conroy-Ben, O. et al. Nationwide
+   geospatial analysis of county racial and ethnic composition and public
+   drinking water arsenic and uranium. Nat Commun 13, 7461 (2022).
+   https://doi.org/10.1038/s41467-022-35185-6
+
+   [530]Download citation
+     * Received: 03 March 2022
+     * Accepted: 22 November 2022
+     * Published: 03 December 2022
+     * DOI: https://doi.org/10.1038/s41467-022-35185-6
+
+Share this article
+
+   Anyone you share the following link with will be able to read this
+   content:
+   (BUTTON) Get shareable link
+
+   Sorry, a shareable link is not currently available for this article.
+
+   (BUTTON) Copy to clipboard
+
+   Provided by the Springer Nature SharedIt content-sharing initiative
+
+Comments
+
+   By submitting a comment you agree to abide by our [531]Terms and
+   [532]Community Guidelines. If you find something abusive or that does
+   not comply with our terms or guidelines please flag it as
+   inappropriate.
+
+   [533]Download PDF
+
+   Advertisement
+   [534]Advertisement
+
+Explore content
+
+     * [535]Research articles
+     * [536]Reviews & Analysis
+     * [537]News & Comment
+     * [538]Videos
+     * [539]Collections
+     * [540]Subjects
+
+     * [541]Follow us on Facebook
+     * [542]Follow us on Twitter
+     * [543]Sign up for alerts
+     * [544]RSS feed
+
+About the journal
+
+     * [545]Aims & Scope
+     * [546]Editors
+     * [547]Journal Information
+     * [548]Open access
+     * [549]Calls for Papers
+     * [550]Editorial Values Statement
+     * [551]Journal Metrics
+     * [552]Editors' Highlights
+     * [553]Contact
+     * [554]Editorial policies
+     * [555]Top Articles
+
+Publish with us
+
+     * [556]For authors
+     * [557]For Reviewers
+     * [558]Language editing services
+     * [559]Submit manuscript
+
+Search
+
+   Search articles by subject, keyword or author
+   ____________________
+   Show results from [All journals]
+   (BUTTON) Search
+   [560]Advanced search
+
+Quick links
+
+     * [561]Explore articles by subject
+     * [562]Find a job
+     * [563]Guide to authors
+     * [564]Editorial policies
+
+   Nature Communications (Nat Commun) ISSN 2041-1723 (online)
+
+nature.com sitemap
+
+About Nature Portfolio
+
+     * [565]About us
+     * [566]Press releases
+     * [567]Press office
+     * [568]Contact us
+
+Discover content
+
+     * [569]Journals A-Z
+     * [570]Articles by subject
+     * [571]Nano
+     * [572]Protocol Exchange
+     * [573]Nature Index
+
+Publishing policies
+
+     * [574]Nature portfolio policies
+     * [575]Open access
+
+Author & Researcher services
+
+     * [576]Reprints & permissions
+     * [577]Research data
+     * [578]Language editing
+     * [579]Scientific editing
+     * [580]Nature Masterclasses
+     * [581]Nature Research Academies
+     * [582]Research Solutions
+
+Libraries & institutions
+
+     * [583]Librarian service & tools
+     * [584]Librarian portal
+     * [585]Open research
+     * [586]Recommend to library
+
+Advertising & partnerships
+
+     * [587]Advertising
+     * [588]Partnerships & Services
+     * [589]Media kits
+     * [590]Branded content
+
+Career development
+
+     * [591]Nature Careers
+     * [592]Nature Conferences
+     * [593]Nature events
+
+Regional websites
+
+     * [594]Nature Africa
+     * [595]Nature China
+     * [596]Nature India
+     * [597]Nature Italy
+     * [598]Nature Japan
+     * [599]Nature Korea
+     * [600]Nature Middle East
+
+     * [601]Privacy Policy
+     * [602]Use of cookies
+     * (BUTTON) Manage cookies/Do not sell my data
+     * [603]Legal notice
+     * [604]Accessibility statement
+     * [605]Terms & Conditions
+     * [606]California Privacy Statement
+
+   [607]Springer Nature
+
+   © 2023 Springer Nature Limited
+
+   (BUTTON) Close banner Close
+   Nature Briefing
+
+   Sign up for the Nature Briefing newsletter -- what matters in science,
+   free to your inbox daily.
+   Email address
+   ____________________ (BUTTON) Sign up
+   [ ] I agree my information will be processed in accordance with the
+   Nature and Springer Nature Limited [608]Privacy Policy.
+   (BUTTON) Close banner Close
+   Get the most important science stories of the day, free in your inbox.
+   [609]Sign up for Nature Briefing
+
+References
+
+   1. https://www.nature.com/search
+   2. https://www.nature.com/opensearch/opensearch.xml
+   3. https://www.nature.com/opensearch/request
+   4. https://collect.nature.com/ns.html?id=GTM-MRVXSHQ
+   5. https://www.nature.com/articles/s41467-022-35185-6#content
+   6. https://pubads.g.doubleclick.net/gampad/jump?iu=/285/nature_communications/article&sz=728x90&c=-421462697&t=pos%3Dtop%26type%3Darticle%26artid%3Ds41467-022-35185-6%26doi%3D10.1038/s41467-022-35185-6%26subjmeta%3D499,692,704,844%26kwrd%3DEnvironmental+social+sciences,Risk+factors
+   7. https://www.nature.com/ncomms
+   8. https://www.nature.com/siteindex
+   9. https://www.nature.com/articles/s41467-022-35185-6#search-menu
+  10. https://idp.nature.com/auth/personal/springernature?redirect_uri=https://www.nature.com/articles/s41467-022-35185-6
+  11. https://www.nature.com/articles/s41467-022-35185-6#explore
+  12. https://www.nature.com/articles/s41467-022-35185-6#about-the-journal
+  13. https://www.nature.com/articles/s41467-022-35185-6#publish-with-us
+  14. https://www.nature.com/my-account/alerts/subscribe-journal?list-id=264
+  15. https://www.nature.com/ncomms.rss
+  16. https://www.nature.com/
+  17. https://www.nature.com/ncomms
+  18. https://www.nature.com/ncomms/articles?type=article
+  19. https://www.nature.com/articles/s41467-022-35185-6.pdf
+  20. https://doi.org/10.1038/s41545-020-0074-6
+  21. https://doi.org/10.1038/s41370-021-00387-5
+  22. https://doi.org/10.1038/s41893-022-00898-5
+  23. https://doi.org/10.1038/s41893-019-0249-7
+  24. https://doi.org/10.1038/s41598-021-96075-3
+  25. https://doi.org/10.1038/s41893-022-00901-z
+  26. https://doi.org/10.1038/s41545-022-00196-9
+  27. https://doi.org/10.1038/s41598-021-94830-0
+  28. https://doi.org/10.1038/s41598-020-62957-1
+  29. https://www.nature.com/articles/s41467-022-35185-6.pdf
+  30. https://www.nature.com/articles/s41467-022-35185-6#article-info
+  31. https://www.nature.com/articles/s41467-022-35185-6#auth-Irene-Martinez_Morata
+  32. http://orcid.org/0000-0003-3165-4931
+  33. https://www.nature.com/articles/s41467-022-35185-6#Aff1
+  34. https://www.nature.com/articles/s41467-022-35185-6#auth-Benjamin_C_-Bostick
+  35. http://orcid.org/0000-0002-7513-6469
+  36. https://www.nature.com/articles/s41467-022-35185-6#Aff2
+  37. https://www.nature.com/articles/s41467-022-35185-6#auth-Otakuye-Conroy_Ben
+  38. http://orcid.org/0000-0001-8086-1625
+  39. https://www.nature.com/articles/s41467-022-35185-6#Aff3
+  40. https://www.nature.com/articles/s41467-022-35185-6#auth-Dustin_T_-Duncan
+  41. https://www.nature.com/articles/s41467-022-35185-6#Aff4
+  42. https://www.nature.com/articles/s41467-022-35185-6#auth-Miranda_R_-Jones
+  43. https://www.nature.com/articles/s41467-022-35185-6#Aff5
+  44. https://www.nature.com/articles/s41467-022-35185-6#auth-Maya-Spaur
+  45. https://www.nature.com/articles/s41467-022-35185-6#Aff1
+  46. https://www.nature.com/articles/s41467-022-35185-6#auth-Kevin_P_-Patterson
+  47. http://orcid.org/0000-0002-4915-556X
+  48. https://www.nature.com/articles/s41467-022-35185-6#Aff1
+  49. https://www.nature.com/articles/s41467-022-35185-6#auth-Seth_J_-Prins
+  50. https://www.nature.com/articles/s41467-022-35185-6#Aff4
+  51. https://www.nature.com/articles/s41467-022-35185-6#auth-Ana-Navas_Acien
+  52. https://www.nature.com/articles/s41467-022-35185-6#Aff1
+  53. https://www.nature.com/articles/s41467-022-35185-6#auth-Anne_E_-Nigra
+  54. http://orcid.org/0000-0002-5033-0345
+  55. https://www.nature.com/articles/s41467-022-35185-6#Aff1
+  56. https://www.nature.com/ncomms
+  57. https://www.nature.com/articles/s41467-022-35185-6#citeas
+  58. https://www.nature.com/articles/s41467-022-35185-6/metrics
+  59. https://www.nature.com/subjects/environmental-social-sciences
+  60. https://www.nature.com/subjects/risk-factors
+  61. https://www.nature.com/articles/s41467-022-35185-6#ref-CR1
+  62. https://www.nature.com/articles/s41467-022-35185-6#ref-CR2
+  63. https://www.nature.com/articles/s41467-022-35185-6#ref-CR3
+  64. https://www.nature.com/articles/s41467-022-35185-6#ref-CR4
+  65. https://www.nature.com/articles/s41467-022-35185-6#ref-CR5
+  66. https://www.nature.com/articles/s41467-022-35185-6#ref-CR6
+  67. https://www.nature.com/articles/s41467-022-35185-6#ref-CR7
+  68. https://www.nature.com/articles/s41467-022-35185-6#ref-CR1
+  69. https://www.nature.com/articles/s41467-022-35185-6#ref-CR3
+  70. https://www.nature.com/articles/s41467-022-35185-6#ref-CR4
+  71. https://www.nature.com/articles/s41467-022-35185-6#ref-CR8
+  72. https://www.nature.com/articles/s41467-022-35185-6#ref-CR2
+  73. https://www.nature.com/articles/s41467-022-35185-6#ref-CR6
+  74. https://www.nature.com/articles/s41467-022-35185-6#ref-CR9
+  75. https://www.nature.com/articles/s41467-022-35185-6#ref-CR10
+  76. https://www.nature.com/articles/s41467-022-35185-6#ref-CR11
+  77. https://www.nature.com/articles/s41467-022-35185-6#ref-CR12
+  78. https://www.nature.com/articles/s41467-022-35185-6#ref-CR13
+  79. https://www.nature.com/articles/s41467-022-35185-6#ref-CR14
+  80. https://www.nature.com/articles/s41467-022-35185-6#ref-CR15
+  81. https://www.nature.com/articles/s41467-022-35185-6#ref-CR16
+  82. https://www.nature.com/articles/s41467-022-35185-6#ref-CR17
+  83. https://www.nature.com/articles/s41467-022-35185-6#ref-CR16
+  84. https://www.nature.com/articles/s41467-022-35185-6#ref-CR17
+  85. https://www.nature.com/articles/s41467-022-35185-6#ref-CR18
+  86. https://www.nature.com/articles/s41467-022-35185-6#ref-CR19
+  87. https://www.nature.com/articles/s41467-022-35185-6#ref-CR20
+  88. https://www.nature.com/articles/s41467-022-35185-6#ref-CR21
+  89. https://www.nature.com/articles/s41467-022-35185-6#ref-CR22
+  90. https://www.nature.com/articles/s41467-022-35185-6#ref-CR23
+  91. https://www.nature.com/articles/s41467-022-35185-6#ref-CR24
+  92. https://www.nature.com/articles/s41467-022-35185-6#ref-CR25
+  93. https://www.nature.com/articles/s41467-022-35185-6#ref-CR16
+  94. https://www.nature.com/articles/s41467-022-35185-6#ref-CR17
+  95. https://www.nature.com/articles/s41467-022-35185-6#ref-CR23
+  96. https://www.nature.com/articles/s41467-022-35185-6#ref-CR24
+  97. https://www.nature.com/articles/s41467-022-35185-6#ref-CR26
+  98. https://www.nature.com/articles/s41467-022-35185-6#ref-CR27
+  99. https://www.nature.com/articles/s41467-022-35185-6#ref-CR20
+ 100. https://www.nature.com/articles/s41467-022-35185-6#ref-CR23
+ 101. https://www.nature.com/articles/s41467-022-35185-6#ref-CR28
+ 102. https://www.nature.com/articles/s41467-022-35185-6#ref-CR29
+ 103. https://www.nature.com/articles/s41467-022-35185-6#ref-CR16
+ 104. https://www.nature.com/articles/s41467-022-35185-6#ref-CR5
+ 105. https://www.nature.com/articles/s41467-022-35185-6#ref-CR30
+ 106. https://www.nature.com/articles/s41467-022-35185-6#ref-CR31
+ 107. https://www.nature.com/articles/s41467-022-35185-6#ref-CR16
+ 108. https://www.nature.com/articles/s41467-022-35185-6#ref-CR17
+ 109. https://www.nature.com/articles/s41467-022-35185-6#Fig1
+ 110. https://www.nature.com/articles/s41467-022-35185-6#Fig1
+ 111. https://www.nature.com/articles/s41467-022-35185-6#ref-CR16
+ 112. https://www.nature.com/articles/s41467-022-35185-6#ref-CR17
+ 113. https://www.nature.com/articles/s41467-022-35185-6#ref-CR32
+ 114. https://www.nature.com/articles/s41467-022-35185-6#MOESM1
+ 115. https://www.nature.com/articles/s41467-022-35185-6/figures/1
+ 116. https://www.nature.com/articles/s41467-022-35185-6/figures/1
+ 117. https://www.nature.com/articles/s41467-022-35185-6#ref-CR33
+ 118. https://www.nature.com/articles/s41467-022-35185-6#Tab1
+ 119. https://www.nature.com/articles/s41467-022-35185-6/tables/1
+ 120. https://www.nature.com/articles/s41467-022-35185-6#ref-CR34
+ 121. https://www.nature.com/articles/s41467-022-35185-6#Tab2
+ 122. https://www.nature.com/articles/s41467-022-35185-6/tables/2
+ 123. https://www.nature.com/articles/s41467-022-35185-6#ref-CR35
+ 124. https://www.nature.com/articles/s41467-022-35185-6#MOESM1
+ 125. https://www.nature.com/articles/s41467-022-35185-6#MOESM1
+ 126. https://www.nature.com/articles/s41467-022-35185-6#MOESM1
+ 127. https://www.nature.com/articles/s41467-022-35185-6#ref-CR23
+ 128. https://www.nature.com/articles/s41467-022-35185-6#MOESM1
+ 129. https://www.nature.com/articles/s41467-022-35185-6#Fig2
+ 130. https://www.nature.com/articles/s41467-022-35185-6#Fig3
+ 131. https://www.nature.com/articles/s41467-022-35185-6/figures/2
+ 132. https://www.nature.com/articles/s41467-022-35185-6#MOESM1
+ 133. https://www.nature.com/articles/s41467-022-35185-6/figures/2
+ 134. https://www.nature.com/articles/s41467-022-35185-6/figures/3
+ 135. https://www.nature.com/articles/s41467-022-35185-6#MOESM1
+ 136. https://www.nature.com/articles/s41467-022-35185-6/figures/3
+ 137. https://www.nature.com/articles/s41467-022-35185-6#Tab2
+ 138. https://www.nature.com/articles/s41467-022-35185-6#Fig1
+ 139. https://www.nature.com/articles/s41467-022-35185-6#Fig2
+ 140. https://www.nature.com/articles/s41467-022-35185-6#Fig3
+ 141. https://www.nature.com/articles/s41467-022-35185-6#MOESM1
+ 142. https://www.nature.com/articles/s41467-022-35185-6#MOESM1
+ 143. https://www.nature.com/articles/s41467-022-35185-6#MOESM1
+ 144. https://www.nature.com/articles/s41467-022-35185-6#MOESM1
+ 145. https://www.nature.com/articles/s41467-022-35185-6#ref-CR16
+ 146. https://www.nature.com/articles/s41467-022-35185-6#ref-CR17
+ 147. https://www.nature.com/articles/s41467-022-35185-6#ref-CR18
+ 148. https://www.nature.com/articles/s41467-022-35185-6#ref-CR19
+ 149. https://www.nature.com/articles/s41467-022-35185-6#ref-CR20
+ 150. https://www.nature.com/articles/s41467-022-35185-6#ref-CR26
+ 151. https://www.nature.com/articles/s41467-022-35185-6#ref-CR27
+ 152. https://www.nature.com/articles/s41467-022-35185-6#ref-CR28
+ 153. https://www.nature.com/articles/s41467-022-35185-6#ref-CR29
+ 154. https://www.nature.com/articles/s41467-022-35185-6#MOESM1
+ 155. https://www.nature.com/articles/s41467-022-35185-6#ref-CR20
+ 156. https://www.nature.com/articles/s41467-022-35185-6#ref-CR21
+ 157. https://www.nature.com/articles/s41467-022-35185-6#ref-CR22
+ 158. https://www.nature.com/articles/s41467-022-35185-6#ref-CR23
+ 159. https://www.nature.com/articles/s41467-022-35185-6#ref-CR24
+ 160. https://www.nature.com/articles/s41467-022-35185-6#ref-CR20
+ 161. https://www.nature.com/articles/s41467-022-35185-6#ref-CR26
+ 162. https://www.nature.com/articles/s41467-022-35185-6#ref-CR29
+ 163. https://www.nature.com/articles/s41467-022-35185-6#ref-CR36
+ 164. https://www.nature.com/articles/s41467-022-35185-6#ref-CR37
+ 165. https://www.nature.com/articles/s41467-022-35185-6#ref-CR38
+ 166. https://www.nature.com/articles/s41467-022-35185-6#ref-CR39
+ 167. https://www.nature.com/articles/s41467-022-35185-6#ref-CR40
+ 168. https://www.nature.com/articles/s41467-022-35185-6#ref-CR41
+ 169. https://www.nature.com/articles/s41467-022-35185-6#ref-CR42
+ 170. https://www.nature.com/articles/s41467-022-35185-6#ref-CR43
+ 171. https://www.nature.com/articles/s41467-022-35185-6#ref-CR36
+ 172. https://www.nature.com/articles/s41467-022-35185-6#ref-CR37
+ 173. https://www.nature.com/articles/s41467-022-35185-6#ref-CR39
+ 174. https://www.nature.com/articles/s41467-022-35185-6#ref-CR44
+ 175. https://www.nature.com/articles/s41467-022-35185-6#ref-CR45
+ 176. https://www.nature.com/articles/s41467-022-35185-6#ref-CR46
+ 177. https://www.nature.com/articles/s41467-022-35185-6#ref-CR23
+ 178. https://www.nature.com/articles/s41467-022-35185-6#ref-CR26
+ 179. https://www.nature.com/articles/s41467-022-35185-6#ref-CR47
+ 180. https://www.nature.com/articles/s41467-022-35185-6#ref-CR48
+ 181. https://www.nature.com/articles/s41467-022-35185-6#ref-CR49
+ 182. https://www.nature.com/articles/s41467-022-35185-6#ref-CR32
+ 183. https://www.nature.com/articles/s41467-022-35185-6#ref-CR50
+ 184. https://www.nature.com/articles/s41467-022-35185-6#ref-CR51
+ 185. https://www.nature.com/articles/s41467-022-35185-6#ref-CR52
+ 186. https://www.nature.com/articles/s41467-022-35185-6#ref-CR53
+ 187. https://www.nature.com/articles/s41467-022-35185-6#ref-CR2
+ 188. https://www.nature.com/articles/s41467-022-35185-6#ref-CR3
+ 189. https://www.nature.com/articles/s41467-022-35185-6#ref-CR5
+ 190. https://www.nature.com/articles/s41467-022-35185-6#ref-CR54
+ 191. https://www.nature.com/articles/s41467-022-35185-6#ref-CR55
+ 192. https://www.nature.com/articles/s41467-022-35185-6#ref-CR19
+ 193. https://www.nature.com/articles/s41467-022-35185-6#ref-CR56
+ 194. https://www.nature.com/articles/s41467-022-35185-6#ref-CR57
+ 195. https://www.nature.com/articles/s41467-022-35185-6#Fig2
+ 196. https://www.nature.com/articles/s41467-022-35185-6#Fig3
+ 197. https://www.nature.com/articles/s41467-022-35185-6#MOESM1
+ 198. https://www.nature.com/articles/s41467-022-35185-6#Fig1
+ 199. https://www.nature.com/articles/s41467-022-35185-6#ref-CR23
+ 200. https://www.nature.com/articles/s41467-022-35185-6#ref-CR24
+ 201. https://www.nature.com/articles/s41467-022-35185-6#ref-CR16
+ 202. https://www.nature.com/articles/s41467-022-35185-6#ref-CR16
+ 203. https://www.nature.com/articles/s41467-022-35185-6#ref-CR19
+ 204. https://www.nature.com/articles/s41467-022-35185-6#ref-CR32
+ 205. https://www.nature.com/articles/s41467-022-35185-6#ref-CR58
+ 206. https://www.nature.com/articles/s41467-022-35185-6#ref-CR59
+ 207. https://www.nature.com/articles/s41467-022-35185-6#ref-CR60
+ 208. https://www.nature.com/articles/s41467-022-35185-6#ref-CR61
+ 209. https://www.nature.com/articles/s41467-022-35185-6#ref-CR62
+ 210. https://www.nature.com/articles/s41467-022-35185-6#ref-CR2
+ 211. https://www.nature.com/articles/s41467-022-35185-6#ref-CR3
+ 212. https://www.nature.com/articles/s41467-022-35185-6#ref-CR1
+ 213. https://www.nature.com/articles/s41467-022-35185-6#ref-CR5
+ 214. https://www.nature.com/articles/s41467-022-35185-6#ref-CR63
+ 215. https://www.nature.com/articles/s41467-022-35185-6#ref-CR64
+ 216. https://www.nature.com/articles/s41467-022-35185-6#ref-CR65
+ 217. https://www.nature.com/articles/s41467-022-35185-6#ref-CR66
+ 218. https://www.nature.com/articles/s41467-022-35185-6#ref-CR2
+ 219. https://www.nature.com/articles/s41467-022-35185-6#ref-CR6
+ 220. https://www.nature.com/articles/s41467-022-35185-6#ref-CR9
+ 221. https://www.nature.com/articles/s41467-022-35185-6#ref-CR10
+ 222. https://www.nature.com/articles/s41467-022-35185-6#ref-CR67
+ 223. https://www.nature.com/articles/s41467-022-35185-6#ref-CR19
+ 224. https://www.nature.com/articles/s41467-022-35185-6#ref-CR58
+ 225. https://www.nature.com/articles/s41467-022-35185-6#ref-CR59
+ 226. https://www.nature.com/articles/s41467-022-35185-6#ref-CR68
+ 227. https://www.nature.com/articles/s41467-022-35185-6#ref-CR69
+ 228. https://www.nature.com/articles/s41467-022-35185-6#ref-CR21
+ 229. https://www.nature.com/articles/s41467-022-35185-6#ref-CR70
+ 230. https://www.nature.com/articles/s41467-022-35185-6#ref-CR71
+ 231. https://www.nature.com/articles/s41467-022-35185-6#ref-CR24
+ 232. https://www.nature.com/articles/s41467-022-35185-6#ref-CR72
+ 233. https://www.nature.com/articles/s41467-022-35185-6#MOESM1
+ 234. https://www.nature.com/articles/s41467-022-35185-6#ref-CR70
+ 235. https://www.nature.com/articles/s41467-022-35185-6#ref-CR21
+ 236. https://www.nature.com/articles/s41467-022-35185-6#ref-CR73
+ 237. https://www.nature.com/articles/s41467-022-35185-6#ref-CR74
+ 238. https://www.nature.com/articles/s41467-022-35185-6#ref-CR75
+ 239. https://www.nature.com/articles/s41467-022-35185-6#ref-CR17
+ 240. https://www.nature.com/articles/s41467-022-35185-6#ref-CR76
+ 241. https://www.nature.com/articles/s41467-022-35185-6#ref-CR77
+ 242. https://www.nature.com/articles/s41467-022-35185-6#ref-CR78
+ 243. https://www.nature.com/articles/s41467-022-35185-6#ref-CR17
+ 244. https://www.nature.com/articles/s41467-022-35185-6#ref-CR17
+ 245. https://www.nature.com/articles/s41467-022-35185-6#ref-CR35
+ 246. https://www.nature.com/articles/s41467-022-35185-6#MOESM1
+ 247. https://www.nature.com/articles/s41467-022-35185-6#ref-CR56
+ 248. https://www.nature.com/articles/s41467-022-35185-6#ref-CR57
+ 249. https://www.nature.com/articles/s41467-022-35185-6#MOESM1
+ 250. https://www.nature.com/articles/s41467-022-35185-6#MOESM1
+ 251. https://www.nature.com/articles/s41467-022-35185-6#ref-CR33
+ 252. https://www.nature.com/articles/s41467-022-35185-6#ref-CR79
+ 253. https://www.nature.com/articles/s41467-022-35185-6#ref-CR80
+ 254. https://www.nature.com/articles/s41467-022-35185-6#Tab1
+ 255. https://www.nature.com/articles/s41467-022-35185-6#MOESM1
+ 256. https://www.nature.com/articles/s41467-022-35185-6#ref-CR80
+ 257. https://www.nature.com/articles/s41467-022-35185-6#ref-CR34
+ 258. https://www.nature.com/articles/s41467-022-35185-6#ref-CR81
+ 259. https://www.nature.com/articles/s41467-022-35185-6#MOESM1
+ 260. https://www.nature.com/articles/s41467-022-35185-6#ref-CR82
+ 261. https://www.nature.com/articles/s41467-022-35185-6#ref-CR83
+ 262. https://www.nature.com/articles/s41467-022-35185-6#ref-CR80
+ 263. https://www.nature.com/articles/s41467-022-35185-6#MOESM1
+ 264. https://www.nature.com/articles/s41467-022-35185-6#MOESM1
+ 265. https://www.nature.com/articles/s41467-022-35185-6#ref-CR84
+ 266. https://www.nature.com/articles/s41467-022-35185-6#MOESM3
+ 267. https://github.com/annenigra/US-PublicWaterSystem-Metal-Estimates
+ 268. https://msph.shinyapps.io/drinking-water-dashboard/
+ 269. https://www.census.gov/library/publications/2011/compendia/usa-counties-2011.html
+ 270. https://www.countyhealthrankings.org/explore-health-rankings/rankings-data-documentation/national-data-documentation-2010-2018
+ 271. https://www.atsdr.cdc.gov/placeandhealth/svi/data_documentation_download.html
+ 272. http://pubs.er.usgs.gov/publication/cir1405
+ 273. https://www.nature.com/articles/s41467-022-35185-6#MOESM1
+ 274. https://github.com/annenigra/race-ethnicity-water-metals
+ 275. https://www.nature.com/articles/s41467-022-35185-6#ref-CR85
+ 276. https://doi.org/10.5281/zenodo.7301984
+ 277. https://doi.org/10.1093%2Fije%2Fdyx202
+ 278. http://www.ncbi.nlm.nih.gov/entrez/query.fcgi?cmd=Retrieve&db=PubMed&dopt=Abstract&list_uids=29040626
+ 279. http://www.ncbi.nlm.nih.gov/pmc/articles/PMC5837344
+ 280. http://scholar.google.com/scholar_lookup?&title=A%20dose-response%20meta-analysis%20of%20chronic%20arsenic%20exposure%20and%20incident%20cardiovascular%20disease&journal=Int.%20J.%20Epidemiol.&doi=10.1093%2Fije%2Fdyx202&volume=46&pages=1924-1939&publication_year=2017&author=Moon%2CKA
+ 281. https://wwwn.cdc.gov/TSP/ToxProfiles/ToxProfiles.aspx?id=440&amp;tid=77
+ 282. https://wwwn.cdc.gov/TSP/ToxProfiles/ToxProfiles.aspx?id=22&tid=3
+ 283. https://doi.org/10.1007%2Fs12011-019-01920-2
+ 284. http://www.ncbi.nlm.nih.gov/entrez/query.fcgi?cmd=Retrieve&db=PubMed&dopt=Abstract&list_uids=31621007
+ 285. https://www.nature.com/articles/cas-redirect/1:CAS:528:DC%2BC1MXhvFOqsLzM
+ 286. http://scholar.google.com/scholar_lookup?&title=A%20review%20of%20uranium-induced%20reproductive%20toxicity&journal=Biol.%20Trace%20Elem.%20Res&doi=10.1007%2Fs12011-019-01920-2&volume=196&pages=204-213&publication_year=2020&author=Wang%2CS
+ 287. https://www.atsdr.cdc.gov/spl/index.html
+ 288. https://doi.org/10.1016%2Fj.envres.2021.111387
+ 289. http://www.ncbi.nlm.nih.gov/entrez/query.fcgi?cmd=Retrieve&db=PubMed&dopt=Abstract&list_uids=34090890
+ 290. http://www.ncbi.nlm.nih.gov/pmc/articles/PMC8403626
+ 291. https://www.nature.com/articles/cas-redirect/1:CAS:528:DC%2BB3MXhtlWhtLrK
+ 292. http://scholar.google.com/scholar_lookup?&title=Urinary%20arsenic%20and%20heart%20disease%20mortality%20in%20NHANES%202003%E2%80%932014&journal=Environ.%20Res.&doi=10.1016%2Fj.envres.2021.111387&volume=200&publication_year=2021&author=Nigra%2CAE&author=Moon%2CKA&author=Jones%2CMR&author=Sanchez%2CTR&author=Navas-Acien%2CA
+ 293. https://doi.org/10.1016%2Fj.envint.2020.106107
+ 294. http://www.ncbi.nlm.nih.gov/entrez/query.fcgi?cmd=Retrieve&db=PubMed&dopt=Abstract&list_uids=32932066
+ 295. https://www.nature.com/articles/cas-redirect/1:CAS:528:DC%2BB3cXhvVKgsL3O
+ 296. http://scholar.google.com/scholar_lookup?&title=Emerging%20health%20risks%20and%20underlying%20toxicological%20mechanisms%20of%20uranium%20contamination%3A%20Lessons%20from%20the%20past%20two%20decades&journal=Environ.%20Int.&doi=10.1016%2Fj.envint.2020.106107&volume=145&publication_year=2020&author=Ma%2CM&author=Wang%2CR&author=Xu%2CL&author=Xu%2CM&author=Liu%2CS
+ 297. https://www.nature.com/articles/cas-redirect/1:CAS:528:DC%2BC3cXhsFyrsr7J
+ 298. http://scholar.google.com/scholar_lookup?&title=Renal%20effects%20of%20exposure%20to%20natural%20and%20depleted%20uranium%3A%20a%20review%20of%20the%20epidemiologic%20and%20experimental%20data&journal=J.%20Toxicol.%20Environ.&volume=13&pages=527-545&publication_year=2010&author=Arzuaga%2CX&author=Rieth%2CSH&author=Bathija%2CA&author=Cooper%2CGS
+ 299. https://www.epa.gov/report-environment
+ 300. https://www.epa.gov/ground-water-and-drinking-water/national-primary-drinking-water-regulations
+ 301. https://www.njawwa.org/page/SDWA
+ 302. https://doi.org/10.1016%2Fj.envint.2019.105253
+ 303. http://www.ncbi.nlm.nih.gov/entrez/query.fcgi?cmd=Retrieve&db=PubMed&dopt=Abstract&list_uids=31810053
+ 304. https://www.nature.com/articles/cas-redirect/1:CAS:528:DC%2BC1MXitlKhsrjJ
+ 305. http://scholar.google.com/scholar_lookup?&title=Arsenic%20reduction%20to%20%3C1%E2%80%89%C2%B5g%2FL%20in%20Dutch%20drinking%20water&journal=Environ.%20Int.&doi=10.1016%2Fj.envint.2019.105253&volume=134&publication_year=2020&author=Ahmad%2CA
+ 306. https://doi.org/10.1016%2FS2542-5196%2822%2900043-2
+ 307. http://scholar.google.com/scholar_lookup?&title=Sociodemographic%20inequalities%20in%20uranium%20and%20other%20metals%20in%20community%20water%20systems%20across%20the%20US%2C%202006%E2%80%932011&journal=Lancet%20Planet.%20Health&doi=10.1016%2FS2542-5196%2822%2900043-2&volume=6&pages=E-320-E330&publication_year=2022&author=Ravalli%2CF
+ 308. https://doi.org/10.1289%2FEHP7313
+ 309. http://scholar.google.com/scholar_lookup?&title=Inequalities%20in%20public%20water%20arsenic%20concentrations%20in%20counties%20and%20community%20water%20systems%20across%20the%20United%20States%2C%202006%E2%80%932011&journal=Environ.%20Health%20Perspect.&doi=10.1289%2FEHP7313&volume=128&publication_year=2020&author=Nigra%2CAE
+ 310. https://doi.org/10.1016%2Fj.envres.2020.109768
+ 311. http://www.ncbi.nlm.nih.gov/entrez/query.fcgi?cmd=Retrieve&db=PubMed&dopt=Abstract&list_uids=32585331
+ 312. http://www.ncbi.nlm.nih.gov/pmc/articles/PMC7483613
+ 313. https://www.nature.com/articles/cas-redirect/1:CAS:528:DC%2BB3cXht1Cqtb3F
+ 314. http://scholar.google.com/scholar_lookup?&title=Arsenic%20in%20US%20correctional%20facility%20drinking%20water%2C%202006%E2%80%932011&journal=Environ.%20Res.&doi=10.1016%2Fj.envres.2020.109768&volume=188&publication_year=2020&author=Nigra%2CAE&author=Navas-Acien%2CA
+ 315. https://doi.org/10.1111%2Fj.1936-704X.2020.03330.x
+ 316. http://www.ncbi.nlm.nih.gov/entrez/query.fcgi?cmd=Retrieve&db=PubMed&dopt=Abstract&list_uids=34790284
+ 317. http://www.ncbi.nlm.nih.gov/pmc/articles/PMC8594880
+ 318. http://scholar.google.com/scholar_lookup?&title=Dissolved%20uranium%20and%20arsenic%20in%20unregulated%20groundwater%20sources%20%E2%80%93%20western%20Navajo%20Nation&journal=J.%20Contemp.%20Water%20Res.%20Educ.&doi=10.1111%2Fj.1936-704X.2020.03330.x&volume=169&pages=27-43&publication_year=2020&author=Jones%2CL&author=Credo%2CJ&author=Parnell%2CR&author=Ingram%2CJC
+ 319. https://doi.org/10.2105%2FAJPH.2018.304621
+ 320. http://www.ncbi.nlm.nih.gov/entrez/query.fcgi?cmd=Retrieve&db=PubMed&dopt=Abstract&list_uids=30138072
+ 321. http://www.ncbi.nlm.nih.gov/pmc/articles/PMC6137766
+ 322. http://scholar.google.com/scholar_lookup?&title=Drinking%20water%20violations%20and%20environmental%20justice%20in%20the%20United%20States%2C%202011%E2%80%932015&journal=Am.%20J.%20Public%20Health&doi=10.2105%2FAJPH.2018.304621&volume=108&pages=1401-1407&publication_year=2018&author=McDonald%2CYJ&author=Jones%2CNE
+ 323. https://doi.org/10.1016%2Fj.envres.2006.05.007
+ 324. http://www.ncbi.nlm.nih.gov/entrez/query.fcgi?cmd=Retrieve&db=PubMed&dopt=Abstract&list_uids=16828737
+ 325. https://www.nature.com/articles/cas-redirect/1:CAS:528:DC%2BD28XptFSqtL4%3D
+ 326. http://scholar.google.com/scholar_lookup?&title=The%20riskscape%20and%20the%20color%20line%3A%20examining%20the%20role%20of%20segregation%20in%20environmental%20health%20disparities&journal=Environ.%20Res.&doi=10.1016%2Fj.envres.2006.05.007&volume=102&pages=181-196&publication_year=2006&author=Morello-Frosch%2CR&author=Lopez%2CR
+ 327. http://scholar.google.com/scholar_lookup?&title=The%20color%20of%20drinking%20water%3A%20class%2C%20race%2C%20ethnicity%2C%20and%20safe%20drinking%20water%20act%20compliance&journal=AWWA%20Water%20Sci.&volume=109&pages=40-45&publication_year=2017&author=Switzer%2CD&author=Teodoro%2CMP
+ 328. https://doi.org/10.2105%2FAJPH.2013.301664
+ 329. http://www.ncbi.nlm.nih.gov/entrez/query.fcgi?cmd=Retrieve&db=PubMed&dopt=Abstract&list_uids=24524500
+ 330. http://www.ncbi.nlm.nih.gov/pmc/articles/PMC4025716
+ 331. http://scholar.google.com/scholar_lookup?&title=The%20drinking%20water%20disparities%20framework%3A%20on%20the%20origins%20and%20persistence%20of%20inequities%20in%20exposure&journal=Am.%20J.%20Public%20Health&doi=10.2105%2FAJPH.2013.301664&volume=104&pages=603-611&publication_year=2014&author=Balazs%2CCL&author=Ray%2CI
+ 332. https://doi.org/10.2105%2FAJPH.2011.300189
+ 333. http://www.ncbi.nlm.nih.gov/entrez/query.fcgi?cmd=Retrieve&db=PubMed&dopt=Abstract&list_uids=21836110
+ 334. http://www.ncbi.nlm.nih.gov/pmc/articles/PMC3222486
+ 335. http://scholar.google.com/scholar_lookup?&title=Drinking%20water%20infrastructure%20and%20environmental%20disparities%3A%20evidence%20and%20methodological%20considerations&journal=Am.%20J.%20Public%20Health&doi=10.2105%2FAJPH.2011.300189&volume=101&pages=S109-S114&publication_year=2011&author=VanDerslice%2CJ
+ 336. https://doi.org/10.1093%2Faje%2Fkwi175
+ 337. http://www.ncbi.nlm.nih.gov/entrez/query.fcgi?cmd=Retrieve&db=PubMed&dopt=Abstract&list_uids=15972939
+ 338. http://scholar.google.com/scholar_lookup?&title=Comparison%20of%20a%20spatial%20perspective%20with%20the%20multilevel%20analytical%20approach%20in%20neighborhood%20studies%3A%20the%20case%20of%20mental%20and%20behavioral%20disorders%20due%20to%20psychoactive%20substance%20use%20in%20Malmo%2C%20Sweden%2C%202001&journal=Am.%20J.%20Epidemiol.&doi=10.1093%2Faje%2Fkwi175&volume=162&pages=171-182&publication_year=2005&author=Chaix%2CB&author=Merlo%2CJ&author=Subramanian%2CSV&author=Lynch%2CJ&author=Chauvin%2CP
+ 339. https://doi.org/10.1016%2Fj.ecolecon.2008.12.010
+ 340. http://scholar.google.com/scholar_lookup?&title=Environmental%20justice%20and%20enforcement%20of%20the%20safe%20drinking%20water%20act%3A%20The%20Arizona%20arsenic%20experience&journal=Ecol.%20Econ.&doi=10.1016%2Fj.ecolecon.2008.12.010&volume=68&pages=1825-1837&publication_year=2009&author=Cory%2CDC&author=Rahman%2CT
+ 341. https://doi.org/10.1089%2Fenv.2008.0509
+ 342. http://scholar.google.com/scholar_lookup?&title=Built%20environment%20issues%20in%20unserved%20and%20underserved%20African-American%20neighborhoods%20in%20North%20Carolina&journal=Environ.%20Justice&doi=10.1089%2Fenv.2008.0509&volume=1&pages=63-72&publication_year=2008&author=Wilson%2CSM&author=Heaney%2CCD&author=Cooper%2CJ&author=Wilson%2CO
+ 343. https://doi.org/10.1089%2Fees.2020.0315
+ 344. http://www.ncbi.nlm.nih.gov/entrez/query.fcgi?cmd=Retrieve&db=PubMed&dopt=Abstract&list_uids=34079209
+ 345. http://www.ncbi.nlm.nih.gov/pmc/articles/PMC8165459
+ 346. https://www.nature.com/articles/cas-redirect/1:CAS:528:DC%2BB3MXhtFelsL7F
+ 347. http://scholar.google.com/scholar_lookup?&title=Water%2C%20health%2C%20and%20environmental%20justice%20in%20california%3A%20geospatial%20analysis%20of%20nitrate%20contamination%20and%20thyroid%20cancer&journal=Environ.%20Eng.%20Sci.&doi=10.1089%2Fees.2020.0315&volume=38&pages=377-388&publication_year=2021&author=Tariqi%2CAQ&author=Naughton%2CCC
+ 348. https://doi.org/10.1186%2F1476-069X-11-84
+ 349. http://www.ncbi.nlm.nih.gov/entrez/query.fcgi?cmd=Retrieve&db=PubMed&dopt=Abstract&list_uids=23151087
+ 350. http://www.ncbi.nlm.nih.gov/pmc/articles/PMC3533865
+ 351. https://www.nature.com/articles/cas-redirect/1:CAS:528:DC%2BC3sXjtFKit7Y%3D
+ 352. http://scholar.google.com/scholar_lookup?&title=Environmental%20justice%20implications%20of%20arsenic%20contamination%20in%20California%E2%80%99s%20San%20Joaquin%20Valley%3A%20a%20cross-sectional%2C%20cluster-design%20examining%20exposure%20and%20compliance%20in%20community%20drinking%20water%20systems&journal=Environ.%20Health&doi=10.1186%2F1476-069X-11-84&volume=11&publication_year=2012&author=Balazs%2CCL&author=Morello-Frosch%2CR&author=Hubbard%2CAE&author=Ray%2CI
+ 353. https://www.atsdr.cdc.gov/toxprofiles/tp.asp?id=327&tid=57
+ 354. https://wwwn.cdc.gov/TSP/ToxProfiles/ToxProfiles.aspx?id=153&tid=28
+ 355. https://doi.org/10.1177%2F0962280210386207
+ 356. http://www.ams.org/mathscinet-getitem?mr=2867537
+ 357. http://www.ncbi.nlm.nih.gov/entrez/query.fcgi?cmd=Retrieve&db=PubMed&dopt=Abstract&list_uids=21030422
+ 358. http://scholar.google.com/scholar_lookup?&title=Diagnosing%20and%20responding%20to%20violations%20in%20the%20positivity%20assumption&journal=Stat.%20Methods%20Med.%20Res.&doi=10.1177%2F0962280210386207&volume=21&pages=31-54&publication_year=2012&author=Petersen%2CML&author=Porter%2CKE&author=Gruber%2CS&author=Wang%2CY&author=Laan%2CMJ
+ 359. http://scholar.google.com/scholar_lookup?&title=An%20evaluation%20of%20spatial%20autocorrelation%20and%20heterogeneity%20in%20the%20residuals%20of%20six%20regression%20models&journal=For.%20Sci.&volume=55&pages=533-548&publication_year=2009&author=Zhang%2CL&author=Ma%2CZ&author=Guo%2CL
+ 360. https://www.atsdr.cdc.gov/placeandhealth/svi/data_documentation_download.html
+ 361. https://doi.org/10.1093%2Faje%2Fkwab239
+ 362. http://www.ncbi.nlm.nih.gov/entrez/query.fcgi?cmd=Retrieve&db=PubMed&dopt=Abstract&list_uids=34564723
+ 363. http://scholar.google.com/scholar_lookup?&title=Measuring%20structural%20racism%3A%20a%20guide%20for%20epidemiologists%20and%20other%20health%20researchers&journal=Am.%20J.%20Epidemiol.&doi=10.1093%2Faje%2Fkwab239&volume=191&pages=539-547&publication_year=2022&author=Adkins-Jackson%2CPB&author=Chantarat%2CT&author=Bailey%2CZD&author=Ponce%2CNA
+ 364. https://doi.org/10.1016%2FS0140-6736%2817%2930569-X
+ 365. http://www.ncbi.nlm.nih.gov/entrez/query.fcgi?cmd=Retrieve&db=PubMed&dopt=Abstract&list_uids=28402827
+ 366. http://scholar.google.com/scholar_lookup?&title=Structural%20racism%20and%20health%20inequities%20in%20the%20USA%3A%20evidence%20and%20interventions&journal=Lancet&doi=10.1016%2FS0140-6736%2817%2930569-X&volume=389&pages=1453-1463&publication_year=2017&author=Bailey%2CZD
+ 367. https://doi.org/10.1089%2Fenv.2015.0015
+ 368. http://www.ncbi.nlm.nih.gov/entrez/query.fcgi?cmd=Retrieve&db=PubMed&dopt=Abstract&list_uids=27053980
+ 369. http://www.ncbi.nlm.nih.gov/pmc/articles/PMC4819332
+ 370. http://scholar.google.com/scholar_lookup?&title=Sacrifice%20along%20the%20energy%20continuum%3A%20a%20call%20for%20energy%20justice&journal=Environ.%20Justice&doi=10.1089%2Fenv.2015.0015&volume=8&pages=151-156&publication_year=2015&author=Hern%C3%A1ndez%2CD
+ 371. https://doi.org/10.1371%2Fjournal.pone.0138511
+ 372. http://www.ncbi.nlm.nih.gov/entrez/query.fcgi?cmd=Retrieve&db=PubMed&dopt=Abstract&list_uids=26398658
+ 373. http://www.ncbi.nlm.nih.gov/pmc/articles/PMC4580597
+ 374. http://scholar.google.com/scholar_lookup?&title=Racism%20as%20a%20determinant%20of%20health%3A%20a%20systematic%20review%20and%20meta-analysis&journal=PLoS%20ONE&doi=10.1371%2Fjournal.pone.0138511&volume=10&publication_year=2015&author=Paradies%2CY
+ 375. https://doi.org/10.1146%2Fannurev-soc-073014-112305
+ 376. http://scholar.google.com/scholar_lookup?&title=Is%20racism%20a%20fundamental%20cause%20of%20inequalities%20in%20health%3F&journal=Annu.%20Rev.%20Sociol.&doi=10.1146%2Fannurev-soc-073014-112305&volume=41&pages=311-330&publication_year=2015&author=Phelan%2CJC&author=Link%2CBG
+ 377. https://doi.org/10.2105%2FAJPH.86.10.1370
+ 378. http://www.ncbi.nlm.nih.gov/entrez/query.fcgi?cmd=Retrieve&db=PubMed&dopt=Abstract&list_uids=8876504
+ 379. http://www.ncbi.nlm.nih.gov/pmc/articles/PMC1380646
+ 380. https://www.nature.com/articles/cas-redirect/1:STN:280:DyaK2s%2FjtVGlsQ%3D%3D
+ 381. http://scholar.google.com/scholar_lookup?&title=Racial%20discrimination%20and%20blood%20pressure%3A%20the%20CARDIA%20Study%20of%20young%20black%20and%20white%20adults&journal=Am.%20J.%20Public%20Health&doi=10.2105%2FAJPH.86.10.1370&volume=86&pages=1370-1378&publication_year=1996&author=Krieger%2CN&author=Sidney%2CS
+ 382. https://doi.org/10.2105%2FAJPH.2014.302243
+ 383. http://www.ncbi.nlm.nih.gov/entrez/query.fcgi?cmd=Retrieve&db=PubMed&dopt=Abstract&list_uids=25521873
+ 384. http://www.ncbi.nlm.nih.gov/pmc/articles/PMC4358177
+ 385. http://scholar.google.com/scholar_lookup?&title=Cross-sectional%20and%20longitudinal%20effects%20of%20racism%20on%20mental%20health%20among%20residents%20of%20Black%20neighborhoods%20in%20New%20York%20City&journal=Am.%20J.%20Public%20Health&doi=10.2105%2FAJPH.2014.302243&volume=105&pages=711-718&publication_year=2015&author=Kwate%2CNO&author=Goodman%2CMS
+ 386. https://doi.org/10.1016%2FS2542-5196%2819%2930241-4
+ 387. http://www.ncbi.nlm.nih.gov/entrez/query.fcgi?cmd=Retrieve&db=PubMed&dopt=Abstract&list_uids=31999951
+ 388. http://scholar.google.com/scholar_lookup?&title=Associations%20between%20historical%20residential%20redlining%20and%20current%20age-adjusted%20rates%20of%20emergency%20department%20visits%20due%20to%20asthma%20across%20eight%20cities%20in%20California%3A%20an%20ecological%20study&journal=Lancet%20Planet%20Health&doi=10.1016%2FS2542-5196%2819%2930241-4&volume=4&pages=e24-e31&publication_year=2020&author=Nardone%2CA
+ 389. https://doi.org/10.2747%2F0272-3638.31.5.691
+ 390. http://scholar.google.com/scholar_lookup?&title=Institutionalization%20of%20racial%20inequality%20in%20local%20political%20geographies&journal=Urban%20Geogr.&doi=10.2747%2F0272-3638.31.5.691&volume=31&pages=691-709&publication_year=2010&author=Marsh%2CB&author=Parnell%2CAM&author=Joyner%2CAM
+ 391. https://doi.org/10.1073%2Fpnas.2002729117
+ 392. http://scholar.google.com/scholar_lookup?&title=Children%20drinking%20private%20well%20water%20have%20higher%20blood%20lead%20than%20those%20with%20city%20water&journal=Proc.%20Natl%20Acad.%20Sci.%20USA&doi=10.1073%2Fpnas.2002729117&volume=117&pages=16898-16907&publication_year=2020&author=MacDonald%20Gibson%2CJ&author=Fisher%2CM&author=Clonch%2CA&author=Macdonald%2CJM&author=Cook%2CPJ
+ 393. https://doi.org/10.1073%2Fpnas.2011547117
+ 394. http://www.ncbi.nlm.nih.gov/entrez/query.fcgi?cmd=Retrieve&db=PubMed&dopt=Abstract&list_uids=32641505
+ 395. http://www.ncbi.nlm.nih.gov/pmc/articles/PMC7395535
+ 396. https://www.nature.com/articles/cas-redirect/1:CAS:528:DC%2BB3cXisVWktLbL
+ 397. http://scholar.google.com/scholar_lookup?&title=Environmental%20racism%20and%20the%20need%20for%20private%20well%20protections&journal=Proc.%20Natl%20Acad.%20Sci.%20USA&doi=10.1073%2Fpnas.2011547117&volume=117&pages=17476-17478&publication_year=2020&author=Nigra%2CAE
+ 398. https://doi.org/10.1021%2Fes4003636
+ 399. http://www.ncbi.nlm.nih.gov/entrez/query.fcgi?cmd=Retrieve&db=PubMed&dopt=Abstract&list_uids=23879429
+ 400. http://scholar.google.com/scholar_lookup?&title=Detection%20and%20evaluation%20of%20elevated%20lead%20release%20from%20service%20lines%3A%20a%20field%20study&journal=Environ.%20Sci.%20Technol.&doi=10.1021%2Fes4003636&volume=47&pages=9300-9307&publication_year=2013&author=Toral%2CMA&author=Porter%2CA&author=Schock%2CMR
+ 401. https://doi.org/10.2105%2FAJPH.2015.303003
+ 402. http://www.ncbi.nlm.nih.gov/entrez/query.fcgi?cmd=Retrieve&db=PubMed&dopt=Abstract&list_uids=26691115
+ 403. http://www.ncbi.nlm.nih.gov/pmc/articles/PMC4985856
+ 404. http://scholar.google.com/scholar_lookup?&title=Elevated%20blood%20lead%20levels%20in%20children%20associated%20with%20the%20flint%20drinking%20water%20crisis%3A%20a%20spatial%20analysis%20of%20risk%20and%20public%20health%20response&journal=Am.%20J.%20Public%20Health&doi=10.2105%2FAJPH.2015.303003&volume=106&pages=283-290&publication_year=2016&author=Hanna-Attisha%2CM&author=LaChance%2CJ&author=Sadler%2CRC&author=Champney%20Schnepp%2CA
+ 405. https://doi.org/10.1681%2FASN.2021060793
+ 406. http://www.ncbi.nlm.nih.gov/entrez/query.fcgi?cmd=Retrieve&db=PubMed&dopt=Abstract&list_uids=34544822
+ 407. http://www.ncbi.nlm.nih.gov/pmc/articles/PMC8722796
+ 408. https://www.nature.com/articles/cas-redirect/1:CAS:528:DC%2BB3MXis1GisbvK
+ 409. http://scholar.google.com/scholar_lookup?&title=Racial%20inequalities%20in%20drinking%20water%20lead%20exposure%3A%20a%20wake-up%20call%20to%20protect%20patients%20with%20end%20stage%20kidney%20disease&journal=J.%20Am.%20Soc.%20Nephrol.&doi=10.1681%2FASN.2021060793&volume=32&pages=2419-2421&publication_year=2021&author=Nigra%2CAE&author=Navas-Acien%2CA
+ 410. https://www.federalregister.gov/documents/2021/01/15/2020-28691/national-primary-drinking-water-regulations-lead-and-copper-rule-revisions
+ 411. https://www.brookings.edu/research/melting-pot-cities-and-suburbs-racial-and-ethnic-change-in-metro-america-in-the-2000s/
+ 412. http://www.ers.usda.gov/publications/pub-details/?pubid=90555
+ 413. http://pubs.er.usgs.gov/publication/cir1405
+ 414. http://pubs.er.usgs.gov/publication/cir1441
+ 415. https://doi.org/10.1116%2F1.5142283
+ 416. http://www.ncbi.nlm.nih.gov/entrez/query.fcgi?cmd=Retrieve&db=PubMed&dopt=Abstract&list_uids=32226218
+ 417. http://www.ncbi.nlm.nih.gov/pmc/articles/PMC7083651
+ 418. https://www.nature.com/articles/cas-redirect/1:CAS:528:DC%2BB3cXlsVSltr0%3D
+ 419. http://scholar.google.com/scholar_lookup?&title=Uranium%20and%20arsenic%20unregulated%20water%20issues%20on%20Navajo%20lands&journal=J.%20Vac.%20Sci.%20Technol.%20A&doi=10.1116%2F1.5142283&volume=38&publication_year=2020&author=Ingram%2CJC&author=Jones%2CL&author=Credo%2CJ&author=Rock%2CT
+ 420. https://doi.org/10.1016%2Fj.jhazmat.2019.05.101
+ 421. http://www.ncbi.nlm.nih.gov/entrez/query.fcgi?cmd=Retrieve&db=PubMed&dopt=Abstract&list_uids=31173981
+ 422. http://www.ncbi.nlm.nih.gov/pmc/articles/PMC7369140
+ 423. https://www.nature.com/articles/cas-redirect/1:CAS:528:DC%2BC1MXhtV2ltL7E
+ 424. http://scholar.google.com/scholar_lookup?&title=Solution%20equilibria%20of%20uranyl%20minerals%3A%20role%20of%20the%20common%20groundwater%20ions%20calcium%20and%20carbonate&journal=J.%20Hazard%20Mater.&doi=10.1016%2Fj.jhazmat.2019.05.101&volume=377&pages=315-320&publication_year=2019&author=Stanley%2CDM&author=Wilkin%2CRT
+ 425. https://doi.org/10.1021%2Fes902194x
+ 426. http://www.ncbi.nlm.nih.gov/entrez/query.fcgi?cmd=Retrieve&db=PubMed&dopt=Abstract&list_uids=20058915
+ 427. https://www.nature.com/articles/cas-redirect/1:CAS:528:DC%2BC3cXjt1yiug%3D%3D
+ 428. http://scholar.google.com/scholar_lookup?&title=Impact%20of%20uranyl-calcium-carbonato%20complexes%20on%20uranium%28VI%29%20adsorption%20to%20synthetic%20and%20natural%20sediments&journal=Environ.%20Sci.%20Technol.&doi=10.1021%2Fes902194x&volume=44&pages=928-934&publication_year=2010&author=Stewart%2CBD&author=Mayes%2CMA&author=Fendorf%2CS
+ 429. https://doi.org/10.1021%2Fes990949p
+ 430. https://www.nature.com/articles/cas-redirect/1:CAS:528:DC%2BD3cXktFSmur8%3D
+ 431. http://scholar.google.com/scholar_lookup?&title=Carbonate%20ions%20and%20arsenic%20dissolution%20by%20groundwater&journal=Environ.%20Sci.%20Technol.&doi=10.1021%2Fes990949p&volume=34&pages=3094-3100&publication_year=2000&author=Kim%2CM-J&author=Nriagu%2CJ&author=Haack%2CS
+ 432. https://doi.org/10.1289%2Fehp.1409360
+ 433. http://www.ncbi.nlm.nih.gov/entrez/query.fcgi?cmd=Retrieve&db=PubMed&dopt=Abstract&list_uids=26115410
+ 434. https://www.nature.com/articles/cas-redirect/1:STN:280:DC%2BC2MbntlelsA%3D%3D
+ 435. http://scholar.google.com/scholar_lookup?&title=Mechanisms%20underlying%20latent%20disease%20risk%20associated%20with%20early-life%20arsenic%20exposure%3A%20current%20research%20trends%20and%20scientific%20gaps&journal=Environ.%20Health%20Perspect.&doi=10.1289%2Fehp.1409360&volume=124&pages=170-175&publication_year=2016&author=Bailey%20Kathryn%2CA
+ 436. https://doi.org/10.1007%2Fs40572-018-0192-1
+ 437. http://www.ncbi.nlm.nih.gov/entrez/query.fcgi?cmd=Retrieve&db=PubMed&dopt=Abstract&list_uids=29637476
+ 438. http://www.ncbi.nlm.nih.gov/pmc/articles/PMC6149528
+ 439. https://www.nature.com/articles/cas-redirect/1:CAS:528:DC%2BC1cXntlChsL8%3D
+ 440. http://scholar.google.com/scholar_lookup?&title=A%20meta-analysis%20of%20arsenic%20exposure%20and%20lung%20function%3A%20is%20there%20evidence%20of%20restrictive%20or%20obstructive%20lung%20disease%3F&journal=Curr.%20Environ.%20Health%20Rep.&doi=10.1007%2Fs40572-018-0192-1&volume=5&pages=244-254&publication_year=2018&author=Sanchez%2CTR
+ 441. https://doi.org/10.1007%2Fs40572-018-0212-1
+ 442. http://www.ncbi.nlm.nih.gov/entrez/query.fcgi?cmd=Retrieve&db=PubMed&dopt=Abstract&list_uids=30338443
+ 443. http://www.ncbi.nlm.nih.gov/pmc/articles/PMC6590508
+ 444. https://www.nature.com/articles/cas-redirect/1:CAS:528:DC%2BC1cXhvFKis7rM
+ 445. http://scholar.google.com/scholar_lookup?&title=Toxic%20metals%20and%20chronic%20kidney%20disease%3A%20a%20systematic%20review%20of%20recent%20literature&journal=Curr.%20Environ.%20Health%20Rep.&doi=10.1007%2Fs40572-018-0212-1&volume=5&pages=453-463&publication_year=2018&author=Moody%2CEC&author=Coca%2CSG&author=Sanders%2CAP
+ 446. https://doi.org/10.1016%2Fj.freeradbiomed.2018.04.579
+ 447. http://www.ncbi.nlm.nih.gov/entrez/query.fcgi?cmd=Retrieve&db=PubMed&dopt=Abstract&list_uids=29723666
+ 448. http://www.ncbi.nlm.nih.gov/pmc/articles/PMC6381929
+ 449. https://www.nature.com/articles/cas-redirect/1:CAS:528:DC%2BC1cXhtlCltbzP
+ 450. http://scholar.google.com/scholar_lookup?&title=Metal%20exposure%20and%20oxidative%20stress%20markers%20in%20pregnant%20Navajo%20Birth%20Cohort%20Study%20participants&journal=Free%20Radic.%20Biol.%20Med.&doi=10.1016%2Fj.freeradbiomed.2018.04.579&volume=124&pages=484-492&publication_year=2018&author=Dashner-Titus%2CEJ
+ 451. https://doi.org/10.1016%2Fj.tox.2015.08.004
+ 452. http://www.ncbi.nlm.nih.gov/entrez/query.fcgi?cmd=Retrieve&db=PubMed&dopt=Abstract&list_uids=26277741
+ 453. https://www.nature.com/articles/cas-redirect/1:CAS:528:DC%2BC2MXhsVKgsL7I
+ 454. http://scholar.google.com/scholar_lookup?&title=The%20neurotoxicology%20of%20uranium&journal=Toxicology&doi=10.1016%2Fj.tox.2015.08.004&volume=337&pages=58-71&publication_year=2015&author=Dinocourt%2CC&author=Legrand%2CM&author=Dublineau%2CI&author=Lestaevel%2CP
+ 455. https://doi.org/10.1002%2Fcncr.23044
+ 456. http://www.ncbi.nlm.nih.gov/entrez/query.fcgi?cmd=Retrieve&db=PubMed&dopt=Abstract&list_uids=17939129
+ 457. http://scholar.google.com/scholar_lookup?&title=Annual%20report%20to%20the%20nation%20on%20the%20status%20of%20cancer%2C%201975%E2%80%932004%2C%20featuring%20cancer%20in%20American%20Indians%20and%20Alaska%20Natives&journal=Cancer&doi=10.1002%2Fcncr.23044&volume=110&pages=2119-2152&publication_year=2007&author=Espey%2CDK
+ 458. https://doi.org/10.1016%2Fj.envres.2020.109943
+ 459. http://www.ncbi.nlm.nih.gov/entrez/query.fcgi?cmd=Retrieve&db=PubMed&dopt=Abstract&list_uids=32750552
+ 460. http://www.ncbi.nlm.nih.gov/pmc/articles/PMC7530024
+ 461. https://www.nature.com/articles/cas-redirect/1:CAS:528:DC%2BB3cXhsFejsLfN
+ 462. http://scholar.google.com/scholar_lookup?&title=Exposure%20to%20uranium%20and%20co-occurring%20metals%20among%20pregnant%20Navajo%20women&journal=Environ.%20Res.&doi=10.1016%2Fj.envres.2020.109943&volume=190&publication_year=2020&author=Hoover%2CJH
+ 463. https://doi.org/10.1289%2FEHP898
+ 464. http://www.ncbi.nlm.nih.gov/entrez/query.fcgi?cmd=Retrieve&db=PubMed&dopt=Abstract&list_uids=28749369
+ 465. http://www.ncbi.nlm.nih.gov/pmc/articles/PMC5744659
+ 466. http://scholar.google.com/scholar_lookup?&title=Race%2Fethnicity%2C%20socioeconomic%20status%2C%20residential%20segregation%2C%20and%20spatial%20variation%20in%20noise%20exposure%20in%20the%20contiguous%20united%20states&journal=Environ.%20Health%20Perspect.&doi=10.1289%2FEHP898&volume=125&publication_year=2017&author=Casey%2CJA
+ 467. https://doi.org/10.2105%2FAJPH.2021.306561
+ 468. http://www.ncbi.nlm.nih.gov/entrez/query.fcgi?cmd=Retrieve&db=PubMed&dopt=Abstract&list_uids=34936392
+ 469. http://scholar.google.com/scholar_lookup?&title=Inequities%20in%20drinking%20water%20quality%20among%20domestic%20well%20communities%20and%20community%20water%20systems%2C%20California%2C%202011%E2%80%922019&journal=Am.%20J.%20Public%20Health&doi=10.2105%2FAJPH.2021.306561&volume=112&pages=88-97&publication_year=2022&author=Pace%2CC
+ 470. https://doi.org/10.1186%2Fs12940-018-0442-6
+ 471. http://www.ncbi.nlm.nih.gov/entrez/query.fcgi?cmd=Retrieve&db=PubMed&dopt=Abstract&list_uids=30651108
+ 472. http://www.ncbi.nlm.nih.gov/pmc/articles/PMC6335696
+ 473. http://scholar.google.com/scholar_lookup?&title=Environmental%20justice%20and%20drinking%20water%20quality%3A%20are%20there%20socioeconomic%20disparities%20in%20nitrate%20levels%20in%20U.S.%20drinking%20water%3F&journal=Environ.%20Health&doi=10.1186%2Fs12940-018-0442-6&volume=18&publication_year=2019&author=Schaider%2CLA&author=Swetschinski%2CL&author=Campbell%2CC&author=Rudel%2CRA
+ 474. https://doi.org/10.1289%2Fehp.02110s2289
+ 475. http://www.ncbi.nlm.nih.gov/entrez/query.fcgi?cmd=Retrieve&db=PubMed&dopt=Abstract&list_uids=11929740
+ 476. http://scholar.google.com/scholar_lookup?&title=Segregation%20and%20black%2Fwhite%20differences%20in%20exposure%20to%20air%20toxics%20in%201990&journal=Environ.%20Health%20Perspect.&doi=10.1289%2Fehp.02110s2289&volume=110%2C&pages=289-295&publication_year=2002&author=Lopez%2CR
+ 477. https://doi.org/10.1177%2F10780870122184993
+ 478. http://scholar.google.com/scholar_lookup?&title=Environmental%20justice%20and%20southern%20California%E2%80%99s%20%E2%80%9Criskscape%E2%80%9D%3A%20the%20distribution%20of%20air%20toxics%20exposures%20and%20health%20risks%20among%20diverse%20communities&journal=Urban%20Aff.&doi=10.1177%2F10780870122184993&volume=36&pages=551-578&publication_year=2001&author=Morello-Frosch%2CR&author=Pastor%2CM&author=Sadd%2CJ
+ 479. https://www.epa.gov/newsreleases/epa-awards-over-17-million-benefit-small-water-systems
+ 480. https://www.epa.gov/dwsixyearreview/six-year-review-3-compliance-monitoring-data-2006-2011
+ 481. https://www.epa.gov/sites/default/files/2016-12/documents/810r16014.pdf
+ 482. https://nepis.epa.gov/Exe/ZyPDF.cgi/P100QO9Q.PDF?Dockey=P100QO9Q.PDF
+ 483. https://www.epa.gov/dwreginfo/information-about-public-water-systems
+ 484. https://doi.org/10.1007%2Fs11524-012-9770-y
+ 485. http://www.ncbi.nlm.nih.gov/entrez/query.fcgi?cmd=Retrieve&db=PubMed&dopt=Abstract&list_uids=23099625
+ 486. http://scholar.google.com/scholar_lookup?&title=The%20geography%20of%20recreational%20open%20space%3A%20influence%20of%20neighborhood%20racial%20composition%20and%20neighborhood%20poverty&journal=J.%20Urban%20Health&doi=10.1007%2Fs11524-012-9770-y&volume=90&pages=618-631&publication_year=2013&author=Duncan%2CDT&author=Kawachi%2CI&author=White%2CK&author=Williams%2CDR
+ 487. https://www.rdocumentation.org/packages/spdep/versions/0.7-8/topics/lagsarlm
+ 488. https://doi.org/10.1016%2Fj.gpb.2020.07.004
+ 489. http://scholar.google.com/scholar_lookup?&title=Evaluation%20of%20cell%20type%20annotation%20r%20packages%20on%20single-cell%20rna-seq%20data&journal=Genom.%20Proteom.%20Bioinform.&doi=10.1016%2Fj.gpb.2020.07.004&volume=19&pages=267-281&publication_year=2021&author=Huang%2CQ&author=Liu%2CY&author=Du%2CY&author=Garmire%2CLX
+ 490. https://doi.org/10.5281/zenodo.7301984
+ 491. https://citation-needed.springer.com/v2/references/10.1038/s41467-022-35185-6?format=refman&flavour=references
+ 492. https://www.nature.com/search?author=Irene%20Martinez-Morata
+ 493. http://www.ncbi.nlm.nih.gov/entrez/query.fcgi?cmd=search&term=Irene%20Martinez-Morata
+ 494. http://scholar.google.co.uk/scholar?as_q=&num=10&btnG=Search+Scholar&as_epq=&as_oq=&as_eq=&as_occt=any&as_sauthors=%22Irene%20Martinez-Morata%22&as_publication=&as_ylo=&as_yhi=&as_allsubj=all&hl=en
+ 495. https://www.nature.com/search?author=Benjamin%20C.%20Bostick
+ 496. http://www.ncbi.nlm.nih.gov/entrez/query.fcgi?cmd=search&term=Benjamin%20C.%20Bostick
+ 497. http://scholar.google.co.uk/scholar?as_q=&num=10&btnG=Search+Scholar&as_epq=&as_oq=&as_eq=&as_occt=any&as_sauthors=%22Benjamin%20C.%20Bostick%22&as_publication=&as_ylo=&as_yhi=&as_allsubj=all&hl=en
+ 498. https://www.nature.com/search?author=Otakuye%20Conroy-Ben
+ 499. http://www.ncbi.nlm.nih.gov/entrez/query.fcgi?cmd=search&term=Otakuye%20Conroy-Ben
+ 500. http://scholar.google.co.uk/scholar?as_q=&num=10&btnG=Search+Scholar&as_epq=&as_oq=&as_eq=&as_occt=any&as_sauthors=%22Otakuye%20Conroy-Ben%22&as_publication=&as_ylo=&as_yhi=&as_allsubj=all&hl=en
+ 501. https://www.nature.com/search?author=Dustin%20T.%20Duncan
+ 502. http://www.ncbi.nlm.nih.gov/entrez/query.fcgi?cmd=search&term=Dustin%20T.%20Duncan
+ 503. http://scholar.google.co.uk/scholar?as_q=&num=10&btnG=Search+Scholar&as_epq=&as_oq=&as_eq=&as_occt=any&as_sauthors=%22Dustin%20T.%20Duncan%22&as_publication=&as_ylo=&as_yhi=&as_allsubj=all&hl=en
+ 504. https://www.nature.com/search?author=Miranda%20R.%20Jones
+ 505. http://www.ncbi.nlm.nih.gov/entrez/query.fcgi?cmd=search&term=Miranda%20R.%20Jones
+ 506. http://scholar.google.co.uk/scholar?as_q=&num=10&btnG=Search+Scholar&as_epq=&as_oq=&as_eq=&as_occt=any&as_sauthors=%22Miranda%20R.%20Jones%22&as_publication=&as_ylo=&as_yhi=&as_allsubj=all&hl=en
+ 507. https://www.nature.com/search?author=Maya%20Spaur
+ 508. http://www.ncbi.nlm.nih.gov/entrez/query.fcgi?cmd=search&term=Maya%20Spaur
+ 509. http://scholar.google.co.uk/scholar?as_q=&num=10&btnG=Search+Scholar&as_epq=&as_oq=&as_eq=&as_occt=any&as_sauthors=%22Maya%20Spaur%22&as_publication=&as_ylo=&as_yhi=&as_allsubj=all&hl=en
+ 510. https://www.nature.com/search?author=Kevin%20P.%20Patterson
+ 511. http://www.ncbi.nlm.nih.gov/entrez/query.fcgi?cmd=search&term=Kevin%20P.%20Patterson
+ 512. http://scholar.google.co.uk/scholar?as_q=&num=10&btnG=Search+Scholar&as_epq=&as_oq=&as_eq=&as_occt=any&as_sauthors=%22Kevin%20P.%20Patterson%22&as_publication=&as_ylo=&as_yhi=&as_allsubj=all&hl=en
+ 513. https://www.nature.com/search?author=Seth%20J.%20Prins
+ 514. http://www.ncbi.nlm.nih.gov/entrez/query.fcgi?cmd=search&term=Seth%20J.%20Prins
+ 515. http://scholar.google.co.uk/scholar?as_q=&num=10&btnG=Search+Scholar&as_epq=&as_oq=&as_eq=&as_occt=any&as_sauthors=%22Seth%20J.%20Prins%22&as_publication=&as_ylo=&as_yhi=&as_allsubj=all&hl=en
+ 516. https://www.nature.com/search?author=Ana%20Navas-Acien
+ 517. http://www.ncbi.nlm.nih.gov/entrez/query.fcgi?cmd=search&term=Ana%20Navas-Acien
+ 518. http://scholar.google.co.uk/scholar?as_q=&num=10&btnG=Search+Scholar&as_epq=&as_oq=&as_eq=&as_occt=any&as_sauthors=%22Ana%20Navas-Acien%22&as_publication=&as_ylo=&as_yhi=&as_allsubj=all&hl=en
+ 519. https://www.nature.com/search?author=Anne%20E.%20Nigra
+ 520. http://www.ncbi.nlm.nih.gov/entrez/query.fcgi?cmd=search&term=Anne%20E.%20Nigra
+ 521. http://scholar.google.co.uk/scholar?as_q=&num=10&btnG=Search+Scholar&as_epq=&as_oq=&as_eq=&as_occt=any&as_sauthors=%22Anne%20E.%20Nigra%22&as_publication=&as_ylo=&as_yhi=&as_allsubj=all&hl=en
+ 522. mailto:im2557@cumc.columbia.edu
+ 523. https://www.nature.com/articles/s41467-022-35185-6#MOESM2
+ 524. https://static-content.springer.com/esm/art%3A10.1038%2Fs41467-022-35185-6/MediaObjects/41467_2022_35185_MOESM1_ESM.pdf
+ 525. https://static-content.springer.com/esm/art%3A10.1038%2Fs41467-022-35185-6/MediaObjects/41467_2022_35185_MOESM2_ESM.pdf
+ 526. https://static-content.springer.com/esm/art%3A10.1038%2Fs41467-022-35185-6/MediaObjects/41467_2022_35185_MOESM3_ESM.pdf
+ 527. http://creativecommons.org/licenses/by/4.0/
+ 528. https://s100.copyright.com/AppDispatchServlet?title=Nationwide%20geospatial%20analysis%20of%20county%20racial%20and%20ethnic%20composition%20and%20public%20drinking%20water%20arsenic%20and%20uranium&author=Irene%20Martinez-Morata%20et%20al&contentID=10.1038%2Fs41467-022-35185-6&copyright=The%20Author%28s%29&publication=2041-1723&publicationDate=2022-12-03&publisherName=SpringerNature&orderBeanReset=true&oa=CC%20BY
+ 529. https://crossmark.crossref.org/dialog/?doi=10.1038/s41467-022-35185-6
+ 530. https://citation-needed.springer.com/v2/references/10.1038/s41467-022-35185-6?format=refman&flavour=citation
+ 531. https://www.nature.com/info/tandc.html
+ 532. https://www.nature.com/info/community-guidelines.html
+ 533. https://www.nature.com/articles/s41467-022-35185-6.pdf
+ 534. https://pubads.g.doubleclick.net/gampad/jump?iu=/285/nature_communications/article&sz=300x250&c=-2028504793&t=pos%3Dright%26type%3Darticle%26artid%3Ds41467-022-35185-6%26doi%3D10.1038/s41467-022-35185-6%26subjmeta%3D499,692,704,844%26kwrd%3DEnvironmental+social+sciences,Risk+factors
+ 535. https://www.nature.com/ncomms/research-articles
+ 536. https://www.nature.com/ncomms/reviews-and-analysis
+ 537. https://www.nature.com/ncomms/news-and-comment
+ 538. https://www.nature.com/ncomms/video
+ 539. https://www.nature.com/ncomms/collections
+ 540. https://www.nature.com/ncomms/browse-subjects
+ 541. https://www.facebook.com/NatureCommunications
+ 542. https://twitter.com/NatureComms
+ 543. https://www.nature.com/my-account/alerts/subscribe-journal?list-id=264
+ 544. https://www.nature.com/ncomms.rss
+ 545. https://www.nature.com/ncomms/aims
+ 546. https://www.nature.com/ncomms/editors
+ 547. https://www.nature.com/ncomms/journal-information
+ 548. https://www.nature.com/ncomms/open-access
+ 549. https://www.nature.com/ncomms/calls-for-papers
+ 550. https://www.nature.com/ncomms/editorial-values-statement
+ 551. https://www.nature.com/ncomms/journal-impact
+ 552. https://www.nature.com/ncomms/editorshighlights
+ 553. https://www.nature.com/ncomms/contact
+ 554. https://www.nature.com/ncomms/editorial-policies
+ 555. https://www.nature.com/ncomms/top-articles
+ 556. https://www.nature.com/ncomms/submit
+ 557. https://www.nature.com/ncomms/for-reviewers
+ 558. https://authorservices.springernature.com/go/sn/?utm_source=For+Authors&utm_medium=Website_Nature&utm_campaign=Platform+Experimentation+2022&utm_id=PE2022
+ 559. https://mts-ncomms.nature.com/
+ 560. https://www.nature.com/search/advanced
+ 561. https://www.nature.com/subjects
+ 562. https://www.nature.com/naturecareers
+ 563. https://www.nature.com/authors/index.html
+ 564. https://www.nature.com/authors/editorial_policies/
+ 565. https://www.nature.com/npg_/company_info/index.html
+ 566. https://www.nature.com/npg_/press_room/press_releases.html
+ 567. https://press.nature.com/
+ 568. https://support.nature.com/support/home
+ 569. https://www.nature.com/siteindex
+ 570. https://www.nature.com/subjects/
+ 571. https://nano.nature.com/
+ 572. https://www.nature.com/protocolexchange/
+ 573. https://www.natureindex.com/
+ 574. https://www.nature.com/authors/editorial_policies/
+ 575. https://www.nature.com/nature-research/open-access
+ 576. https://www.nature.com/reprints/
+ 577. https://www.springernature.com/gp/authors/research-data
+ 578. https://authorservices.springernature.com/language-editing/
+ 579. https://authorservices.springernature.com/scientific-editing/
+ 580. https://masterclasses.nature.com/
+ 581. https://partnerships.nature.com/product/researcher-training/
+ 582. https://solutions.springernature.com/
+ 583. https://www.springernature.com/gp/librarians/tools-services
+ 584. https://www.springernature.com/gp/librarians/manage-your-account/librarianportal
+ 585. https://www.nature.com/openresearch/about-open-access/information-for-institutions/
+ 586. https://www.springernature.com/gp/librarians/recommend-to-your-library
+ 587. https://partnerships.nature.com/product/digital-advertising/
+ 588. https://partnerships.nature.com/
+ 589. https://partnerships.nature.com/media-kits/
+ 590. https://partnerships.nature.com/product/branded-content-native-advertising/
+ 591. https://www.nature.com/naturecareers
+ 592. https://conferences.nature.com/
+ 593. https://www.nature.com/natureevents/
+ 594. https://www.nature.com/natafrica
+ 595. http://www.naturechina.com/
+ 596. https://www.nature.com/nindia
+ 597. https://www.nature.com/natitaly
+ 598. https://www.natureasia.com/ja-jp/
+ 599. https://www.natureasia.com/ko-kr/
+ 600. https://www.nature.com/nmiddleeast/
+ 601. https://www.nature.com/info/privacy
+ 602. https://www.nature.com/info/cookies
+ 603. https://www.nature.com/info/legal-notice
+ 604. https://www.nature.com/info/accessibility-statement
+ 605. https://www.nature.com/info/terms-and-conditions
+ 606. https://www.springernature.com/ccpa
+ 607. https://www.springernature.com/
+ 608. https://www.nature.com/info/privacy
+ 609. https://www.nature.com/briefing/signup/

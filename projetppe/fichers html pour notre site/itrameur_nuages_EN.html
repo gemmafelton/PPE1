@@ -1,0 +1,241 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+  <meta charset="utf-8">
+
+  <title>iTrameur | WordCloud</title>
+
+  <link href="assets/img/favicon.png" rel="icon">
+  <link href="https://fonts.googleapis.com/css?family=Pacifico" rel="stylesheet">
+  <link href="https://fonts.googleapis.com/css?family=Ma Shan Zheng" rel="stylesheet">
+  <link href="https://fonts.googleapis.com/css?family=Open+Sans:300,300i,400,400i,600,600i,700,700i|Nunito:300,300i,400,400i,600,600i,700,700i|Poppins:300,300i,400,400i,500,500i,600,600i,700,700i" rel="stylesheet">
+  <link href="assets/vendor/bootstrap/css/bootstrap.min.css" rel="stylesheet">
+  <link href="assets/vendor/bootstrap-icons/bootstrap-icons.css" rel="stylesheet">
+  <link href="assets/css/style.css" rel="stylesheet">
+
+
+  <!--  CSS et Js Files pour scripts -->
+  <link rel="stylesheet" href="assets/css/monokai-sublime.min.css">
+  <script src="assets/js/highlight.min.js"></script>
+  <script>
+    hljs.initHighlightingOnLoad();
+</script>
+
+</head>
+
+<body>
+
+  <!-- ======= Header ======= -->
+  <header class="header fixed-top bg-dark">
+    <div class="container-fluid d-flex align-items-center justify-content-between">
+      <a class="logo">
+        <img src="assets/img/groupeicon.jpeg">
+        <span>Projet Encadré</span>
+      </a>
+      <nav id="navbar" class="navbar bg-dark">
+        <ul>
+          <li><a class="nav-link scrollto" href="../index.html">Accueil</a></li>   <!-- ======= avec presentation ======= -->
+          <li><a class="nav-link scrollto" href="../index.html#presentation">Présentation</a></li>
+          <li class="dropdown"><a href="#"><span>Tableaux</span> <i class="bi bi-chevron-down"></i></a>
+            <ul>
+              <li><a href="tableaux-cn.html">Tableau - CN</a></li>
+              <li><a href="Tableaux-FR.html">Tableau - FR</a></li>
+              <li><a href="Tableaux-EN.html">Tableau - EN</a></li>
+            </ul>
+          </li>
+          <li class="dropdown"><a href="#"><span>Scripts</span> <i class="bi bi-chevron-down"></i></a>
+            <ul>
+              <li><a href="scripts_cn.html">Script - CN</a></li>
+              <li><a href="scripts_EN_FR.html">Scripts - EN | FR</a></li>
+            </ul>
+          </li>
+          <li class="dropdown"><a href="#"><span class="active">iTrameur&Nuages</span> <i class="bi bi-chevron-down"></i></a>
+            <ul>
+              <li><a href="itrameur_nuages.html">Chinois</a></li>
+              <li><a href="itrameur_nuages_FR.html">Français</a></li>
+              <li class="active"><a href="itrameur_nuages_EN.html" class="active">Anglais</a></li>
+            </ul>
+          </li>
+          <li><a class="nav-link" href="propos.html">Nous</a></li>
+          <li><a href="blog.html">Blog</a></li>
+          <a href="https://github.com/gemmafelton/PPE-group" class="github"><i class="bi bi-github" style="font-size: 40px;"></i></a>
+          </ul>
+      </nav><!-- .navbar -->
+
+    </div>
+  </header>
+
+
+
+
+
+
+  
+<main id="main">
+  <section class="modul">
+  <div class=" h-100" style="margin-bottom: -60px ; background-image: url('https://w.wallhaven.cc/full/1p/wallhaven-1p35kv.png');">
+  <div class="mask align-items-center h-100" style="background-color: rgba(0, 0, 0, 0.25); "> 
+    <section>
+      <header class="section-header">
+        <h2>&nbsp&nbsp&nbsp&nbsp iTrameur | Nuages des mots</h2>
+        <p style="color:whitesmoke ;">iTrameur — Racial discrimination</p>
+        <p></p>
+          <h6 style="margin-top: 70px; color:rgb(241, 240, 240) ;"> Itrameur est une plateforme permettant d'analyser certains mots à partir d'un corpus, celle-ci va analyser et répertorier tous les mots se trouvant proche du mot recherché.</h6>
+          <h6 style="margin-top: 20px; color:rgb(241, 240, 240) ;"> Cela nous permettra d'inspecter les différents contextes qui lui sont assignés. Ici, nous cherchons précisément le mot " racial discrimination ".</h6>
+          <h6 style="margin-top: 20px; color:rgb(241, 240, 240) ;"> Afin d'avoir le syntagme en entier, nous avons enlevé l'espace.</h6>
+        </header>
+    </section>
+
+
+    <div class="container overflow-hidden text-center">
+      <div class="col-12">
+        <div class="card bg-dark">
+          <div class="row motifs-tabs">    
+          <div class="col-lg-4" style="margin: 70px 0 20px 50px ; color: rgb(13, 211, 241);">
+            <br> <br>
+            <h3> Réseau de cooccurrences spécifiques</h3>
+            <br><br>
+            <h5> Utilisation d'une expression régulière </h5>
+            <br><br>
+            <p style="color:rgb(124, 129, 129) ; text-align: justify;">Nous souhaitons d'abord avoir une vue globale du mot "racial discrimination". Nous utilisons l'outil iTrameur-CooCs-regexp. L'expression régulière nous montrera un graphe de cooccurrents sur un ensemble de pôles définis, donc ici le mot "racial discrimination", qu'il commence par une majuscule ou bien une minuscule.	</p>
+            <br>
+            <p style="color:rgb(124, 129, 129); text-align: justify;">Voici l'expression régulière :</p>
+            <p style="color:rgb(124, 129, 129); text-align: justify;">"(R|r)acialdiscrimination"</p>
+            <br>
+            <p style="color:rgb(124, 129, 129); text-align: justify;"> "Les mots qui nous sautent aux yeux sont : "intentionally", "international", "prohibitations", "persistence", "elimination", "xenophobia".</p>
+           
+            <br>
+          </div>
+          <div class="col-lg-6" style="margin: 150px 0 20px 50px ; color: rgb(13, 211, 241);">
+            <img src="assets/img/itrameur_en/regexp.png" style="width: 1000px; ;" class="img-fluid" alt="cndict1">
+            <br><br><br><br><br><br><br>
+          </div>
+
+          <hr class="hr-edge-weak">
+
+          <div class="col-lg-4" style="margin: 70px 0 20px 50px ; color: rgb(13, 211, 241);">
+            <h3>Graphe de concurrents sur un pôle donné </h3>
+            <br>
+            <p style="color:rgb(124, 129, 129); text-align: justify;">Lors de notre présentation du projet, nous avons évoqué le sujet des violences policiers aux États-Unis qui deviennent de plus en plus répandus. Nous avons donc décidé de comparer les contextes des deux mots : "racial discrimination" et "police".</p>
+            <br><br>
+            <p style="color:rgb(124, 129, 129); text-align: justify;"> Nous utilisons ici l'outil iTrameur-CooCs pour obtenir le graphe de cooccurrents sur un pôle donné : "racial discrimination". Nous constatons dans ce graphe de cooccurrents que le mot "police" n'en fait pas partie. En revanche, nous savons que ce mot est souvent lié au sujet de discrimination raciale. </p>
+          </div>
+          <div class="col-lg-6" style="margin: 305px 0 30px 50px ; color: rgb(13, 211, 241);">
+            <img src="assets/img/itrameur_en/coocs_en.png" style="width: 1000px; ;" class="img-fluid" alt="cndict1">
+            <br><br>
+          </div>
+
+
+          <div class="col-lg-4" style="margin: 1px 0 30px 50px ; color: rgb(13, 211, 241);">
+            <h3></h3>
+<<<<<<< HEAD
+            <br><br>
+            <p style="color:rgb(124, 129, 129); text-align: justify;">Ce graphe de cooccurrents sur un pôle donné : "racial discrimination". Nous pouvons donc constater dans ce graphe de cooccurrents que le mot "police" n'en fait pas partie. En revanche, nous savons que ce mot est souvent lié au sujet de discrimination raciale.</p>
+=======
+            <br>
+            <p style="color:rgb(124, 129, 129); text-align: justify;">Ce graphe de cooccurrents sur un pôle donné : "police". Nous constatons dans ce graphe de cooccurrents que le mot "police" n'en fait pas partie. En revanche, nous savons que ce mot est souvent lié au sujet de discrimination raciale.</p>
+>>>>>>> 4fe1843c64d16fc11ed52766a3c1b130a6b338f2
+            <br><br><br><br><br>
+          </div>
+          <div class="col-lg-6" style="margin: 10px 0 30px 50px ;">
+            <img src="assets/img/itrameur_en/police.png" style="width: 1000px; ;" class="img-fluid" alt="cndict1">
+            <br><br><br><br><br><br>
+          </div>
+          
+          <hr class="hr-edge-weak">
+
+          <div class="col-lg-4" style="margin: 1px 0 30px 50px ; color: rgb(13, 211, 241);">
+            <h3></h3>
+            <br><br>
+            <p style="color:rgb(124, 129, 129); text-align: justify;"> Nous pouvons comprendre ici que le syntagme "Racial discrimination" se trouve dans des contextes négatifs et sont liés à un certain nombre de thématiques, comme la justice qui a été évoqué précédemment dans la partie française.</p>
+            <p style="color:rgb(124, 129, 129); text-align: justify;"> De plus, nous avons constaté qu'il n'existe pas de grandes différences lorsqu'on utilise l'expression régulière. 
+            <br><br><br><br><br>
+          </div>
+          <div class="col-lg-5" style="margin: 130px 0 30px 100px ;">
+            <img src="assets/img/itrameur_en/violences.png" style="width: 1000px; ;" class="img-fluid" alt="cndict1">
+            <br><br><br><br><br><br>
+          </div>
+
+          <hr class="hr-edge-weak">
+
+
+        </div>
+      </div>
+      <br><br><br><br>
+      <section>
+        <header class="section-header">
+          <p style="color:#e1a5ae;">Nuages des Mots</p>
+        </header>
+      </section>
+
+      <div class="container overflow-hidden text-center">
+        <div class="col-12">
+          <div class="card bg-white">
+            <div class="row motifs-tabs">    
+              <div class="col-lg-6" style="margin: 40px 0 20px 50px ;">
+                <img src="assets/img/racial_discrimination.jpg" style="width: 1000px; ;" class="img-fluid" alt="cndict1">
+                <br>
+              </div>    
+              <div class="col-lg-4" style="margin: 100px 0 20px 50px ; color: rgb(4, 4, 4);">
+                <h1 style="font-family: Pacifico;">Nuage de mots anglais</h3>
+                  <br>
+                <h2 style="font-family: Pacifico;">" Racial discrimination "</h3>
+                  <br>
+<<<<<<< HEAD
+                <p style="color:rgb(10, 46, 46); text-align: justify;">Tannina et moi n'avons pas réussi la liste stopwords nous avons alors préféré réaliser notre nuage de mot sur une plateforme : nuagedemot.fr. Elle nous a permis de retirer les mots vides manuellement. Nos nuages de mots seront alors plus représentatifs et on pourra distinguer les grandes nuances de notre mot. Les nuages de mots sont des représentations visuelles plus appréciables et l'on peut apercevoir plus facilement les mots "importants". Puisqu'ils s'affichent le plus souvent en grand.</p>
+=======
+                <p style="color:rgb(10, 46, 46); text-align: justify;">Tannina et moi n'avons pas réussi la liste stopwords. Nous avons alors préféré réaliser notre nuage de mot sur une plateforme : nuagedemot.fr. Elle nous a permis de retirer les mots vides manuellement. Nos nuages de mots seront alors plus représentatifs et on pourra distinguer les grandes nuances de notre mot. Les nuages de mots sont des représentations visuelles plus appréciables et l'on peut apercevoir plus facilement les mots "importants". Puisqu'ils s'affichent le plus souvent en grand.</p>
+>>>>>>> 4fe1843c64d16fc11ed52766a3c1b130a6b338f2
+                </div>
+        </div>
+      </div>
+
+ <br><br><br><br>
+      <section>
+        <header class="section-header">
+          <p style="margin-left: 50px; color:#f2f8d7;">Conclusion</p>
+        </header>
+      </section>
+
+      <div class="container overflow-hidden text-center">
+        <div class="col-12">
+          <div class="card bg-white">
+            <div class="row motifs-tabs">     
+              <div class="col-lg-12" style="margin: 60px 60px 70px 60px ; color: rgb(4, 4, 4);">
+                <h1 style="font-family: Pacifico; margin-right: 80px;">Conclusion du corpus anglais</h3>
+                  <br>
+                <h2 style="font-family:Pacifico;margin-right: 80px;">" Racial discrimination"</h3>
+                  <br>
+                <h5 style="margin-right: 130px; text-indent: 2em; line-height: 30px; color:rgb(10, 46, 46); text-align: justify;"> xxx </h5>
+            </div>
+        </div>
+      </div>
+    </div>
+  </div>
+
+  <br><br><br>             
+</section>
+</main>
+<!-- End #main -->
+
+<footer id="footer" class="footer">
+  <div class="container">
+    <div class="projet">
+    Projet (PPE) du TAL M1 22/23 réalisé par <strong><span>CUI Xiaohua</span>, </strong><strong><span>Tannina Hamizi</span></strong> et <strong><span>Gemma Felton</span></strong>
+    </div>
+    <div class="faitpar">
+      Dirigés par @<a href="http://www.tal.univ-paris3.fr/plurital/"><strong>pluriTAL</strong></a> | Site basé sur <a href="https://getbootstrap.com/">Bootstrap</a> | <a href="scripts_cn.html#sourceimage">Sources des images du site</a>
+      <div class="faitpar">
+        <a href="https://github.com/gemmafelton/PPE-group" class="github"><i class="bi bi-github"></i>
+      </div>
+    </div>
+  </div>
+</footer>
+
+<script src="assets/vendor/bootstrap/js/bootstrap.bundle.min.js"></script>
+<script src="assets/js/main.js"></script>
+
+</body>
+
+</html>

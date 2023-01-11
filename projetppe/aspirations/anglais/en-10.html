@@ -1,0 +1,1146 @@
+<!DOCTYPE html>
+<html lang="en-US" class="no-js">
+<head>
+	<meta charset="UTF-8"><script type="text/javascript">(window.NREUM||(NREUM={})).init={ajax:{deny_list:["bam.nr-data.net"]}};(window.NREUM||(NREUM={})).loader_config={licenseKey:"NRJS-26d49e9cd1d82010791",applicationID:"529647296"};/*! For license information please see nr-loader-rum-1220.min.js.LICENSE.txt */
+!function(t,e){"object"==typeof exports&&"object"==typeof module?module.exports=e():"function"==typeof define&&define.amd?define([],e):"object"==typeof exports?exports.NRBA=e():t.NRBA=e()}(self,(function(){return function(){var t,e,n={9034:function(t,e,n){"use strict";var r=n(4168);e.Z=(0,r.ky)(16)},5973:function(t,e,n){"use strict";n.d(e,{I:function(){return r}});var r=0,o=navigator.userAgent.match(/Firefox[\/\s](\d+\.\d+)/);o&&(r=+o[1])},4280:function(t,e,n){"use strict";n.d(e,{H:function(){return o}});var r=document.createElement("div");r.innerHTML="\x3c!--[if lte IE 6]><div></div><![endif]--\x3e\x3c!--[if lte IE 7]><div></div><![endif]--\x3e\x3c!--[if lte IE 8]><div></div><![endif]--\x3e\x3c!--[if lte IE 9]><div></div><![endif]--\x3e";var o,i=r.getElementsByTagName("div").length;o=4===i?6:3===i?7:2===i?8:1===i?9:0},5955:function(t,e,n){"use strict";n.d(e,{I:function(){return r}});var r=function(t,e){var n=this;return t&&"object"==typeof t?e&&"object"==typeof e?(Object.assign(this,e),void Object.entries(t).forEach((function(t){var e=t[0],r=t[1];n[e]=r}))):console.error("setting a Configurable requires a model to set its initial properties"):console.error("setting a Configurable requires an object as input")}},441:function(t,e,n){"use strict";n.d(e,{C:function(){return c},L:function(){return u}});var r=n(1424),o=n(5955),i={beacon:r.ce.beacon,errorBeacon:r.ce.errorBeacon,licenseKey:void 0,applicationID:void 0,sa:void 0,queueTime:void 0,applicationTime:void 0,ttGuid:void 0,user:void 0,account:void 0,product:void 0,extra:void 0,jsAttributes:{},userAttributes:void 0,atts:void 0,transactionName:void 0,tNamePlain:void 0},a={};function c(t){if(!t)throw new Error("All info objects require an agent identifier!");if(!a[t])throw new Error("Info for "+t+" was never set");return a[t]}function u(t,e){if(!t)throw new Error("All info objects require an agent identifier!");a[t]=new o.I(e,i),(0,r.Qy)(t,a[t],"info")}},1476:function(t,e,n){"use strict";n.d(e,{Dg:function(){return c},Mt:function(){return u}});var r=n(1424),o=n(5955),i={privacy:{cookies_enabled:!0},ajax:{deny_list:void 0,enabled:!0},distributed_tracing:{enabled:void 0,exclude_newrelic_header:void 0,cors_use_newrelic_header:void 0,cors_use_tracecontext_headers:void 0,allowed_origins:void 0},ssl:void 0,obfuscate:void 0,jserrors:{enabled:!0},metrics:{enabled:!0},page_action:{enabled:!0},page_view_event:{enabled:!0},page_view_timing:{enabled:!0},session_trace:{enabled:!0},spa:{enabled:!0}},a={};function c(t,e){if(!t)throw new Error("All configuration objects require an agent identifier!");a[t]=new o.I(e,i),(0,r.Qy)(t,a[t],"config")}function u(t,e){if(!t)throw new Error("All configuration objects require an agent identifier!");var n=function(t){if(!t)throw new Error("All configuration objects require an agent identifier!");if(!a[t])throw new Error("Configuration for "+t+" was never set");return a[t]}(t);if(n){for(var r=e.split("."),o=0;o<r.length-1;o++)if("object"!=typeof(n=n[r[o]]))return;n=n[r[r.length-1]]}return n}},2085:function(t,e,n){"use strict";n.d(e,{Y:function(){return r}});var r=(0,n(1424).mF)().o},1220:function(t,e,n){"use strict";n.d(e,{O:function(){return w},s:function(){return x}});var r={};n.r(r),n.d(r,{agent:function(){return a},match:function(){return f},version:function(){return c}});var o=n(4280),i=n(6959),a=null,c=null;if(navigator.userAgent){var u=navigator.userAgent,s=u.match(/Version\/(\S+)\s+Safari/);s&&-1===u.indexOf("Chrome")&&-1===u.indexOf("Chromium")&&(a="Safari",c=s[1])}function f(t,e){if(!a)return!1;if(t!==a)return!1;if(!e)return!0;if(!c)return!1;for(var n=c.split("."),r=e.split("."),o=0;o<r.length;o++)if(r[o]!==n[o])return!1;return!0}var d=n(5955),l=n(1424),v=n(4168),p=window.sessionStorage,h="NRBA_SESSION_ID";var g=n(1476),y=window.XMLHttpRequest,m=y&&y.prototype,b={};function w(t){if(!t)throw new Error("All runtime objects require an agent identifier!");if(!b[t])throw new Error("Runtime for "+t+" was never set");return b[t]}function x(t,e){if(!t)throw new Error("All runtime objects require an agent identifier!");var n,a;b[t]=new d.I(e,(n=t,{customTransaction:void 0,disabled:!1,features:{},maxBytes:6===o.H?2e3:3e4,offset:(0,i.yf)(),onerror:void 0,origin:""+window.location,ptid:void 0,releaseIds:{},sessionId:!0===(0,g.Mt)(n,"privacy.cookies_enabled")?(null===(a=p.getItem(h))&&(a=(0,v.ky)(16),p.setItem(h,a)),a):"0",xhrWrappable:y&&m&&m.addEventListener&&!/CriOS/.test(navigator.userAgent),userAgent:r})),(0,l.Qy)(t,b[t],"runtime")}},158:function(t,e,n){"use strict";n.d(e,{q:function(){return r}});var r=["1220","PROD"].filter((function(t){return t})).join(".")},3707:function(t,e,n){"use strict";n.d(e,{w:function(){return o}});var r={agentIdentifier:""},o=function(t){var e=this;if("object"!=typeof t)return console.error("shared context requires an object as input");this.sharedContext={},Object.assign(this.sharedContext,r),Object.entries(t).forEach((function(t){var n=t[0],o=t[1];Object.keys(r).includes(n)&&(e.sharedContext[n]=o)}))}},1776:function(t,e,n){"use strict";n.d(e,{ee:function(){return r}});var r,o=n(1424),i=n(4217),a=n(357),c="nr@context",u=(0,o.fP)();function s(){}function f(){return new s}function d(){(r.backlog.api||r.backlog.feature)&&(r.aborted=!0,r.backlog={})}u.ee?r=u.ee:(r=function t(e,n){var o={},u={},l={},v={on:g,addEventListener:g,removeEventListener:y,emit:h,get:b,listeners:m,context:p,buffer:w,abort:d,aborted:!1,isBuffering:x,debugId:n,backlog:e&&e.backlog?e.backlog:{}};return v;function p(t){return t&&t instanceof s?t:t?(0,i.X)(t,c,f):f()}function h(t,n,o,i,a){if(!1!==a&&(a=!0),!r.aborted||i){e&&a&&e.emit(t,n,o);for(var c=p(o),s=m(t),f=s.length,d=0;d<f;d++)s[d].apply(c,n);var l=O()[u[t]];return l&&l.push([v,t,n,c]),c}}function g(t,e){o[t]=m(t).concat(e)}function y(t,e){var n=o[t];if(n)for(var r=0;r<n.length;r++)n[r]===e&&n.splice(r,1)}function m(t){return o[t]||[]}function b(e){return l[e]=l[e]||t(v,e)}function w(t,e){var n=O();v.aborted||(0,a.D)(t,(function(t,r){e=e||"feature",u[r]=e,e in n||(n[e]=[])}))}function x(t){return!!O()[u[t]]}function O(){return v.backlog}}(void 0,"globalEE"),u.ee=r)},7361:function(t,e,n){"use strict";n.d(e,{E:function(){return r},p:function(){return o}});var r=n(1776).ee.get("handle");function o(t,e,n,o,i){i?(i.buffer([t],o),i.emit(t,e,n)):(r.buffer([t],o),r.emit(t,e,n))}},3350:function(t,e,n){"use strict";n.d(e,{X:function(){return i}});var r=n(7361);i.on=a;var o=i.handlers={};function i(t,e,n,i){a(i||r.E,o,t,e,n)}function a(t,e,n,o,i){i||(i="feature"),t||(t=r.E);var a=e[i]=e[i]||{};(a[n]=a[n]||[]).push([t,o])}},4408:function(t,e,n){"use strict";n.d(e,{m:function(){return i}});var r=!1;try{var o=Object.defineProperty({},"passive",{get:function(){r=!0}});window.addEventListener("testPassive",null,o),window.removeEventListener("testPassive",null,o)}catch(t){}function i(t){return r?{passive:!0,capture:!!t}:!!t}},4168:function(t,e,n){"use strict";function r(){var t=null,e=0,n=window.crypto||window.msCrypto;function r(){return t?15&t[e++]:16*Math.random()|0}n&&n.getRandomValues&&(t=n.getRandomValues(new Uint8Array(31)));for(var o,i="xxxxxxxx-xxxx-4xxx-yxxx-xxxxxxxxxxxx",a="",c=0;c<i.length;c++)a+="x"===(o=i[c])?r().toString(16):"y"===o?(o=3&r()|8).toString(16):o;return a}function o(t){var e=null,n=0,r=window.crypto||window.msCrypto;r&&r.getRandomValues&&Uint8Array&&(e=r.getRandomValues(new Uint8Array(31)));for(var o=[],i=0;i<t;i++)o.push(a().toString(16));return o.join("");function a(){return e?15&e[n++]:16*Math.random()|0}}n.d(e,{Rl:function(){return r},ky:function(){return o}})},6959:function(t,e,n){"use strict";n.d(e,{nb:function(){return u},os:function(){return s},yf:function(){return c},zO:function(){return a}});var r=n(2364),o=(new Date).getTime(),i=o;function a(){return r.G&&performance.now?Math.round(performance.now()):(o=Math.max((new Date).getTime(),o))-i}function c(){return o}function u(t){i=t}function s(){return i}},2364:function(t,e,n){"use strict";n.d(e,{G:function(){return r}});var r=void 0!==window.performance&&window.performance.timing&&void 0!==window.performance.timing.navigationStart},1793:function(t,e,n){"use strict";function r(t){var e,n=0;for(e=0;e<t.length;e++)n+=(e+1)*t.charCodeAt(e);return Math.abs(n)}n.d(e,{v:function(){return s},s:function(){return u}});var o=n(6972),i=n(5973),a=n(6959),c=n(2364),u=!0;function s(t){var e=function(){if(i.I&&i.I<9)return;if(c.G)return u=!1,window.performance.timing.navigationStart}()||function(){for(var t=document.cookie.split(" "),e=0;e<t.length;e++)if(0===t[e].indexOf("NREUM=")){for(var n,o,i,a,c=t[e].substring("NREUM=".length).split("&"),u=0;u<c.length;u++)0===c[u].indexOf("s=")?i=c[u].substring(2):0===c[u].indexOf("p=")?";"===(o=c[u].substring(2)).charAt(o.length-1)&&(o=o.substr(0,o.length-1)):0===c[u].indexOf("r=")&&";"===(n=c[u].substring(2)).charAt(n.length-1)&&(n=n.substr(0,n.length-1));if(n){var s=r(document.referrer);(a=s==n)||(a=r(document.location.href)==n&&s==o)}if(a&&i){if((new Date).getTime()-i>6e4)return;return i}}}();e&&((0,o.B)(t,"starttime",e),(0,a.nb)(e))}},6972:function(t,e,n){"use strict";n.d(e,{B:function(){return i},L:function(){return a}});var r=n(6959),o={};function i(t,e,n){void 0===n&&(n=(0,r.zO)()+(0,r.os)()),o[t]=o[t]||{},o[t][e]=n}function a(t,e,n,r){var i,a,c=t.sharedContext.agentIdentifier,u=null==(i=o[c])?void 0:i[n],s=null==(a=o[c])?void 0:a[r];void 0!==u&&void 0!==s&&t.store("measures",e,{value:s-u})}},7299:function(t,e,n){"use strict";n.d(e,{T:function(){return a}});var r=window,o=r;function i(){return o}var a={isFileProtocol:function(){var t=i(),e=!(!t.location||!t.location.protocol||"file:"!==t.location.protocol);e&&(a.supportabilityMetricSent=!0);return e},supportabilityMetricSent:!1}},847:function(t,e,n){"use strict";n.d(e,{K:function(){return a}});var r=n(1220),o=n(1476),i=["ajax","jserrors","metrics","page_action","page_view_event","page_view_timing","session_trace","spa"];function a(t){var e={};return i.forEach((function(n){e[n]=function(t,e){return!0!==(0,r.O)(e).disabled&&!1!==(0,o.Mt)(e,t+".enabled")}(n,t)})),e}},5023:function(t,e,n){"use strict";n.d(e,{W:function(){return o}});var r=n(1776),o=function(t,e,n){void 0===n&&(n=[]),this.agentIdentifier=t,this.aggregator=e,this.ee=r.ee.get(t),this.externalFeatures=n}},4217:function(t,e,n){"use strict";n.d(e,{X:function(){return o}});var r=Object.prototype.hasOwnProperty;function o(t,e,n){if(r.call(t,e))return t[e];var o=n();if(Object.defineProperty&&Object.keys)try{return Object.defineProperty(t,e,{value:o,writable:!0,enumerable:!1}),o}catch(t){}return t[e]=o,o}},357:function(t,e,n){"use strict";n.d(e,{D:function(){return o}});var r=Object.prototype.hasOwnProperty;function o(t,e){var n=[],o="",i=0;for(o in t)r.call(t,o)&&(n[i]=e(o,t[o]),i+=1);return n}},603:function(t,e,n){"use strict";n.d(e,{$c:function(){return s},Ng:function(){return f},RR:function(){return u}});var r=n(1476),o=n(3707),i=n(7299);function a(t,e){return a=Object.setPrototypeOf?Object.setPrototypeOf.bind():function(t,e){return t.__proto__=e,t},a(t,e)}var c={regex:/^file:\/\/(.*)/,replacement:"file://OBFUSCATED"},u=function(t){var e,n;function r(e){return t.call(this,e)||this}n=t,(e=r).prototype=Object.create(n.prototype),e.prototype.constructor=e,a(e,n);var o=r.prototype;return o.shouldObfuscate=function(){return s(this.sharedContext.agentIdentifier).length>0},o.obfuscateString=function(t){if(!t||"string"!=typeof t)return t;for(var e=s(this.sharedContext.agentIdentifier),n=t,r=0;r<e.length;r++){var o=e[r].regex,i=e[r].replacement||"*";n=n.replace(o,i)}return n},r}(o.w);function s(t){var e=[],n=(0,r.Mt)(t,"obfuscate")||[];return e=e.concat(n),i.T.isFileProtocol()&&e.push(c),e}function f(t){for(var e=!1,n=!1,r=0;r<t.length;r++){"regex"in t[r]?"string"!=typeof t[r].regex&&t[r].regex.constructor!==RegExp&&(console&&console.warn&&console.warn('An obfuscation replacement rule contains a "regex" value with an invalid type (must be a string or RegExp)'),n=!0):(console&&console.warn&&console.warn('An obfuscation replacement rule was detected missing a "regex" value.'),n=!0);var o=t[r].replacement;o&&"string"!=typeof o&&(console&&console.warn&&console.warn('An obfuscation replacement rule contains a "replacement" value with an invalid type (must be a string)'),e=!0)}return!e&&!n}},1424:function(t,e,n){"use strict";n.d(e,{EZ:function(){return u},Qy:function(){return c},ce:function(){return o},fP:function(){return i},gG:function(){return s},mF:function(){return a}});var r=n(6959),o={beacon:"bam.nr-data.net",errorBeacon:"bam.nr-data.net"};function i(){return window.NREUM||(window.NREUM={}),void 0===window.newrelic&&(window.newrelic=window.NREUM),window.NREUM}function a(){var t=i();if(!t.o){var e=window,n=e.XMLHttpRequest;t.o={ST:setTimeout,SI:e.setImmediate,CT:clearTimeout,XHR:n,REQ:e.Request,EV:e.Event,PR:e.Promise,MO:e.MutationObserver,FETCH:e.fetch}}return t}function c(t,e,n){var o,a,c=i(),u=c.initializedAgents||{},s=u[t]||{};return Object.keys(s).length||(s.initializedAt={ms:(0,r.zO)(),date:new Date}),c.initializedAgents=Object.assign({},u,((a={})[t]=Object.assign({},s,((o={})[n]=e,o)),a)),c}function u(t,e){i()[t]=e}function s(){var t,e;return t=i(),e=t.info||{},t.info=Object.assign({beacon:o.beacon,errorBeacon:o.errorBeacon},e),function(){var t=i(),e=t.init||{};t.init=Object.assign({},e)}(),a(),function(){var t=i(),e=t.loader_config||{};t.loader_config=Object.assign({},e)}(),i()}},8539:function(t){t.exports=function(t,e,n){e||(e=0),void 0===n&&(n=t?t.length:0);for(var r=-1,o=n-e||0,i=Array(o<0?0:o);++r<o;)i[r]=t[e+r];return i}}},r={};function o(t){var e=r[t];if(void 0!==e)return e.exports;var i=r[t]={exports:{}};return n[t](i,i.exports,o),i.exports}o.m=n,o.n=function(t){var e=t&&t.__esModule?function(){return t.default}:function(){return t};return o.d(e,{a:e}),e},o.d=function(t,e){for(var n in e)o.o(e,n)&&!o.o(t,n)&&Object.defineProperty(t,n,{enumerable:!0,get:e[n]})},o.f={},o.e=function(t){return Promise.all(Object.keys(o.f).reduce((function(e,n){return o.f[n](t,e),e}),[]))},o.u=function(t){return t+"."+o.h().slice(0,8)+"-1220.js"},o.h=function(){return"2d6a2503b7f18a5b77dd"},o.o=function(t,e){return Object.prototype.hasOwnProperty.call(t,e)},t={},e="NRBA:",o.l=function(n,r,i,a){if(t[n])t[n].push(r);else{var c,u;if(void 0!==i)for(var s=document.getElementsByTagName("script"),f=0;f<s.length;f++){var d=s[f];if(d.getAttribute("src")==n||d.getAttribute("data-webpack")==e+i){c=d;break}}c||(u=!0,(c=document.createElement("script")).charset="utf-8",c.timeout=120,o.nc&&c.setAttribute("nonce",o.nc),c.setAttribute("data-webpack",e+i),c.src=n),t[n]=[r];var l=function(e,r){c.onerror=c.onload=null,clearTimeout(v);var o=t[n];if(delete t[n],c.parentNode&&c.parentNode.removeChild(c),o&&o.forEach((function(t){return t(r)})),e)return e(r)},v=setTimeout(l.bind(null,void 0,{type:"timeout",target:c}),12e4);c.onerror=l.bind(null,c.onerror),c.onload=l.bind(null,c.onload),u&&document.head.appendChild(c)}},o.r=function(t){"undefined"!=typeof Symbol&&Symbol.toStringTag&&Object.defineProperty(t,Symbol.toStringTag,{value:"Module"}),Object.defineProperty(t,"__esModule",{value:!0})},o.p="https://js-agent.newrelic.com/",function(){var t={299:0,82:0};o.f.j=function(e,n){var r=o.o(t,e)?t[e]:void 0;if(0!==r)if(r)n.push(r[2]);else{var i=new Promise((function(n,o){r=t[e]=[n,o]}));n.push(r[2]=i);var a=o.p+o.u(e),c=new Error;o.l(a,(function(n){if(o.o(t,e)&&(0!==(r=t[e])&&(t[e]=void 0),r)){var i=n&&("load"===n.type?"missing":n.type),a=n&&n.target&&n.target.src;c.message="Loading chunk "+e+" failed.\n("+i+": "+a+")",c.name="ChunkLoadError",c.type=i,c.request=a,r[1](c)}}),"chunk-"+e,e)}};var e=function(e,n){var r,i,a=n[0],c=n[1],u=n[2],s=0;if(a.some((function(e){return 0!==t[e]}))){for(r in c)o.o(c,r)&&(o.m[r]=c[r]);if(u)u(o)}for(e&&e(n);s<a.length;s++)i=a[s],o.o(t,i)&&t[i]&&t[i][0](),t[i]=0},n=self.webpackChunkNRBA=self.webpackChunkNRBA||[];n.forEach(e.bind(null,0)),n.push=e.bind(null,n.push.bind(n))}();var i={};return function(){"use strict";o.r(i);var t=o(9034),e=o(4408),n=window,r=n.document;function a(t){"complete"===r.readyState&&t()}function c(t){a(t),r.addEventListener?n.addEventListener("load",t,(0,e.m)(!1)):n.attachEvent("onload",t)}function u(t){a(t),r.addEventListener?r.addEventListener("DOMContentLoaded",t,(0,e.m)(!1)):r.attachEvent("onreadystatechange",a)}var s=o(1776);function f(){f=function(){return t};var t={},e=Object.prototype,n=e.hasOwnProperty,r="function"==typeof Symbol?Symbol:{},o=r.iterator||"@@iterator",i=r.asyncIterator||"@@asyncIterator",a=r.toStringTag||"@@toStringTag";function c(t,e,n){return Object.defineProperty(t,e,{value:n,enumerable:!0,configurable:!0,writable:!0}),t[e]}try{c({},"")}catch(t){c=function(t,e,n){return t[e]=n}}function u(t,e,n,r){var o=e&&e.prototype instanceof l?e:l,i=Object.create(o.prototype),a=new j(r||[]);return i._invoke=function(t,e,n){var r="suspendedStart";return function(o,i){if("executing"===r)throw new Error("Generator is already running");if("completed"===r){if("throw"===o)throw i;return P()}for(n.method=o,n.arg=i;;){var a=n.delegate;if(a){var c=x(a,n);if(c){if(c===d)continue;return c}}if("next"===n.method)n.sent=n._sent=n.arg;else if("throw"===n.method){if("suspendedStart"===r)throw r="completed",n.arg;n.dispatchException(n.arg)}else"return"===n.method&&n.abrupt("return",n.arg);r="executing";var u=s(t,e,n);if("normal"===u.type){if(r=n.done?"completed":"suspendedYield",u.arg===d)continue;return{value:u.arg,done:n.done}}"throw"===u.type&&(r="completed",n.method="throw",n.arg=u.arg)}}}(t,n,a),i}function s(t,e,n){try{return{type:"normal",arg:t.call(e,n)}}catch(t){return{type:"throw",arg:t}}}t.wrap=u;var d={};function l(){}function v(){}function p(){}var h={};c(h,o,(function(){return this}));var g=Object.getPrototypeOf,y=g&&g(g(_([])));y&&y!==e&&n.call(y,o)&&(h=y);var m=p.prototype=l.prototype=Object.create(h);function b(t){["next","throw","return"].forEach((function(e){c(t,e,(function(t){return this._invoke(e,t)}))}))}function w(t,e){function r(o,i,a,c){var u=s(t[o],t,i);if("throw"!==u.type){var f=u.arg,d=f.value;return d&&"object"==typeof d&&n.call(d,"__await")?e.resolve(d.__await).then((function(t){r("next",t,a,c)}),(function(t){r("throw",t,a,c)})):e.resolve(d).then((function(t){f.value=t,a(f)}),(function(t){return r("throw",t,a,c)}))}c(u.arg)}var o;this._invoke=function(t,n){function i(){return new e((function(e,o){r(t,n,e,o)}))}return o=o?o.then(i,i):i()}}function x(t,e){var n=t.iterator[e.method];if(void 0===n){if(e.delegate=null,"throw"===e.method){if(t.iterator.return&&(e.method="return",e.arg=void 0,x(t,e),"throw"===e.method))return d;e.method="throw",e.arg=new TypeError("The iterator does not provide a 'throw' method")}return d}var r=s(n,t.iterator,e.arg);if("throw"===r.type)return e.method="throw",e.arg=r.arg,e.delegate=null,d;var o=r.arg;return o?o.done?(e[t.resultName]=o.value,e.next=t.nextLoc,"return"!==e.method&&(e.method="next",e.arg=void 0),e.delegate=null,d):o:(e.method="throw",e.arg=new TypeError("iterator result is not an object"),e.delegate=null,d)}function O(t){var e={tryLoc:t[0]};1 in t&&(e.catchLoc=t[1]),2 in t&&(e.finallyLoc=t[2],e.afterLoc=t[3]),this.tryEntries.push(e)}function E(t){var e=t.completion||{};e.type="normal",delete e.arg,t.completion=e}function j(t){this.tryEntries=[{tryLoc:"root"}],t.forEach(O,this),this.reset(!0)}function _(t){if(t){var e=t[o];if(e)return e.call(t);if("function"==typeof t.next)return t;if(!isNaN(t.length)){var r=-1,i=function e(){for(;++r<t.length;)if(n.call(t,r))return e.value=t[r],e.done=!1,e;return e.value=void 0,e.done=!0,e};return i.next=i}}return{next:P}}function P(){return{value:void 0,done:!0}}return v.prototype=p,c(m,"constructor",p),c(p,"constructor",v),v.displayName=c(p,a,"GeneratorFunction"),t.isGeneratorFunction=function(t){var e="function"==typeof t&&t.constructor;return!!e&&(e===v||"GeneratorFunction"===(e.displayName||e.name))},t.mark=function(t){return Object.setPrototypeOf?Object.setPrototypeOf(t,p):(t.__proto__=p,c(t,a,"GeneratorFunction")),t.prototype=Object.create(m),t},t.awrap=function(t){return{__await:t}},b(w.prototype),c(w.prototype,i,(function(){return this})),t.AsyncIterator=w,t.async=function(e,n,r,o,i){void 0===i&&(i=Promise);var a=new w(u(e,n,r,o),i);return t.isGeneratorFunction(n)?a:a.next().then((function(t){return t.done?t.value:a.next()}))},b(m),c(m,a,"Generator"),c(m,o,(function(){return this})),c(m,"toString",(function(){return"[object Generator]"})),t.keys=function(t){var e=[];for(var n in t)e.push(n);return e.reverse(),function n(){for(;e.length;){var r=e.pop();if(r in t)return n.value=r,n.done=!1,n}return n.done=!0,n}},t.values=_,j.prototype={constructor:j,reset:function(t){if(this.prev=0,this.next=0,this.sent=this._sent=void 0,this.done=!1,this.delegate=null,this.method="next",this.arg=void 0,this.tryEntries.forEach(E),!t)for(var e in this)"t"===e.charAt(0)&&n.call(this,e)&&!isNaN(+e.slice(1))&&(this[e]=void 0)},stop:function(){this.done=!0;var t=this.tryEntries[0].completion;if("throw"===t.type)throw t.arg;return this.rval},dispatchException:function(t){if(this.done)throw t;var e=this;function r(n,r){return a.type="throw",a.arg=t,e.next=n,r&&(e.method="next",e.arg=void 0),!!r}for(var o=this.tryEntries.length-1;o>=0;--o){var i=this.tryEntries[o],a=i.completion;if("root"===i.tryLoc)return r("end");if(i.tryLoc<=this.prev){var c=n.call(i,"catchLoc"),u=n.call(i,"finallyLoc");if(c&&u){if(this.prev<i.catchLoc)return r(i.catchLoc,!0);if(this.prev<i.finallyLoc)return r(i.finallyLoc)}else if(c){if(this.prev<i.catchLoc)return r(i.catchLoc,!0)}else{if(!u)throw new Error("try statement without catch or finally");if(this.prev<i.finallyLoc)return r(i.finallyLoc)}}}},abrupt:function(t,e){for(var r=this.tryEntries.length-1;r>=0;--r){var o=this.tryEntries[r];if(o.tryLoc<=this.prev&&n.call(o,"finallyLoc")&&this.prev<o.finallyLoc){var i=o;break}}i&&("break"===t||"continue"===t)&&i.tryLoc<=e&&e<=i.finallyLoc&&(i=null);var a=i?i.completion:{};return a.type=t,a.arg=e,i?(this.method="next",this.next=i.finallyLoc,d):this.complete(a)},complete:function(t,e){if("throw"===t.type)throw t.arg;return"break"===t.type||"continue"===t.type?this.next=t.arg:"return"===t.type?(this.rval=this.arg=t.arg,this.method="return",this.next="end"):"normal"===t.type&&e&&(this.next=e),d},finish:function(t){for(var e=this.tryEntries.length-1;e>=0;--e){var n=this.tryEntries[e];if(n.finallyLoc===t)return this.complete(n.completion,n.afterLoc),E(n),d}},catch:function(t){for(var e=this.tryEntries.length-1;e>=0;--e){var n=this.tryEntries[e];if(n.tryLoc===t){var r=n.completion;if("throw"===r.type){var o=r.arg;E(n)}return o}}throw new Error("illegal catch attempt")},delegateYield:function(t,e,n){return this.delegate={iterator:_(t),resultName:e,nextLoc:n},"next"===this.method&&(this.arg=void 0),d}},t}function d(t,e,n,r,o,i,a){try{var c=t[i](a),u=c.value}catch(t){return void n(t)}c.done?e(u):Promise.resolve(u).then(r,o)}var l=0;function v(t){var e;(e=f().mark((function e(){var n,r;return f().wrap((function(e){for(;;)switch(e.prev=e.next){case 0:if(!l++){e.next=2;break}return e.abrupt("return");case 2:return e.prev=2,e.next=5,o.e(552).then(o.bind(o,5552));case 5:return n=e.sent,r=n.aggregator,e.next=9,r(t);case 9:e.next=15;break;case 11:e.prev=11,e.t0=e.catch(2),console.error("Failed to successfully load all aggregators. Aborting...\n",e.t0),s.ee.abort();case 15:case"end":return e.stop()}}),e,null,[[2,11]])})),function(){var t=this,n=arguments;return new Promise((function(r,o){var i=e.apply(t,n);function a(t){d(i,r,o,a,c,"next",t)}function c(t){d(i,r,o,a,c,"throw",t)}a(void 0)}))})()}var p=o(8539),h=o.n(p),g=o(1424),y=o(1220),m=o(441),b=o(7361),w=o(357),x=o(6959);var O=o(1476),E=o(5955),j={accountID:void 0,trustKey:void 0,agentID:void 0,licenseKey:void 0,applicationID:void 0,xpid:void 0},_={};var P=!1;var A=o(6972),k=o(1793),L=o(5023);function S(t,e){return S=Object.setPrototypeOf?Object.setPrototypeOf.bind():function(t,e){return t.__proto__=e,t},S(t,e)}var T,C,I,R=function(t){var e,n;function r(e){var n;return n=t.call(this,e)||this,(0,k.v)(e),(0,A.B)(e,"firstbyte",(0,x.yf)()),c((function(){return n.measureWindowLoaded()})),u((function(){return n.measureDomContentLoaded()})),n}n=t,(e=r).prototype=Object.create(n.prototype),e.prototype.constructor=e,S(e,n);var o=r.prototype;return o.measureWindowLoaded=function(){var t=(0,x.zO)();(0,A.B)(this.agentIdentifier,"onload",t+(0,x.os)()),(0,b.p)("timing",["load",t],void 0,void 0,this.ee)},o.measureDomContentLoaded=function(){(0,A.B)(this.agentIdentifier,"domContent",(0,x.zO)()+(0,x.os)())},r}(L.W);void 0!==document.hidden?(T="hidden",C="visibilitychange",I="visibilityState"):void 0!==document.msHidden?(T="msHidden",C="msvisibilitychange"):void 0!==document.webkitHidden&&(T="webkitHidden",C="webkitvisibilitychange",I="webkitVisibilityState");var M=o(2085);function N(t,e){return N=Object.setPrototypeOf?Object.setPrototypeOf.bind():function(t,e){return t.__proto__=e,t},N(t,e)}var D=function(t){var n,r;function o(n){var r,o;if((r=t.call(this,n)||this).pageHiddenTime="hidden"===document.visibilityState?-1:1/0,r.performanceObserver,r.lcpPerformanceObserver,r.clsPerformanceObserver,r.fiRecorded=!1,!r.isEnabled())return function(t){if(void 0===t)throw new ReferenceError("this hasn't been initialised - super() hasn't been called");return t}(r);if("PerformanceObserver"in window&&"function"==typeof window.PerformanceObserver){r.performanceObserver=new PerformanceObserver((function(){var t;return(t=r).perfObserver.apply(t,arguments)}));try{r.performanceObserver.observe({entryTypes:["paint"]})}catch(t){}r.lcpPerformanceObserver=new PerformanceObserver((function(){var t;return(t=r).lcpObserver.apply(t,arguments)}));try{r.lcpPerformanceObserver.observe({entryTypes:["largest-contentful-paint"]})}catch(t){}r.clsPerformanceObserver=new PerformanceObserver((function(){var t;return(t=r).clsObserver.apply(t,arguments)}));try{r.clsPerformanceObserver.observe({type:"layout-shift",buffered:!0})}catch(t){}}if("addEventListener"in document){r.fiRecorded=!1;["click","keydown","mousedown","pointerdown","touchstart"].forEach((function(t){document.addEventListener(t,(function(){var t;return(t=r).captureInteraction.apply(t,arguments)}),(0,e.m)(!1))}))}return o=function(){var t;return(t=r).captureVisibilityChange.apply(t,arguments)},"addEventListener"in document&&C&&document.addEventListener(C,(function(){I&&document[I]?o(document[I]):document[T]?o("hidden"):o("visible")}),(0,e.m)(!1)),r}r=t,(n=o).prototype=Object.create(r.prototype),n.prototype.constructor=n,N(n,r);var i=o.prototype;return i.isEnabled=function(){return!1!==(0,O.Mt)(this.agentIdentifier,"page_view_timing.enabled")},i.perfObserver=function(t,e){var n=this;t.getEntries().forEach((function(t){"first-paint"===t.name?(0,b.p)("timing",["fp",Math.floor(t.startTime)],void 0,void 0,n.ee):"first-contentful-paint"===t.name&&(0,b.p)("timing",["fcp",Math.floor(t.startTime)],void 0,void 0,n.ee)}))},i.lcpObserver=function(t,e){var n=t.getEntries();if(n.length>0){var r=n[n.length-1];if(this.pageHiddenTime<r.startTime)return;var o=[r],i=this.addConnectionAttributes({});i&&o.push(i),(0,b.p)("lcp",o,void 0,void 0,this.ee)}},i.clsObserver=function(t){var e=this;t.getEntries().forEach((function(t){t.hadRecentInput||(0,b.p)("cls",[t],void 0,void 0,e.ee)}))},i.addConnectionAttributes=function(t){var e=navigator.connection||navigator.mozConnection||navigator.webkitConnection;if(e)return e.type&&(t["net-type"]=e.type),e.effectiveType&&(t["net-etype"]=e.effectiveType),e.rtt&&(t["net-rtt"]=e.rtt),e.downlink&&(t["net-dlink"]=e.downlink),t},i.captureInteraction=function(t){if(t instanceof M.Y.EV&&!this.fiRecorded){var e=Math.round(t.timeStamp),n={type:t.type};this.addConnectionAttributes(n),e<=(0,x.zO)()?n.fid=(0,x.zO)()-e:e>(0,x.os)()&&e<=Date.now()?(e-=(0,x.os)(),n.fid=(0,x.zO)()-e):e=(0,x.zO)(),this.fiRecorded=!0,(0,b.p)("timing",["fi",e,n],void 0,void 0,this.ee)}},i.captureVisibilityChange=function(t){"hidden"===t&&(this.pageHiddenTime=(0,x.zO)(),(0,b.p)("pageHide",[this.pageHiddenTime],void 0,void 0,this.ee))},o}(L.W),q=o(3350),B="React",z="Angular",G="AngularJS",H="Backbone",F="Ember",V="Vue",Z="Meteor",U="Zepto",X="Jquery";function Q(){var t=[];try{(function(){try{if(window.React||window.ReactDOM||window.ReactRedux)return!0;if(document.querySelector("[data-reactroot], [data-reactid]"))return!0;for(var t=document.querySelectorAll("body > div"),e=0;e<t.length;e++)if(Object.keys(t[e]).indexOf("_reactRootContainer")>=0)return!0;return!1}catch(t){return!1}})()&&t.push(B),function(){try{return!!window.angular||(!!document.querySelector(".ng-binding, [ng-app], [data-ng-app], [ng-controller], [data-ng-controller], [ng-repeat], [data-ng-repeat]")||!!document.querySelector('script[src*="angular.js"], script[src*="angular.min.js"]'))}catch(t){return!1}}()&&t.push(G),function(){try{return!!(window.hasOwnProperty("ng")&&window.ng.hasOwnProperty("coreTokens")&&window.ng.coreTokens.hasOwnProperty("NgZone"))||!!document.querySelectorAll("[ng-version]").length}catch(t){return!1}}()&&t.push(z),window.Backbone&&t.push(H),window.Ember&&t.push(F),window.Vue&&t.push(V),window.Meteor&&t.push(Z),window.Zepto&&t.push(U),window.jQuery&&t.push(X)}catch(t){}return t}var W=o(7299),K=o(603),Y=o(158);function J(t,e){return J=Object.setPrototypeOf?Object.setPrototypeOf.bind():function(t,e){return t.__proto__=e,t},J(t,e)}var $=function(t){var e,n;function r(e){var n;return(n=t.call(this,e)||this).singleChecks(),(0,q.X)("record-supportability",(function(){var t;return(t=n).recordSupportability.apply(t,arguments)}),void 0,n.ee),(0,q.X)("record-custom",(function(){var t;return(t=n).recordCustom.apply(t,arguments)}),void 0,n.ee),n}n=t,(e=r).prototype=Object.create(n.prototype),e.prototype.constructor=e,J(e,n);var o=r.prototype;return o.recordSupportability=function(t,e){var n=["sm",t,{name:t},e];return(0,b.p)("storeMetric",n,null,void 0,this.ee),n},o.recordCustom=function(t,e){var n=["cm",t,{name:t},e];return(0,b.p)("storeEventMetrics",n,null,void 0,this.ee),n},o.singleChecks=function(){var t=this;this.recordSupportability("Generic/Version/"+Y.q+"/Detected"),u((function(){Q().forEach((function(e){t.recordSupportability("Framework/"+e+"/Detected")}))})),W.T.isFileProtocol()&&(this.recordSupportability("Generic/FileProtocol/Detected"),W.T.supportabilityMetricSent=!0);var e=(0,K.$c)(this.agentIdentifier);e.length>0&&this.recordSupportability("Generic/Obfuscate/Detected"),e.length>0&&!(0,K.Ng)(e)&&this.recordSupportability("Generic/Obfuscate/Invalid")},r}(L.W),tt=o(847);new Promise((function(e,n){if(P)e(P);else{var r=(0,g.gG)();try{(0,m.L)(t.Z,r.info),(0,O.Dg)(t.Z,r.init),function(t,e){if(!t)throw new Error("All loader-config objects require an agent identifier!");_[t]=new E.I(e,j),(0,g.Qy)(t,_[t],"loader_config")}(t.Z,r.loader_config),(0,y.s)(t.Z,{}),function(t){var e=(0,g.fP)(),n=s.ee.get(t),r=n.get("tracer"),o="api-",i="api-ixn-";function a(){}(0,w.D)(["setErrorHandler","finished","addToTrace","inlineHit","addRelease"],(function(t,n){e[n]=u(o,n,!0,"api")})),e.addPageAction=u(o,"addPageAction",!0),e.setCurrentRouteName=u(o,"routeName",!0),e.setPageViewName=function(e,n){if("string"==typeof e)return"/"!==e.charAt(0)&&(e="/"+e),(0,y.O)(t).customTransaction=(n||"http://custom.transaction")+e,u(o,"setPageViewName",!0,"api")()},e.setCustomAttribute=function(e,n){var r,i=(0,m.C)(t);return(0,m.L)(t,Object.assign({},i,{jsAttributes:Object.assign({},i.jsAttributes,(r={},r[e]=n,r))})),u(o,"setCustomAttribute",!0,"api")()},e.interaction=function(){return(new a).get()};var c=a.prototype={createTracer:function(t,e){var o={},i=this,a="function"==typeof e;return(0,b.p)("api-ixn-tracer",[(0,x.zO)(),t,o],i,void 0,n),function(){if(r.emit((a?"":"no-")+"fn-start",[(0,x.zO)(),i,a],o),a)try{return e.apply(this,arguments)}catch(t){throw r.emit("fn-err",[arguments,this,"string"==typeof t?new Error(t):t],o),t}finally{r.emit("fn-end",[(0,x.zO)()],o)}}}};function u(t,e,r,o){return function(){return(0,b.p)("record-supportability",["API/"+e+"/called"],void 0,void 0,n),(0,b.p)(t+e,[(0,x.zO)()].concat(h()(arguments)),r?null:this,o,n),r?void 0:this}}(0,w.D)("actionText,setName,setAttribute,save,ignore,onEnd,getContext,end,get".split(","),(function(t,e){c[e]=u(i,e)})),e.noticeError=function(t,e){"string"==typeof t&&(t=new Error(t)),(0,b.p)("record-supportability",["API/noticeError/called"],void 0,void 0,n),(0,b.p)("err",[t,(0,x.zO)(),!1,e],void 0,void 0,n)}}(t.Z),e(P=!0)}catch(t){n(t)}}})).then((function(){var e,n,r,o=(0,tt.K)(t.Z);o.page_view_event&&new R(t.Z),o.page_view_timing&&new D(t.Z),o.metrics&&new $(t.Z),e="lite",n?setTimeout((function(){return v(e)}),r||1e3):c((function(){return v(e)}))}))}(),i}()}));</script>
+	<meta name="viewport" content="width=device-width, initial-scale=1" />
+	<link rel="profile" href="http://gmpg.org/xfn/11">
+	<link rel="shortcut icon" type="image/x-icon" href="https://www.hsph.harvard.edu/news/wp-content/themes/theme-main-2016/assets/images/favicon.ico" />
+	<meta name="msapplication-TileColor" content="#A51C30">
+	<meta name="msapplication-TileImage" content="https://www.hsph.harvard.edu/news/wp-content/themes/theme-main-2016/assets/images/ms/ms-tile-icon.png">
+	<link rel="apple-touch-icon" href="https://www.hsph.harvard.edu/news/wp-content/themes/theme-main-2016/assets/images/ios/touch-icon-iphone.png">
+	<link rel="apple-touch-icon" sizes="76x76" href="https://www.hsph.harvard.edu/news/wp-content/themes/theme-main-2016/assets/images/ios/touch-icon-ipad.png">
+	<link rel="apple-touch-icon" sizes="120x120" href="https://www.hsph.harvard.edu/news/wp-content/themes/theme-main-2016/assets/images/ios/touch-icon-iphone-retina.png">
+	<link rel="apple-touch-icon" sizes="152x152" href="https://www.hsph.harvard.edu/news/wp-content/themes/theme-main-2016/assets/images/ios/touch-icon-ipad-retina.png">
+	<meta property="fb:app_id" content="1019010578192159" />
+	<script>(function(html){html.className = html.className.replace(/\bno-js\b/,'js')})(document.documentElement);</script>
+<title>Black Americans on discrimination at work, by police | News | Harvard T.H. Chan School of Public Health</title>
+<meta name='robots' content='max-image-preview:large' />
+<link rel='dns-prefetch' href='//www.hsph.harvard.edu' />
+<link rel='dns-prefetch' href='//cdnjs.cloudflare.com' />
+<link rel='dns-prefetch' href='//fonts.googleapis.com' />
+<link rel="alternate" type="application/rss+xml" title="News &raquo; Feed" href="https://www.hsph.harvard.edu/news/feed/" />
+<script type="text/javascript">
+window._wpemojiSettings = {"baseUrl":"https:\/\/s.w.org\/images\/core\/emoji\/14.0.0\/72x72\/","ext":".png","svgUrl":"https:\/\/s.w.org\/images\/core\/emoji\/14.0.0\/svg\/","svgExt":".svg","source":{"concatemoji":"https:\/\/www.hsph.harvard.edu\/news\/wp-includes\/js\/wp-emoji-release.min.js?ver=6.1"}};
+/*! This file is auto-generated */
+!function(e,a,t){var n,r,o,i=a.createElement("canvas"),p=i.getContext&&i.getContext("2d");function s(e,t){var a=String.fromCharCode,e=(p.clearRect(0,0,i.width,i.height),p.fillText(a.apply(this,e),0,0),i.toDataURL());return p.clearRect(0,0,i.width,i.height),p.fillText(a.apply(this,t),0,0),e===i.toDataURL()}function c(e){var t=a.createElement("script");t.src=e,t.defer=t.type="text/javascript",a.getElementsByTagName("head")[0].appendChild(t)}for(o=Array("flag","emoji"),t.supports={everything:!0,everythingExceptFlag:!0},r=0;r<o.length;r++)t.supports[o[r]]=function(e){if(p&&p.fillText)switch(p.textBaseline="top",p.font="600 32px Arial",e){case"flag":return s([127987,65039,8205,9895,65039],[127987,65039,8203,9895,65039])?!1:!s([55356,56826,55356,56819],[55356,56826,8203,55356,56819])&&!s([55356,57332,56128,56423,56128,56418,56128,56421,56128,56430,56128,56423,56128,56447],[55356,57332,8203,56128,56423,8203,56128,56418,8203,56128,56421,8203,56128,56430,8203,56128,56423,8203,56128,56447]);case"emoji":return!s([129777,127995,8205,129778,127999],[129777,127995,8203,129778,127999])}return!1}(o[r]),t.supports.everything=t.supports.everything&&t.supports[o[r]],"flag"!==o[r]&&(t.supports.everythingExceptFlag=t.supports.everythingExceptFlag&&t.supports[o[r]]);t.supports.everythingExceptFlag=t.supports.everythingExceptFlag&&!t.supports.flag,t.DOMReady=!1,t.readyCallback=function(){t.DOMReady=!0},t.supports.everything||(n=function(){t.readyCallback()},a.addEventListener?(a.addEventListener("DOMContentLoaded",n,!1),e.addEventListener("load",n,!1)):(e.attachEvent("onload",n),a.attachEvent("onreadystatechange",function(){"complete"===a.readyState&&t.readyCallback()})),(e=t.source||{}).concatemoji?c(e.concatemoji):e.wpemoji&&e.twemoji&&(c(e.twemoji),c(e.wpemoji)))}(window,document,window._wpemojiSettings);
+</script>
+<style type="text/css">
+img.wp-smiley,
+img.emoji {
+	display: inline !important;
+	border: none !important;
+	box-shadow: none !important;
+	height: 1em !important;
+	width: 1em !important;
+	margin: 0 0.07em !important;
+	vertical-align: -0.1em !important;
+	background: none !important;
+	padding: 0 !important;
+}
+</style>
+	<link rel='stylesheet' id='wp-block-library-css' href='https://www.hsph.harvard.edu/news/wp-includes/css/dist/block-library/style.min.css?ver=6.1' type='text/css' media='all' />
+<style id='wp-block-library-inline-css' type='text/css'>
+.has-text-align-justify{text-align:justify;}
+</style>
+<link rel='stylesheet' id='mediaelement-css' href='https://www.hsph.harvard.edu/news/wp-includes/js/mediaelement/mediaelementplayer-legacy.min.css?ver=4.2.17' type='text/css' media='all' />
+<link rel='stylesheet' id='wp-mediaelement-css' href='https://www.hsph.harvard.edu/news/wp-includes/js/mediaelement/wp-mediaelement.min.css?ver=6.1' type='text/css' media='all' />
+<link rel='stylesheet' id='classic-theme-styles-css' href='https://www.hsph.harvard.edu/news/wp-includes/css/classic-themes.min.css?ver=1' type='text/css' media='all' />
+<style id='global-styles-inline-css' type='text/css'>
+body{--wp--preset--color--black: #000000;--wp--preset--color--cyan-bluish-gray: #abb8c3;--wp--preset--color--white: #ffffff;--wp--preset--color--pale-pink: #f78da7;--wp--preset--color--vivid-red: #cf2e2e;--wp--preset--color--luminous-vivid-orange: #ff6900;--wp--preset--color--luminous-vivid-amber: #fcb900;--wp--preset--color--light-green-cyan: #7bdcb5;--wp--preset--color--vivid-green-cyan: #00d084;--wp--preset--color--pale-cyan-blue: #8ed1fc;--wp--preset--color--vivid-cyan-blue: #0693e3;--wp--preset--color--vivid-purple: #9b51e0;--wp--preset--gradient--vivid-cyan-blue-to-vivid-purple: linear-gradient(135deg,rgba(6,147,227,1) 0%,rgb(155,81,224) 100%);--wp--preset--gradient--light-green-cyan-to-vivid-green-cyan: linear-gradient(135deg,rgb(122,220,180) 0%,rgb(0,208,130) 100%);--wp--preset--gradient--luminous-vivid-amber-to-luminous-vivid-orange: linear-gradient(135deg,rgba(252,185,0,1) 0%,rgba(255,105,0,1) 100%);--wp--preset--gradient--luminous-vivid-orange-to-vivid-red: linear-gradient(135deg,rgba(255,105,0,1) 0%,rgb(207,46,46) 100%);--wp--preset--gradient--very-light-gray-to-cyan-bluish-gray: linear-gradient(135deg,rgb(238,238,238) 0%,rgb(169,184,195) 100%);--wp--preset--gradient--cool-to-warm-spectrum: linear-gradient(135deg,rgb(74,234,220) 0%,rgb(151,120,209) 20%,rgb(207,42,186) 40%,rgb(238,44,130) 60%,rgb(251,105,98) 80%,rgb(254,248,76) 100%);--wp--preset--gradient--blush-light-purple: linear-gradient(135deg,rgb(255,206,236) 0%,rgb(152,150,240) 100%);--wp--preset--gradient--blush-bordeaux: linear-gradient(135deg,rgb(254,205,165) 0%,rgb(254,45,45) 50%,rgb(107,0,62) 100%);--wp--preset--gradient--luminous-dusk: linear-gradient(135deg,rgb(255,203,112) 0%,rgb(199,81,192) 50%,rgb(65,88,208) 100%);--wp--preset--gradient--pale-ocean: linear-gradient(135deg,rgb(255,245,203) 0%,rgb(182,227,212) 50%,rgb(51,167,181) 100%);--wp--preset--gradient--electric-grass: linear-gradient(135deg,rgb(202,248,128) 0%,rgb(113,206,126) 100%);--wp--preset--gradient--midnight: linear-gradient(135deg,rgb(2,3,129) 0%,rgb(40,116,252) 100%);--wp--preset--duotone--dark-grayscale: url('#wp-duotone-dark-grayscale');--wp--preset--duotone--grayscale: url('#wp-duotone-grayscale');--wp--preset--duotone--purple-yellow: url('#wp-duotone-purple-yellow');--wp--preset--duotone--blue-red: url('#wp-duotone-blue-red');--wp--preset--duotone--midnight: url('#wp-duotone-midnight');--wp--preset--duotone--magenta-yellow: url('#wp-duotone-magenta-yellow');--wp--preset--duotone--purple-green: url('#wp-duotone-purple-green');--wp--preset--duotone--blue-orange: url('#wp-duotone-blue-orange');--wp--preset--font-size--small: 13px;--wp--preset--font-size--medium: 20px;--wp--preset--font-size--large: 36px;--wp--preset--font-size--x-large: 42px;--wp--preset--spacing--20: 0.44rem;--wp--preset--spacing--30: 0.67rem;--wp--preset--spacing--40: 1rem;--wp--preset--spacing--50: 1.5rem;--wp--preset--spacing--60: 2.25rem;--wp--preset--spacing--70: 3.38rem;--wp--preset--spacing--80: 5.06rem;}:where(.is-layout-flex){gap: 0.5em;}body .is-layout-flow > .alignleft{float: left;margin-inline-start: 0;margin-inline-end: 2em;}body .is-layout-flow > .alignright{float: right;margin-inline-start: 2em;margin-inline-end: 0;}body .is-layout-flow > .aligncenter{margin-left: auto !important;margin-right: auto !important;}body .is-layout-constrained > .alignleft{float: left;margin-inline-start: 0;margin-inline-end: 2em;}body .is-layout-constrained > .alignright{float: right;margin-inline-start: 2em;margin-inline-end: 0;}body .is-layout-constrained > .aligncenter{margin-left: auto !important;margin-right: auto !important;}body .is-layout-constrained > :where(:not(.alignleft):not(.alignright):not(.alignfull)){max-width: var(--wp--style--global--content-size);margin-left: auto !important;margin-right: auto !important;}body .is-layout-constrained > .alignwide{max-width: var(--wp--style--global--wide-size);}body .is-layout-flex{display: flex;}body .is-layout-flex{flex-wrap: wrap;align-items: center;}body .is-layout-flex > *{margin: 0;}:where(.wp-block-columns.is-layout-flex){gap: 2em;}.has-black-color{color: var(--wp--preset--color--black) !important;}.has-cyan-bluish-gray-color{color: var(--wp--preset--color--cyan-bluish-gray) !important;}.has-white-color{color: var(--wp--preset--color--white) !important;}.has-pale-pink-color{color: var(--wp--preset--color--pale-pink) !important;}.has-vivid-red-color{color: var(--wp--preset--color--vivid-red) !important;}.has-luminous-vivid-orange-color{color: var(--wp--preset--color--luminous-vivid-orange) !important;}.has-luminous-vivid-amber-color{color: var(--wp--preset--color--luminous-vivid-amber) !important;}.has-light-green-cyan-color{color: var(--wp--preset--color--light-green-cyan) !important;}.has-vivid-green-cyan-color{color: var(--wp--preset--color--vivid-green-cyan) !important;}.has-pale-cyan-blue-color{color: var(--wp--preset--color--pale-cyan-blue) !important;}.has-vivid-cyan-blue-color{color: var(--wp--preset--color--vivid-cyan-blue) !important;}.has-vivid-purple-color{color: var(--wp--preset--color--vivid-purple) !important;}.has-black-background-color{background-color: var(--wp--preset--color--black) !important;}.has-cyan-bluish-gray-background-color{background-color: var(--wp--preset--color--cyan-bluish-gray) !important;}.has-white-background-color{background-color: var(--wp--preset--color--white) !important;}.has-pale-pink-background-color{background-color: var(--wp--preset--color--pale-pink) !important;}.has-vivid-red-background-color{background-color: var(--wp--preset--color--vivid-red) !important;}.has-luminous-vivid-orange-background-color{background-color: var(--wp--preset--color--luminous-vivid-orange) !important;}.has-luminous-vivid-amber-background-color{background-color: var(--wp--preset--color--luminous-vivid-amber) !important;}.has-light-green-cyan-background-color{background-color: var(--wp--preset--color--light-green-cyan) !important;}.has-vivid-green-cyan-background-color{background-color: var(--wp--preset--color--vivid-green-cyan) !important;}.has-pale-cyan-blue-background-color{background-color: var(--wp--preset--color--pale-cyan-blue) !important;}.has-vivid-cyan-blue-background-color{background-color: var(--wp--preset--color--vivid-cyan-blue) !important;}.has-vivid-purple-background-color{background-color: var(--wp--preset--color--vivid-purple) !important;}.has-black-border-color{border-color: var(--wp--preset--color--black) !important;}.has-cyan-bluish-gray-border-color{border-color: var(--wp--preset--color--cyan-bluish-gray) !important;}.has-white-border-color{border-color: var(--wp--preset--color--white) !important;}.has-pale-pink-border-color{border-color: var(--wp--preset--color--pale-pink) !important;}.has-vivid-red-border-color{border-color: var(--wp--preset--color--vivid-red) !important;}.has-luminous-vivid-orange-border-color{border-color: var(--wp--preset--color--luminous-vivid-orange) !important;}.has-luminous-vivid-amber-border-color{border-color: var(--wp--preset--color--luminous-vivid-amber) !important;}.has-light-green-cyan-border-color{border-color: var(--wp--preset--color--light-green-cyan) !important;}.has-vivid-green-cyan-border-color{border-color: var(--wp--preset--color--vivid-green-cyan) !important;}.has-pale-cyan-blue-border-color{border-color: var(--wp--preset--color--pale-cyan-blue) !important;}.has-vivid-cyan-blue-border-color{border-color: var(--wp--preset--color--vivid-cyan-blue) !important;}.has-vivid-purple-border-color{border-color: var(--wp--preset--color--vivid-purple) !important;}.has-vivid-cyan-blue-to-vivid-purple-gradient-background{background: var(--wp--preset--gradient--vivid-cyan-blue-to-vivid-purple) !important;}.has-light-green-cyan-to-vivid-green-cyan-gradient-background{background: var(--wp--preset--gradient--light-green-cyan-to-vivid-green-cyan) !important;}.has-luminous-vivid-amber-to-luminous-vivid-orange-gradient-background{background: var(--wp--preset--gradient--luminous-vivid-amber-to-luminous-vivid-orange) !important;}.has-luminous-vivid-orange-to-vivid-red-gradient-background{background: var(--wp--preset--gradient--luminous-vivid-orange-to-vivid-red) !important;}.has-very-light-gray-to-cyan-bluish-gray-gradient-background{background: var(--wp--preset--gradient--very-light-gray-to-cyan-bluish-gray) !important;}.has-cool-to-warm-spectrum-gradient-background{background: var(--wp--preset--gradient--cool-to-warm-spectrum) !important;}.has-blush-light-purple-gradient-background{background: var(--wp--preset--gradient--blush-light-purple) !important;}.has-blush-bordeaux-gradient-background{background: var(--wp--preset--gradient--blush-bordeaux) !important;}.has-luminous-dusk-gradient-background{background: var(--wp--preset--gradient--luminous-dusk) !important;}.has-pale-ocean-gradient-background{background: var(--wp--preset--gradient--pale-ocean) !important;}.has-electric-grass-gradient-background{background: var(--wp--preset--gradient--electric-grass) !important;}.has-midnight-gradient-background{background: var(--wp--preset--gradient--midnight) !important;}.has-small-font-size{font-size: var(--wp--preset--font-size--small) !important;}.has-medium-font-size{font-size: var(--wp--preset--font-size--medium) !important;}.has-large-font-size{font-size: var(--wp--preset--font-size--large) !important;}.has-x-large-font-size{font-size: var(--wp--preset--font-size--x-large) !important;}
+.wp-block-navigation a:where(:not(.wp-element-button)){color: inherit;}
+:where(.wp-block-columns.is-layout-flex){gap: 2em;}
+.wp-block-pullquote{font-size: 1.5em;line-height: 1.6;}
+</style>
+<link rel='stylesheet' id='hsph-protected-file-front-style-css' href='https://www.hsph.harvard.edu/news/wp-content/plugins/plugin-harvard-key/assets/css/hsph-pin-file-protect.css?ver=2.2.0' type='text/css' media='all' />
+<link rel='stylesheet' id='hsph-plugin-multisite-tweaks-styles-css' href='https://www.hsph.harvard.edu/news/wp-content/plugins/plugin-multisite-tweaks/assets/css/hsph-plugin-multisite-tweaks.css?ver%5BVersion%5D=1.2.1' type='text/css' media='all' />
+<link rel='stylesheet' id='hsph_page_elements_styles-css' href='https://www.hsph.harvard.edu/news/wp-content/plugins/plugin-page-elements/assets/css/plugin-page-elements.css?ver=1.2.6' type='text/css' media='all' />
+<link rel='stylesheet' id='hsph-plugin-tagging-topics-pages-css' href='https://www.hsph.harvard.edu/news/wp-content/plugins/plugin-tagging/assets/css/topics.css?ver=1.1.5' type='text/css' media='all' />
+<link rel='stylesheet' id='hsph-table-sortable-css-css' href='https://www.hsph.harvard.edu/news/wp-content/plugins/plugin-tinymce-tweaks/assets/css/hsph-table-sortable.css?ver=1.1.1' type='text/css' media='all' />
+<link rel='stylesheet' id='dashicons-css' href='https://www.hsph.harvard.edu/news/wp-includes/css/dashicons.min.css?ver=6.1' type='text/css' media='all' />
+<link rel='stylesheet' id='hsph-bootstrap-css' href='https://www.hsph.harvard.edu/news/wp-content/plugins/plugin-design-system/assets/css/hsph-bootstrap-no-conflict.css?ver=1.4.11' type='text/css' media='all' />
+<link rel='stylesheet' id='hsph-ui-shortcodes-style-css' href='https://www.hsph.harvard.edu/news/wp-content/plugins/plugin-ui-shortcodes/assets/css/hsph-ui-shortcodes.css?ver=1.6.11' type='text/css' media='all' />
+<link rel='stylesheet' id='hsph-style-css' href='https://www.hsph.harvard.edu/news/wp-content/themes/theme-main-2016/style.css?ver=1.3.96' type='text/css' media='all' />
+<link rel='stylesheet' id='hsph-news-style-css' href='https://www.hsph.harvard.edu/news/wp-content/themes/theme-main-2016-child-news/style.css?ver=2.0.1' type='text/css' media='all' />
+<!--[if lt IE 9]>
+<link rel='stylesheet' id='hsph-news-ie8-css' href='https://www.hsph.harvard.edu/news/wp-content/themes/theme-main-2016-child-news/css/ie8.css?ver=20151230' type='text/css' media='all' />
+<![endif]-->
+<link rel='stylesheet' id='hsph-fonts-css' href='https://fonts.googleapis.com/css?family=Merriweather%3A300%2C400%2C700%2C300italic%2C400italic%2C700italic%7CInconsolata%3A400&#038;subset=latin%2Clatin-ext&#038;ver=1.3.96' type='text/css' media='all' />
+<link rel='stylesheet' id='genericons-css' href='https://www.hsph.harvard.edu/news/wp-content/plugins/jetpack/_inc/genericons/genericons/genericons.css?ver=3.1' type='text/css' media='all' />
+<link rel='stylesheet' id='hsph-people-research-css' href='https://www.hsph.harvard.edu/news/wp-content/themes/theme-main-2016/assets/css/people-research.css?ver=1.3.96' type='text/css' media='all' />
+<!--[if lt IE 10]>
+<link rel='stylesheet' id='hsph-ie-css' href='https://www.hsph.harvard.edu/news/wp-content/themes/theme-main-2016/assets/css/ie9.css?ver=1.3.96' type='text/css' media='all' />
+<![endif]-->
+<!--[if lt IE 9]>
+<link rel='stylesheet' id='hsph-ie8-css' href='https://www.hsph.harvard.edu/news/wp-content/themes/theme-main-2016/assets/css/ie8.css?ver=1.3.96' type='text/css' media='all' />
+<![endif]-->
+<link rel='stylesheet' id='hsph-fontawesome-css' href='https://www.hsph.harvard.edu/news/wp-content/plugins/plugin-design-system/assets/css/hsph-fontawesome.css?ver=1.4.11' type='text/css' media='all' />
+<link rel='stylesheet' id='hsph-sharing-buttons-styles-css' href='https://www.hsph.harvard.edu/news/wp-content/plugins/plugin-social//assets/css/hsph-sharing-buttons.css?ver%5BVersion%5D=1.0.1' type='text/css' media='all' />
+<link rel='stylesheet' id='jetpack_css-css' href='https://www.hsph.harvard.edu/news/wp-content/plugins/jetpack/css/jetpack.css?ver=11.4' type='text/css' media='all' />
+<script type='text/javascript' id='wp-sentry-browser-js-extra'>
+/* <![CDATA[ */
+var wp_sentry = {"dsn":"https:\/\/1cf5486bca3949988f6ee887a807ff7c@o259296.ingest.sentry.io\/1856593","tracesSampleRate":"0","environment":"prod","release":"v6.1.0.15","context":{"tags":{"wordpress":"6.1","language":"en-US"}},"blacklistUrls":["https:\/\/theforum.sph.harvard.edu\/","https:\/\/theforum.sph.harvard.edu\/","https:\/\/p3.3playmedia.com\/","https:\/\/static.3playmedia.com\/","http:\/\/p3.3playmedia.com\/","http:\/\/static.3playmedia.com\/","https:\/\/www.hsph.harvard.edu\/voices\/","regex:3playmedia","regex:theforum\\.sph\\.harvard","regex:theforum\\.sph\\.harvard","harvard\\\\.edu\\\/voices\\\/","harvard\\.edu\\\/voices\\\/"],"denyUrls":["https:\/\/theforum.sph.harvard.edu\/","https:\/\/theforum.sph.harvard.edu\/","https:\/\/p3.3playmedia.com\/","https:\/\/static.3playmedia.com\/","http:\/\/p3.3playmedia.com\/","http:\/\/static.3playmedia.com\/","https:\/\/www.hsph.harvard.edu\/voices\/","regex:theforum\\.sph\\.harvard","regex:theforum\\.sph\\.harvard","harvard\\\\.edu\\\/voices\\\/","harvard\\.edu\\\/voices\\\/"]};
+/* ]]> */
+</script>
+<script type='text/javascript' src='https://www.hsph.harvard.edu/news/wp-content/plugins/wp-sentry-integration/public/wp-sentry-browser.min.js?ver=5.1.0' id='wp-sentry-browser-js'></script>
+<script type='text/javascript' src='https://www.hsph.harvard.edu/news/wp-content/plugins/jquery-updater/js/jquery-3.6.1.min.js?ver=3.6.1' id='jquery-core-js'></script>
+<script type='text/javascript' src='https://www.hsph.harvard.edu/news/wp-content/plugins/jquery-updater/js/jquery-migrate-3.4.0.min.js?ver=3.4.0' id='jquery-migrate-js'></script>
+<script type='text/javascript' src='https://www.hsph.harvard.edu/news/wp-includes/js/jquery/ui/core.min.js?ver=1.13.2' id='jquery-ui-core-js'></script>
+<script type='text/javascript' src='https://www.hsph.harvard.edu/news/wp-includes/js/jquery/ui/tabs.min.js?ver=1.13.2' id='jquery-ui-tabs-js'></script>
+<script type='text/javascript' src='https://www.hsph.harvard.edu/news/wp-includes/js/jquery/ui/accordion.min.js?ver=1.13.2' id='jquery-ui-accordion-js'></script>
+<script type='text/javascript' src='https://www.hsph.harvard.edu/news/wp-content/plugins/plugin-ui-shortcodes/assets/js/hsph-ui-shortcodes.js?ver=1.6.11' id='hsph-ui-shortcodes-scripts-js'></script>
+<script type='text/javascript' src='https://www.hsph.harvard.edu/news/wp-content/themes/theme-main-2016/assets/js/typekit.js?ver=1.3.96' id='hsph-typekit-js'></script>
+<!--[if lt IE 9]>
+<script type='text/javascript' src='https://cdnjs.cloudflare.com/ajax/libs/html5shiv/3.7.3/html5shiv.js?ver=3.7.3' id='hsph-html5-js'></script>
+<![endif]-->
+<link rel="https://api.w.org/" href="https://www.hsph.harvard.edu/news/wp-json/" /><link rel="EditURI" type="application/rsd+xml" title="RSD" href="https://www.hsph.harvard.edu/news/xmlrpc.php?rsd" />
+<link rel="wlwmanifest" type="application/wlwmanifest+xml" href="https://www.hsph.harvard.edu/news/wp-includes/wlwmanifest.xml" />
+<link rel="canonical" href="https://www.hsph.harvard.edu/news/press-releases/black-americans-discrimination-work-police/" />
+<link rel='shortlink' href='https://www.hsph.harvard.edu/news/?p=111354835980' />
+<link rel="alternate" type="application/json+oembed" href="https://www.hsph.harvard.edu/news/wp-json/oembed/1.0/embed?url=https%3A%2F%2Fwww.hsph.harvard.edu%2Fnews%2Fpress-releases%2Fblack-americans-discrimination-work-police%2F" />
+<link rel="alternate" type="text/xml+oembed" href="https://www.hsph.harvard.edu/news/wp-json/oembed/1.0/embed?url=https%3A%2F%2Fwww.hsph.harvard.edu%2Fnews%2Fpress-releases%2Fblack-americans-discrimination-work-police%2F&#038;format=xml" />
+<!-- Google Analytics -->
+<script type="text/javascript">
+	(function(i,s,o,g,r,a,m){i['GoogleAnalyticsObject']=r;i[r]=i[r]||function(){
+	(i[r].q=i[r].q||[]).push(arguments)},i[r].l=1*new Date();a=s.createElement(o),
+	m=s.getElementsByTagName(o)[0];a.async=1;a.src=g;m.parentNode.insertBefore(a,m)
+	})(window,document,'script','https://www.google-analytics.com/analytics.js','ga');
+			
+	ga( 'create', 'UA-16396394-1', 'hsph.harvard.edu', 'trackern1');
+	ga( 'trackern1.require', 'displayfeatures');
+	ga( 'trackern1.require', 'linkid');
+	ga( 'trackern1.set', 'dimension1', 'signed_out' );
+	ga( 'trackern1.set', 'dimension2', 'none' );
+	ga( 'trackern1.send', 'pageview');
+
+
+	ga( 'create', ' UA-44468534-1', 'hsph.harvard.edu', 'trackern2');
+	ga( 'trackern2.require', 'displayfeatures');
+	ga( 'trackern2.require', 'linkid');
+	ga( 'trackern2.set', 'dimension1', 'signed_out' );
+	ga( 'trackern2.set', 'dimension2', 'none' );
+	ga( 'trackern2.send', 'pageview');
+
+</script>
+<!-- End Google Analytics -->
+		
+<!-- Google Tag Manager -->
+<script>(function(w,d,s,l,i){w[l]=w[l]||[];w[l].push({'gtm.start':
+new Date().getTime(),event:'gtm.js'});var f=d.getElementsByTagName(s)[0],
+j=d.createElement(s),dl=l!='dataLayer'?'&l='+l:'';j.async=true;j.src=
+'https://www.googletagmanager.com/gtm.js?id='+i+dl;f.parentNode.insertBefore(j,f);
+})(window,document,'script','dataLayer','GTM-XL6K');</script>
+<!-- End Google Tag Manager -->
+		
+		<meta http-equiv="content-language" content="en-us" />
+		<meta name="copyright" content="Copyright (c) 2023 The President and Fellows of Harvard College" /><style>img#wpstats{display:none}</style>
+	
+<!-- Jetpack Open Graph Tags -->
+<meta property="og:type" content="article" />
+<meta property="og:title" content="Poll finds at least half of Black Americans say they have experienced racial discrimination in their jobs and from the police" />
+<meta property="og:url" content="https://www.hsph.harvard.edu/news/press-releases/black-americans-discrimination-work-police/" />
+<meta property="og:description" content="Poll finds at least half of Black Americans say they have experienced racial discrimination in their jobs and from the police." />
+<meta property="article:published_time" content="2017-10-24T17:09:22+00:00" />
+<meta property="article:modified_time" content="2018-06-22T17:49:27+00:00" />
+<meta property="og:site_name" content="News" />
+<meta property="og:image" content="https://cdn1.sph.harvard.edu/wp-content/uploads/sites/21/2017/10/discrimination470x313.jpg" />
+<meta property="og:image:width" content="470" />
+<meta property="og:image:height" content="313" />
+<meta property="og:image:alt" content="people in crowd" />
+<meta property="og:locale" content="en_US" />
+<meta name="twitter:site" content="@harvardchansph" />
+<meta name="twitter:text:title" content="Poll finds at least half of Black Americans say they have experienced racial discrimination in their jobs and from the police" />
+<meta name="twitter:image" content="https://cdn1.sph.harvard.edu/wp-content/uploads/sites/21/2017/10/discrimination470x313.jpg?w=640" />
+<meta name="twitter:image:alt" content="people in crowd" />
+<meta name="twitter:card" content="summary_large_image" />
+
+<!-- End Jetpack Open Graph Tags -->
+		<style type="text/css" id="wp-custom-css">
+			/*covid-reflections*/
+
+.lb-vid-holder {
+    border: 1px solid rgba(21, 23, 26, 0.125);
+    border-radius: 0.1875rem;
+    overflow:hidden;
+    padding-bottom: 4px;
+	max-width: 768px;
+}
+
+.lb-play-button {
+    position: absolute;
+    display: flex;
+    height: 100%;
+    width: 100%;
+    align-items: flex-end;
+    padding: 1rem 1.125rem;
+}
+
+.hsph-bootstrap .modal-dialog {
+    max-height: calc((9 / 16) * (100vh + 50px)) !important;
+    max-width: calc(100vh + 50px) !important;
+}
+
+.hsph-bootstrap .modal-content {
+    box-shadow: none !important;
+    background:  transparent !important;
+    border: none !important
+}
+
+.hsph-bootstrap .modal {
+	    background-color: #484c58c7;
+    backdrop-filter: blur(10px);
+}
+
+.lb-play-button i {
+    text-shadow: 0 0 16px #484c58;
+}
+
+/*padding corrections bootstrap columns*/
+
+.hsph-bootstrap .row {
+    display: flex;
+    flex-wrap: wrap;
+    margin-right: -0.75rem;
+    margin-left: -0.75rem;
+}
+
+.hsph-bootstrap .col-1, .hsph-bootstrap .col-2, .hsph-bootstrap .col-3, .hsph-bootstrap .col-4, .hsph-bootstrap .col-5, .hsph-bootstrap .col-6, .hsph-bootstrap .col-7, .hsph-bootstrap .col-8, .hsph-bootstrap .col-9, .hsph-bootstrap .col-10, .hsph-bootstrap .col-11, .hsph-bootstrap .col-12, .hsph-bootstrap .col, .hsph-bootstrap .col-auto, .hsph-bootstrap .col-sm-1, .hsph-bootstrap .col-sm-2, .hsph-bootstrap .col-sm-3, .hsph-bootstrap .col-sm-4, .hsph-bootstrap .col-sm-5, .hsph-bootstrap .col-sm-6, .hsph-bootstrap .col-sm-7, .hsph-bootstrap .col-sm-8, .hsph-bootstrap .col-sm-9, .hsph-bootstrap .col-sm-10, .hsph-bootstrap .col-sm-11, .hsph-bootstrap .col-sm-12, .hsph-bootstrap .col-sm, .hsph-bootstrap .col-sm-auto, .hsph-bootstrap .col-md-1, .hsph-bootstrap .col-md-2, .hsph-bootstrap .col-md-3, .hsph-bootstrap .col-md-4, .hsph-bootstrap .col-md-5, .hsph-bootstrap .col-md-6, .hsph-bootstrap .col-md-7, .hsph-bootstrap .col-md-8, .hsph-bootstrap .col-md-9, .hsph-bootstrap .col-md-10, .hsph-bootstrap .col-md-11, .hsph-bootstrap .col-md-12, .hsph-bootstrap .col-md, .hsph-bootstrap .col-md-auto, .hsph-bootstrap .col-lg-1, .hsph-bootstrap .col-lg-2, .hsph-bootstrap .col-lg-3, .hsph-bootstrap .col-lg-4, .hsph-bootstrap .col-lg-5, .hsph-bootstrap .col-lg-6, .hsph-bootstrap .col-lg-7, .hsph-bootstrap .col-lg-8, .hsph-bootstrap .col-lg-9, .hsph-bootstrap .col-lg-10, .hsph-bootstrap .col-lg-11, .hsph-bootstrap .col-lg-12, .hsph-bootstrap .col-lg, .hsph-bootstrap .col-lg-auto, .hsph-bootstrap .col-xl-1, .hsph-bootstrap .col-xl-2, .hsph-bootstrap .col-xl-3, .hsph-bootstrap .col-xl-4, .hsph-bootstrap .col-xl-5, .hsph-bootstrap .col-xl-6, .hsph-bootstrap .col-xl-7, .hsph-bootstrap .col-xl-8, .hsph-bootstrap .col-xl-9, .hsph-bootstrap .col-xl-10, .hsph-bootstrap .col-xl-11, .hsph-bootstrap .col-xl-12, .hsph-bootstrap .col-xl, .hsph-bootstrap .col-xl-auto {
+    position: relative;
+    width: 100%;
+    padding-right: 0.75rem;
+    padding-left: 0.75rem;
+}
+
+
+/*add these styles to embed permanently*/
+
+.hsph-bootstrap .embed-responsive {
+	margin-bottom: 1.5rem;
+}
+
+/*
+Welcome to Custom CSS!
+
+CSS (Cascading Style Sheets) is a kind of code that tells the browser how
+to render a web page. You may delete these comments and get started with
+your customizations.
+
+By default, your stylesheet will be loaded after the theme stylesheets,
+which means that your rules can take precedence and override the theme CSS
+rules. Just write here what you want to change, you don't need to copy all
+your theme's stylesheet content.
+*/
+
+.jump-nav {
+    width: 0;
+    height: 0;
+    float: left;
+    position: relative;
+    left: -9999px;
+    top: -80px;
+}
+
+/*temporary bootstrap styling */
+
+/*content highlight h4 and h3 size override*/
+.entry-content .hsph-bootstrap h4, .entry-content .hsph-bootstrap .h4 {
+    font-size: 1.25rem;
+    line-height: 1.2;
+}
+
+.entry-content .hsph-bootstrap h3, .entry-content .hsph-bootstrap .h3 {
+    font-size: 1.375rem;
+    line-height: 1.2;
+}
+
+/*end temporary bootstrap styling */
+
+.page-elements-content-box {
+        -webkit-box-shadow: 0 1px 3px 0 rgba(72, 76, 88, 0.2), 0 1px 4px 0px rgba(72, 76, 88, 0.23);
+    -moz-box-shadow: 0 1px 3px 0 rgba(72, 76, 88, 0.2), 0 1px 4px 0px rgba(72, 76, 88, 0.23);
+    box-shadow: 0 1px 3px 0 rgba(72, 76, 88, 0.2), 0 1px 4px 0px rgba(72, 76, 88, 0.23);
+	    margin-bottom: 1em;
+}
+
+.entry-content .page-elements-content-box h3 {
+    font-size: 20px;
+    font-size: 1.25rem;
+}
+
+.page-elements-content-box .box-read-more a {
+    font-family: 'proxima-nova', "Helvetica Neue", sans-serif;
+}
+
+
+.news-mailing-cta button {
+    display: block;
+    background-color:transparent;
+    padding: 0;
+    margin-top:12px;
+    margin-bottom: 2px;
+}
+
+.news-mailing-cta {
+    padding: 16px 15px 13px 16px;
+    background-color: #f0f0f2;
+    border-radius: 3px;
+    box-shadow: 0 1px 3px 0 rgba(72, 76, 88, 0.2), 0 1px 4px 0px rgba(72, 76, 88, 0.23);
+}
+
+.news-mailing-cta h2 {
+    margin-bottom: 8px;
+		color:#484c58;
+}
+
+.news-mailing-cta button a {
+    display:block;
+    color: #fff;
+    font-size: 14px;
+    font-size: .875rem;
+    line-height: 1.25;
+    letter-spacing: 0.9px;
+    text-transform: uppercase;
+    text-decoration: none;
+    color: #fff;
+    text-align: center;
+    padding: 9px 15px;
+    margin-left: -2px;
+    background-color: #007dad;
+    border-radius: 100px;
+    -webkit-transition: background-color 160ms cubic-bezier(.65, .05, .36, 1);
+    -moz-transition: background-color 160ms cubic-bezier(.65, .05, .36, 1);
+    -ms-transition: background-color 160ms cubic-bezier(.65, .05, .36, 1);
+    -o-transition: background-color 160ms cubic-bezier(.65, .05, .36, 1);
+    transition: background-color 160ms cubic-bezier(.65, .05, .36, 1);
+}
+
+
+.news-mailing-cta button a:hover {
+    background-color:#0e5d79;
+}
+
+.news-mailing-cta i {
+    font-size: 11px;
+    font-weight: lighter;
+    display: inline-block;
+    color: #f0f0f2;
+    background-color: #484c58;
+    padding: 5px;
+    border-radius: 20px;
+    margin-right: 5px;
+    position: relative;
+    top: -3px;
+    left: -2px;
+}
+
+
+
+
+.gallery-caption {
+	background: none;
+	box-sizing: none;
+	color: #000;
+	font-size: 14px;
+	line-height: 1.5em !important;
+	margin: 0;
+	max-height: 50%;
+	opacity: 1;
+	padding: 2px 8px;
+	position: static;
+	bottom: 0;
+	left: 0;
+	text-align: left;
+	-webkit-transition: none;
+	transition: none;
+	width: 100%;
+	margin-bottom: 0 !important;
+}
+
+.gallery-caption:before {
+	box-shadow: none;
+	content: "";
+	height: 100%;
+	min-height: 49px;
+	position: relative;
+	left: 0;
+	top: 0;
+	width: 100%;
+}
+
+.blog .format-gallery .gallery,
+.archive .format-gallery .gallery,
+.single .format-gallery .gallery,
+.page .gallery,
+.search .format-gallery .gallery {
+	margin-bottom: 20px;
+	max-width: 608px;
+}
+
+.page .gallery-item {
+	display: block;
+	height: 100%;
+	margin-right: 10px !important;
+	max-height: 100%;
+	max-width: 100%;
+	overflow: visible;
+	width: 148px;
+}
+
+.page .gallery-item img {
+	height: auto;
+	max-height: 148px;
+	max-width: none;
+	width: auto;
+}
+
+.page .gallery-item .portrait img {
+	height: auto;
+	max-height: none;
+	max-width: 148px;
+	width: 100%;
+}
+
+.page .gallery-item .gallery-icon {
+	height: auto;
+	-webkit-transform: none;
+	-ms-transform: none;
+	transform: none;
+	width: auto;
+}
+
+.page .gallery-item .gallery-icon img {
+	-webkit-transform: none;
+	-ms-transform: none;
+	transform: none;
+}
+
+.page .gallery br {
+	display: block;
+}
+
+.list-news_home_student_story img {
+	display: none !important;
+}
+
+
+
+span.faq-updated {
+    font-family: 'proxima-nova', "Helvetica Neue", sans-serif;
+    font-size: 11px;
+    text-transform: uppercase;
+    letter-spacing: 1px;
+    background-color: #ffbb33;
+    padding: 3px 5px 1px 6px;
+    margin-right: 6px;
+    margin-top: 1px;
+    color: black;
+    border-radius: 3px;
+}
+
+
+
+
+@media screen and (max-width: 920px) {
+
+figure.alignright,
+figure.alignleft,
+img.alignright,
+img.alignleft {
+    width: 50% !important;
+}
+
+}
+
+
+@media screen and (max-width: 767px) {
+.page-elements-content-box.page-elements-content-boxes-width-addition {
+    flex: 0 0 calc(50% - 1em);
+}
+}
+
+@media screen and (max-width: 750px) {
+	.page-template-no-left-sidebar .content-area {
+			padding-right: 0;
+	}
+}
+
+@media screen and (max-width: 720px) {
+
+figure.alignright,
+figure.alignleft,
+img.alignright,
+img.alignleft {
+    width: 100% !important;
+}
+
+}
+
+@media screen and (max-width: 480px) {
+.page-elements-content-box.page-elements-content-boxes-width-addition {
+    flex: 0 0 calc(100% - 1em);
+}
+}
+
+a.multisite-terms-explore {
+	color: #a51c30;
+    font-size: 17px;
+    font-size: 1.063rem;
+    line-height: 1.4;
+    margin: 0;
+    font-weight: 600;
+}
+
+/* adds the carrots on hover just for fun */
+a.multisite-terms-explore:hover:after {
+	content:" »";
+}
+
+
+
+/*better off season 2 page customization*/
+
+.page-id-111354857829 #primary:before {
+    content: "";
+    position: absolute;
+    display: block;
+    background: url("https://cdn1.sph.harvard.edu/wp-content/uploads/sites/21/2022/11/202210_Better_off_Home_aura2.png");
+    background-size: contain;
+    background-repeat: no-repeat;
+    width: 100vw;
+    height: 100vh;
+    margin-top: -30px;
+    z-index: 0;
+    opacity: 0.5;
+}
+
+.page-id-111354857829 #breadcrumbs {
+    background-color: #484c58;
+    color: #fff;
+}
+
+.page-id-111354857829 #breadcrumbs a {
+    color: #e8f1f7;
+}
+
+
+.page-id-111354857829 .hsph-bootstrap .list-group:nth-of-type(1) .list-group-item {
+    background-color: #f7f7f7;
+}		</style>
+		<style id="kirki-inline-styles"></style></head>
+
+<body class="press-release-template-default single single-press-release postid-111354835980 has-sidebar">
+<script>
+	window.fbAsyncInit = function() {
+		FB.init({
+			appId      : '1019010578192159',
+			xfbml      : true,
+			version    : 'v2.7'
+		});
+		FB.AppEvents.logPageView();
+	};
+
+	(function(d, s, id){
+		var js, fjs = d.getElementsByTagName(s)[0];
+		if (d.getElementById(id)) {return;}
+		js = d.createElement(s); js.id = id;
+		js.src = "//connect.facebook.net/en_US/sdk.js";
+		fjs.parentNode.insertBefore(js, fjs);
+	}(document, 'script', 'facebook-jssdk'));
+</script>
+<div class="wrapper" id="wrapper">
+	<div id="navbar" class="navbar">
+		<div id="nav-utility-menu" class="nav-utility-menu"></div>
+		<div id="nav-primary-menu" class="nav-primary-menu"></div>
+		<div id="nav-audience-menu" class="nav-audience-menu"></div>
+	</div>
+			<button id="main-menu-toggle" class="main-menu-toggle">Menu</button>
+		<button id="main-menu-caption" class="main-menu-caption"><span id="main-menu-caption-text" class="main-menu-caption-text">Close Menu</span></button>
+		<div id="page" class="site">
+		<a class="skip-link screen-reader-text" href="#content">Skip to content</a>
+				<header id="masthead" class="site-header" role="banner">
+			<div id="audience-bar">
+									<div id="site-audience-menu" class="site-audience-menu">
+						<span class="information-for">Information For:</span>
+						<nav id="audience-navigation" class="audience-navigation" aria-label="Audience Menu">
+							<div class="menu-audience-menu-container"><ul id="menu-audience-menu" class="hsph-audience-menu"><li class="menu-item menu-item-type-custom menu-item-object-custom menu-item-111354113411"><a href="/admissions/">Prospective Students</a></li>
+<li class="menu-item menu-item-type-custom menu-item-object-custom menu-item-111354113412"><a href="/current-students/">Current Students</a></li>
+<li class="menu-item menu-item-type-custom menu-item-object-custom menu-item-111354113413"><a href="https://alumni.sph.harvard.edu">Alumni</a></li>
+<li class="menu-item menu-item-type-custom menu-item-object-custom menu-item-111354113414"><a href="/faculty-staff/">Faculty &#038; Staff</a></li>
+<li class="menu-item menu-item-type-custom menu-item-object-custom menu-item-111354113415"><a href="/giving/">Friends &#038; Supporters</a></li>
+</ul></div>						</nav><!-- .main-navigation -->
+					</div><!-- .site-header-menu -->
+								<div id="index-search">
+											<div id="site-atoz-menu" class="site-atoz-menu">
+							<nav id="atoz-navigation" class="atoz-navigation" aria-label="A to Z Menu">
+								<div class="menu-a-to-z-container"><ul id="menu-a-to-z" class="hsph-atoz-menu"><li id="menu-item-111354113481" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-111354113481"><a href="https://www.hsph.harvard.edu/atoz/">A to Z index</a></li>
+</ul></div>							</nav><!-- .main-navigation -->
+
+						</div><!-- .site-header-menu -->
+										<div id="search">
+						<form role="search" method="get" class="search-form" action="/search">
+							<label>
+								<span class="screen-reader-text">Search for:</span>
+								<input type="search" class="search-field" placeholder="Search&hellip;" value="" name="q" id="q" title="Search for:" />
+							</label>
+							<button type="submit" value="Search" aria-label="Search for:" class="search-submit"> </button>
+						</form>
+					</div>
+				</div>
+			</div>
+			<div class="site-header-main">
+				<div class="site-branding">
+					<div class="site-title"><a href="https://www.hsph.harvard.edu/" rel="home">Harvard T.H. Chan School of Public Health</a></div>
+				</div><!-- .site-branding -->
+									<div id="site-utility-menu" class="site-utility-menu">
+						<nav id="utility-navigation" class="utility-navigation" aria-label="Utility Menu">
+							<div class="menu-quicklinks-menu-container"><ul id="menu-quicklinks-menu" class="hsph-utility-menu"><li id="menu-item-111354113419" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-111354113419"><a href="/email/">Email</a></li>
+<li id="menu-item-111354113417" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-111354113417"><a href="/people/">People</a></li>
+<li id="menu-item-111354113422" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-111354113422"><a href="/academics/">Departments</a></li>
+<li id="menu-item-111354113416" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-111354113416"><a href="https://www.hsph.harvard.edu/events/">Calendar</a></li>
+<li id="menu-item-111354113418" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-111354113418"><a href="/employment/">Careers</a></li>
+<li id="menu-item-111354113421" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-111354113421"><a title="Manage Student Information" href="https://my.harvard.edu">my.harvard</a></li>
+<li id="menu-item-111354113420" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-111354113420"><a href="https://www.hsph.harvard.edu/giving/">Giving</a></li>
+</ul></div>						</nav><!-- .main-navigation -->
+
+					</div><!-- .site-header-menu -->
+							</div><!-- .site-header-main -->
+							<div id="site-header-menu" class="site-header-menu">
+					<!-- Start Imodules Primary Nav Scrape -->
+					<nav id="site-navigation" class="main-navigation" aria-label="Primary Menu">
+						<div class="menu-main-navigation-container"><ul id="menu-main-navigation" class="hsph-primary-menu"><li id="menu-item-111354113405" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-111354113405"><a href="/about/">About</a></li>
+<li id="menu-item-111354113406" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-111354113406"><a href="/faculty-research/">Faculty &#038; Research</a></li>
+<li id="menu-item-111354113407" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-111354113407"><a href="/admissions/">Admissions &#038; Aid</a></li>
+<li id="menu-item-111354113408" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-111354113408"><a href="/departments/">Academics</a></li>
+<li id="menu-item-111354113409" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-111354113409"><a href="/ecpe/">Executive/Continuing Ed</a></li>
+<li id="menu-item-111354113410" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-111354113410"><a href="/news/">News</a></li>
+</ul></div>					</nav><!-- .main-navigation -->
+					<!-- End Imodules Primary Nav Scrape -->
+				</div><!-- .site-header-menu -->
+					</header><!-- .site-header -->
+		
+				<div id="content" class="site-content">
+							<div class="page-header">
+					<div class="page-title" >
+						News					</div>
+				</div>
+								<div id="breadcrumbs" class="hsph-site-title-present">
+					<!-- Breadcrumb NavXT 7.1.0 -->
+<a title="Go to Harvard T.H. Chan School of Public Health." href="https://www.hsph.harvard.edu" class="main-home"> </a> &gt; <a title="Go to News." href="https://www.hsph.harvard.edu/news" class="home">News</a> &gt; <a title="Go to Press Releases." href="https://www.hsph.harvard.edu/news/press-releases/">Press Releases</a> &gt; <span typeof="v:Breadcrumb"><a rel="v:url" property="v:title" title="Go to the 2017 Release Press Release Category archives." href="https://www.hsph.harvard.edu/news/pr_categories/2017-release/">2017 Release</a></span> &gt; Poll finds at least half of Black Americans say they have experienced racial discrimination in their jobs and from the police				</div>
+				
+<div id="primary" class="content-area">
+	
+<div id="left-nav" class="left-nav" role="navigation">
+	<div class="section-title">
+		<a href="https://www.hsph.harvard.edu/news/" rel="home">News</a>
+		<button class="dropdown-toggle" aria-expanded="false"><span class="screen-reader-text">Menu</span></button>
+	</div>
+	<div class="left-collapse-container">
+		<div id="left-search">
+		
+			<form role="search" method="get" class="search-form" action="https://www.hsph.harvard.edu/news/">
+				<label>
+					<span class="screen-reader-text">Search for:</span>
+					<input type="search" class="search-field" placeholder="Search this section" value="" name="s" title="Search for:" />
+				</label>
+				<button type="submit" value="Search" aria-label="Search for:" class="search-submit"> </button>
+			</form>
+					</div>
+					<div id="site-left-menu" class="site-left-menu">
+				<nav id="site-left-nav" class="left-navigation" aria-label="Section Menu">
+					<div class="menu-main-menu-container"><ul id="menu-main-menu" class="hsph-lefthand-menu"><li id="menu-item-14" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-home menu-item-14"><a href="https://www.hsph.harvard.edu/news">News Home</a></li>
+<li id="menu-item-15" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-has-children menu-item-15"><a href="https://www.hsph.harvard.edu/news/press-releases/">Press Releases</a>
+<ul class="sub-menu">
+	<li id="menu-item-111354850754" class="menu-item menu-item-type-taxonomy menu-item-object-pr_categories menu-item-111354850754"><a href="https://www.hsph.harvard.edu/news/pr_categories/2020-release/">2020 Releases</a></li>
+	<li id="menu-item-111354842340" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-111354842340"><a href="https://www.hsph.harvard.edu/news/press-release/2019/">2019 Releases</a></li>
+	<li id="menu-item-111354840032" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-111354840032"><a href="https://www.hsph.harvard.edu/news/press-release/2018/">2018 Releases</a></li>
+	<li id="menu-item-111354840031" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-111354840031"><a href="https://www.hsph.harvard.edu/news/press-release/2017/">2017 Releases</a></li>
+	<li id="menu-item-111354828263" class="menu-item menu-item-type-taxonomy menu-item-object-pr_categories menu-item-111354828263"><a href="https://www.hsph.harvard.edu/news/pr_categories/2016-release/">2016 Releases</a></li>
+	<li id="menu-item-111354821590" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-111354821590"><a href="https://www.hsph.harvard.edu/news/press-release/2015/">2015 Releases</a></li>
+	<li id="menu-item-111354821589" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-111354821589"><a href="https://www.hsph.harvard.edu/news/press-release/2014/">2014 Releases</a></li>
+	<li id="menu-item-111354815946" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-111354815946"><a href="https://www.hsph.harvard.edu/news/press-release/2013/">2013 Releases</a></li>
+	<li id="menu-item-111354808983" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-111354808983"><a href="https://www.hsph.harvard.edu/news/press-release/2012/">2012 Releases</a></li>
+	<li id="menu-item-111354808984" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-111354808984"><a href="https://www.hsph.harvard.edu/news/press-release/2011/">2011 Releases</a></li>
+	<li id="menu-item-111354811351" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-111354811351"><a href="https://www.hsph.harvard.edu/news/press-releases-search/">Search the press releases archive</a></li>
+</ul>
+</li>
+<li id="menu-item-111354806187" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-111354806187"><a href="https://www.hsph.harvard.edu/news/features/">Features</a></li>
+<li id="menu-item-111354806189" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-111354806189"><a href="https://www.hsph.harvard.edu/news/hsph-in-the-news/">In the News</a></li>
+<li id="menu-item-111354811424" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-has-children menu-item-111354811424"><a href="https://www.hsph.harvard.edu/news/multimedia-article/">Multimedia</a>
+<ul class="sub-menu">
+	<li id="menu-item-111354857611" class="menu-item menu-item-type-taxonomy menu-item-object-multimedia_categories menu-item-111354857611"><a href="https://www.hsph.harvard.edu/news/multimedia_categories/2022/">2022 Multimedia</a></li>
+	<li id="menu-item-111354852701" class="menu-item menu-item-type-taxonomy menu-item-object-multimedia_categories menu-item-111354852701"><a href="https://www.hsph.harvard.edu/news/multimedia_categories/2021/">2021 Multimedia</a></li>
+	<li id="menu-item-111354846972" class="menu-item menu-item-type-taxonomy menu-item-object-multimedia_categories menu-item-111354846972"><a href="https://www.hsph.harvard.edu/news/multimedia_categories/2020/">2020 Multimedia</a></li>
+	<li id="menu-item-111354842402" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-111354842402"><a href="https://www.hsph.harvard.edu/news/multimedia_categories/2019/">2019 Multimedia</a></li>
+	<li id="menu-item-111354837006" class="menu-item menu-item-type-taxonomy menu-item-object-multimedia_categories menu-item-111354837006"><a href="https://www.hsph.harvard.edu/news/multimedia_categories/2018/">2018 Multimedia</a></li>
+	<li id="menu-item-111354832186" class="menu-item menu-item-type-taxonomy menu-item-object-multimedia_categories menu-item-111354832186"><a href="https://www.hsph.harvard.edu/news/multimedia_categories/2017/">2017 Multimedia</a></li>
+	<li id="menu-item-111354828430" class="menu-item menu-item-type-taxonomy menu-item-object-multimedia_categories menu-item-111354828430"><a href="https://www.hsph.harvard.edu/news/multimedia_categories/2016/">2016 Multimedia</a></li>
+	<li id="menu-item-111354828429" class="menu-item menu-item-type-taxonomy menu-item-object-multimedia_categories menu-item-111354828429"><a href="https://www.hsph.harvard.edu/news/multimedia_categories/2015-3/">2015  Multimedia</a></li>
+	<li id="menu-item-111354820301" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-111354820301"><a href="https://www.hsph.harvard.edu/news/multimedia-article/2014/">2014 Multimedia</a></li>
+	<li id="menu-item-111354811418" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-111354811418"><a href="https://www.hsph.harvard.edu/news/multimedia-article/2013/">2013 Multimedia</a></li>
+	<li id="menu-item-111354811419" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-111354811419"><a href="https://www.hsph.harvard.edu/news/multimedia-article/2012/">2012 Multimedia</a></li>
+</ul>
+</li>
+<li id="menu-item-111354806191" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-111354806191"><a href="https://www.hsph.harvard.edu/magazine/">HPH Magazine</a></li>
+<li id="menu-item-111354811539" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-has-children menu-item-111354811539"><a href="https://www.hsph.harvard.edu/multitaxo/tag/faculty-stories/">Faculty Stories</a>
+<ul class="sub-menu">
+	<li id="menu-item-111354841517" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-111354841517"><a href="https://www.hsph.harvard.edu/news/faculty-news-notes-and-accolades/">Faculty News, Notes, and Accolades</a></li>
+</ul>
+</li>
+<li id="menu-item-111354811540" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-has-children menu-item-111354811540"><a href="https://www.hsph.harvard.edu/multitaxo/tag/student-stories/">Student Stories</a>
+<ul class="sub-menu">
+	<li id="menu-item-111354841520" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-111354841520"><a href="https://www.hsph.harvard.edu/news/student-news-notes-and-accolades/">Student News, Notes, and Accolades</a></li>
+</ul>
+</li>
+<li id="menu-item-111354811541" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-111354811541"><a href="https://www.hsph.harvard.edu/multitaxo/tag/alumni-stories/">Alumni Stories</a></li>
+<li id="menu-item-111354811542" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-111354811542"><a href="https://www.hsph.harvard.edu/multitaxo/topic/">Explore Research by Topic</a></li>
+<li id="menu-item-111354812124" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-111354812124"><a href="https://www.hsph.harvard.edu/communications/">Office of Communications</a></li>
+<li id="menu-item-111354853239" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-111354853239"><a href="https://www.hsph.harvard.edu/giving/how-to-make-a-gift/">Make a Gift</a></li>
+</ul></div>				</nav><!-- .main-navigation -->
+
+			</div><!-- .site-header-menu -->
+					</div><!-- .left-collapse-container -->
+</div><!-- .sidebar .widget-area -->
+	<main id="main" class="site-main" role="main">
+		
+<article id="post-111354835980" class="post-111354835980 press-release type-press-release status-publish has-post-thumbnail hentry pr_categories-2017-release">
+	<header class="entry-header">
+		<h1 class="entry-title">Poll finds at least half of Black Americans say they have experienced racial discrimination in their jobs and from the police</h1>	</header><!-- .entry-header -->
+	
+		<figure class="post-thumbnail ">
+			<img width="470" height="313" src="https://cdn1.sph.harvard.edu/wp-content/uploads/sites/21/2017/10/discrimination470x313.jpg" class="attachment-post-thumbnail size-post-thumbnail wp-post-image" alt="people in crowd" decoding="async" srcset="https://cdn1.sph.harvard.edu/wp-content/uploads/sites/21/2017/10/discrimination470x313.jpg 470w, https://cdn1.sph.harvard.edu/wp-content/uploads/sites/21/2017/10/discrimination470x313-150x100.jpg 150w, https://cdn1.sph.harvard.edu/wp-content/uploads/sites/21/2017/10/discrimination470x313-300x200.jpg 300w" sizes="(max-width: 709px) 85vw, (max-width: 909px) 67vw, (max-width: 984px) 60vw, (max-width: 1362px) 62vw, 840px" data-attachment-id="111354835985" data-permalink="https://www.hsph.harvard.edu/news/press-releases/black-americans-discrimination-work-police/discrimination470x313/" data-orig-file="https://cdn1.sph.harvard.edu/wp-content/uploads/sites/21/2017/10/discrimination470x313.jpg" data-orig-size="470,313" data-comments-opened="0" data-image-meta="{&quot;aperture&quot;:&quot;0&quot;,&quot;credit&quot;:&quot;&quot;,&quot;camera&quot;:&quot;&quot;,&quot;caption&quot;:&quot;&quot;,&quot;created_timestamp&quot;:&quot;0&quot;,&quot;copyright&quot;:&quot;&quot;,&quot;focal_length&quot;:&quot;0&quot;,&quot;iso&quot;:&quot;0&quot;,&quot;shutter_speed&quot;:&quot;0&quot;,&quot;title&quot;:&quot;&quot;,&quot;orientation&quot;:&quot;1&quot;}" data-image-title="discrimination" data-image-description="" data-image-caption="" data-medium-file="https://cdn1.sph.harvard.edu/wp-content/uploads/sites/21/2017/10/discrimination470x313-300x200.jpg" data-large-file="https://cdn1.sph.harvard.edu/wp-content/uploads/sites/21/2017/10/discrimination470x313.jpg" />		</figure><!-- .post-thumbnail -->
+
+				<div class="entry-content">
+		<p>For immediate release: October 24, 2017</p>
+<p class="p1"><span class="s1">Boston, MA – </span>This report is part of a series titled “Discrimination in America.” The series is based on a survey conducted for National Public Radio, the Robert Wood Johnson Foundation, and Harvard T.H. Chan School of Public Health. While many surveys have explored Americans’ beliefs about discrimination, this survey asks people about their own personal experiences with discrimination.</p>
+<p><a href="https://cdn1.sph.harvard.edu/wp-content/uploads/sites/21/2017/10/NPR-RWJF-HSPH-Discrimination-African-Americans-Final-Report.pdf">View topline and charts</a></p>
+<p><strong>Half or more of Black Americans report being personally discriminated against in the workplace and when interacting with police</strong></p>
+<p class="p1">In the context of institutional forms of discrimination, half or more of Black Americans report being personally discriminated against because they are Black when it comes to being paid equally or considered for promotion (57%), when applying for jobs (56%), or when interacting with police (50%) (Chart 1).</p>
+<figure id="attachment_111354835987" aria-describedby="caption-attachment-111354835987" style="width: 840px" class="wp-caption aligncenter"><a href="https://cdn1.sph.harvard.edu/wp-content/uploads/sites/21/2017/10/Blendon_Chart1.jpg"><img data-attachment-id="111354835987" data-permalink="https://www.hsph.harvard.edu/news/press-releases/black-americans-discrimination-work-police/blendon_chart1/" data-orig-file="https://cdn1.sph.harvard.edu/wp-content/uploads/sites/21/2017/10/Blendon_Chart1.jpg" data-orig-size="1330,824" data-comments-opened="0" data-image-meta="{&quot;aperture&quot;:&quot;0&quot;,&quot;credit&quot;:&quot;&quot;,&quot;camera&quot;:&quot;&quot;,&quot;caption&quot;:&quot;&quot;,&quot;created_timestamp&quot;:&quot;0&quot;,&quot;copyright&quot;:&quot;&quot;,&quot;focal_length&quot;:&quot;0&quot;,&quot;iso&quot;:&quot;0&quot;,&quot;shutter_speed&quot;:&quot;0&quot;,&quot;title&quot;:&quot;&quot;,&quot;orientation&quot;:&quot;0&quot;}" data-image-title="Blendon_Chart1" data-image-description="" data-image-caption="" data-medium-file="https://cdn1.sph.harvard.edu/wp-content/uploads/sites/21/2017/10/Blendon_Chart1-300x186.jpg" data-large-file="https://cdn1.sph.harvard.edu/wp-content/uploads/sites/21/2017/10/Blendon_Chart1-1024x634.jpg" decoding="async" loading="lazy" class="wp-image-111354835987 size-large" src="https://cdn1.sph.harvard.edu/wp-content/uploads/sites/21/2017/10/Blendon_Chart1-1024x634.jpg" alt="chart" width="840" height="520" srcset="https://cdn1.sph.harvard.edu/wp-content/uploads/sites/21/2017/10/Blendon_Chart1-1024x634.jpg 1024w, https://cdn1.sph.harvard.edu/wp-content/uploads/sites/21/2017/10/Blendon_Chart1-150x93.jpg 150w, https://cdn1.sph.harvard.edu/wp-content/uploads/sites/21/2017/10/Blendon_Chart1-300x186.jpg 300w, https://cdn1.sph.harvard.edu/wp-content/uploads/sites/21/2017/10/Blendon_Chart1-768x476.jpg 768w, https://cdn1.sph.harvard.edu/wp-content/uploads/sites/21/2017/10/Blendon_Chart1-660x409.jpg 660w, https://cdn1.sph.harvard.edu/wp-content/uploads/sites/21/2017/10/Blendon_Chart1-470x291.jpg 470w, https://cdn1.sph.harvard.edu/wp-content/uploads/sites/21/2017/10/Blendon_Chart1.jpg 1330w" sizes="(max-width: 709px) 85vw, (max-width: 909px) 67vw, (max-width: 1362px) 62vw, 840px" /></a><figcaption id="caption-attachment-111354835987" class="wp-caption-text">NPR/Robert Wood Johnson Foundation/Harvard T.H. Chan School of Public Health, Discrimination in America: Experiences and Views of African Americans, January 26 – April 9, 2017. S5/Q13, S6/Q15, Q17, Q19, Q21, S7/Q23, S8/Q25. Each question asked of half-sample. Total N=802 African-American U.S. adults.</figcaption></figure>
+<p>“What is portrayed in the daily news about racial discrimination in America corresponds to the very real personal experiences of Black Americans today, particularly in the areas of employment, interacting with the police, and housing,” says <a href="https://www.hsph.harvard.edu/robert-blendon/">Robert Blendon</a>, Richard L. Menschel Professor of Health Policy and Political Analysis at Harvard T.H. Chan School of Public Health, who co-directed the survey.</p>
+<p>In a separate question, 60% of Black Americans say that they or a family member have been unfairly stopped or treated by the police because they are Black, and 45% say they or a family member have been treated unfairly by the courts because they are Black (Chart 2).</p>
+<figure id="attachment_111354835988" aria-describedby="caption-attachment-111354835988" style="width: 840px" class="wp-caption aligncenter"><a href="https://cdn1.sph.harvard.edu/wp-content/uploads/sites/21/2017/10/Blendon_Chart2.jpg"><img data-attachment-id="111354835988" data-permalink="https://www.hsph.harvard.edu/news/press-releases/black-americans-discrimination-work-police/blendon_chart2/" data-orig-file="https://cdn1.sph.harvard.edu/wp-content/uploads/sites/21/2017/10/Blendon_Chart2.jpg" data-orig-size="1330,646" data-comments-opened="0" data-image-meta="{&quot;aperture&quot;:&quot;0&quot;,&quot;credit&quot;:&quot;&quot;,&quot;camera&quot;:&quot;&quot;,&quot;caption&quot;:&quot;&quot;,&quot;created_timestamp&quot;:&quot;0&quot;,&quot;copyright&quot;:&quot;&quot;,&quot;focal_length&quot;:&quot;0&quot;,&quot;iso&quot;:&quot;0&quot;,&quot;shutter_speed&quot;:&quot;0&quot;,&quot;title&quot;:&quot;&quot;,&quot;orientation&quot;:&quot;0&quot;}" data-image-title="Blendon_Chart2" data-image-description="" data-image-caption="" data-medium-file="https://cdn1.sph.harvard.edu/wp-content/uploads/sites/21/2017/10/Blendon_Chart2-300x146.jpg" data-large-file="https://cdn1.sph.harvard.edu/wp-content/uploads/sites/21/2017/10/Blendon_Chart2-1024x497.jpg" decoding="async" loading="lazy" class="wp-image-111354835988 size-large" src="https://cdn1.sph.harvard.edu/wp-content/uploads/sites/21/2017/10/Blendon_Chart2-1024x497.jpg" alt="chart" width="840" height="408" srcset="https://cdn1.sph.harvard.edu/wp-content/uploads/sites/21/2017/10/Blendon_Chart2-1024x497.jpg 1024w, https://cdn1.sph.harvard.edu/wp-content/uploads/sites/21/2017/10/Blendon_Chart2-150x73.jpg 150w, https://cdn1.sph.harvard.edu/wp-content/uploads/sites/21/2017/10/Blendon_Chart2-300x146.jpg 300w, https://cdn1.sph.harvard.edu/wp-content/uploads/sites/21/2017/10/Blendon_Chart2-768x373.jpg 768w, https://cdn1.sph.harvard.edu/wp-content/uploads/sites/21/2017/10/Blendon_Chart2-660x321.jpg 660w, https://cdn1.sph.harvard.edu/wp-content/uploads/sites/21/2017/10/Blendon_Chart2-470x228.jpg 470w, https://cdn1.sph.harvard.edu/wp-content/uploads/sites/21/2017/10/Blendon_Chart2.jpg 1330w" sizes="(max-width: 709px) 85vw, (max-width: 909px) 67vw, (max-width: 1362px) 62vw, 840px" /></a><figcaption id="caption-attachment-111354835988" class="wp-caption-text">NPR/Robert Wood Johnson Foundation/Harvard T.H. Chan School of Public Health, Discrimination in America: Experiences and Views of African Americans, January 26 – April 9, 2017. Q91. Question asked of half-sample. Total N=802 African-American U.S. adults.</figcaption></figure>
+<p><strong>Half of Black Americans have experienced racial slurs and negative comments; Roughly four in ten have experienced violence and threats or harassment</strong></p>
+<p>In the context of individual or interpersonal forms of discrimination, at least half of Black Americans say they have personally experienced people using racial slurs against them (51%) or making insensitive or offensive comments about their race or ethnicity (52%) (Chart 3).</p>
+<figure id="attachment_111354835989" aria-describedby="caption-attachment-111354835989" style="width: 840px" class="wp-caption aligncenter"><a href="https://cdn1.sph.harvard.edu/wp-content/uploads/sites/21/2017/10/Blendon_Chart3.jpg"><img data-attachment-id="111354835989" data-permalink="https://www.hsph.harvard.edu/news/press-releases/black-americans-discrimination-work-police/blendon_chart3/" data-orig-file="https://cdn1.sph.harvard.edu/wp-content/uploads/sites/21/2017/10/Blendon_Chart3.jpg" data-orig-size="1330,746" data-comments-opened="0" data-image-meta="{&quot;aperture&quot;:&quot;0&quot;,&quot;credit&quot;:&quot;&quot;,&quot;camera&quot;:&quot;&quot;,&quot;caption&quot;:&quot;&quot;,&quot;created_timestamp&quot;:&quot;0&quot;,&quot;copyright&quot;:&quot;&quot;,&quot;focal_length&quot;:&quot;0&quot;,&quot;iso&quot;:&quot;0&quot;,&quot;shutter_speed&quot;:&quot;0&quot;,&quot;title&quot;:&quot;&quot;,&quot;orientation&quot;:&quot;0&quot;}" data-image-title="Blendon_Chart3" data-image-description="" data-image-caption="" data-medium-file="https://cdn1.sph.harvard.edu/wp-content/uploads/sites/21/2017/10/Blendon_Chart3-300x168.jpg" data-large-file="https://cdn1.sph.harvard.edu/wp-content/uploads/sites/21/2017/10/Blendon_Chart3-1024x574.jpg" decoding="async" loading="lazy" class="wp-image-111354835989 size-large" src="https://cdn1.sph.harvard.edu/wp-content/uploads/sites/21/2017/10/Blendon_Chart3-1024x574.jpg" alt="chart" width="840" height="471" srcset="https://cdn1.sph.harvard.edu/wp-content/uploads/sites/21/2017/10/Blendon_Chart3-1024x574.jpg 1024w, https://cdn1.sph.harvard.edu/wp-content/uploads/sites/21/2017/10/Blendon_Chart3-150x84.jpg 150w, https://cdn1.sph.harvard.edu/wp-content/uploads/sites/21/2017/10/Blendon_Chart3-300x168.jpg 300w, https://cdn1.sph.harvard.edu/wp-content/uploads/sites/21/2017/10/Blendon_Chart3-768x431.jpg 768w, https://cdn1.sph.harvard.edu/wp-content/uploads/sites/21/2017/10/Blendon_Chart3-660x370.jpg 660w, https://cdn1.sph.harvard.edu/wp-content/uploads/sites/21/2017/10/Blendon_Chart3-470x264.jpg 470w, https://cdn1.sph.harvard.edu/wp-content/uploads/sites/21/2017/10/Blendon_Chart3.jpg 1330w" sizes="(max-width: 709px) 85vw, (max-width: 909px) 67vw, (max-width: 1362px) 62vw, 840px" /></a><figcaption id="caption-attachment-111354835989" class="wp-caption-text">NPR/Robert Wood Johnson Foundation/Harvard T.H. Chan School of Public Health, Discrimination in America: Experiences and Views of African Americans, January 26 – April 9, 2017. Q63a/Q64a, Q63b/ Q64b, Q63c/Q64c, Q91. Each question asked of half-sample. Total N=802 African-American U.S. adults.</figcaption></figure>
+<p>Additionally, roughly four in ten Black Americans say they have experienced people acting afraid of them (40%) because of their race, and further that they or a family member have experienced <a href="https://www.hsph.harvard.edu/news/topic/violence/">violence</a> (42%) or threats or non-sexual harassment (35%) because they are Black (Chart 3).</p>
+<p><strong>Harvard professor David Williams on health consequences of discrimination</strong></p>
+<p><a href="https://www.hsph.harvard.edu/david-williams/">David Williams</a>, PhD, MPH, the Florence Sprague Norman and Laura Smart Norman Professor of Public Health at the Harvard T.H. Chan School of Public Health and Professor of African and African American Studies and Sociology at Harvard University, says that it’s well documented that Black Americans generally have poorer health and die sooner than whites in America. The effects of experiencing discrimination, in both institutional and individual contexts, can accumulate over time and trigger an array of <a href="https://www.hsph.harvard.edu/news/topic/health-disparities/">health problems</a>, including elevated blood pressure, <a href="https://www.hsph.harvard.edu/news/topic/heart-disease/">heart disease</a>, and even premature aging or mortality, among others. Williams says, “This poll helps us see where we need to take action to address the problem.”</p>
+<p><strong>A third of Black Americans have been personally discriminated against when seeking healthcare</strong></p>
+<p>The poll also found that in the context of healthcare, roughly one third (32%) of Black Americans say they have been personally discriminated against because they are Black when going to a doctor or health clinic (Chart 1).</p>
+<p>Additionally, 22% of Black Americans say they have avoided seeking medical care for themselves or a member of their family out of concern they would be discriminated against because they are Black.</p>
+<p><strong>Black Americans see individual prejudice as a larger problem than laws and governmental policies </strong></p>
+<p>Overall, 92% of Black Americans said they believe that discrimination against Black people exists in America today. Among those, nearly half (49%) say that discrimination based on individuals’ prejudice is the larger problem, while 25% say discrimination based in laws and government policies is the larger problem. Another 25% say both forms of discrimination are equally a problem.</p>
+<p><em>(<a href="https://theforum.sph.harvard.edu/events/discrimination-in-america/">Watch on-demand video of an NPR/RWJF/Harvard Chan webcast focusing on the poll</a></em><em>. A multi-part series will also air on NPR starting Oct. 24.)</em></p>
+<p><strong>Survey Background</strong></p>
+<p>The survey was conducted January 26–April 9, 2017, among a nationally representative, probability-based telephone (cell and landline) sample of 3,453 adults age 18 or older. The survey included nationally representative samples of African Americans, Latinos, Asian Americans, Native Americans, as well as white Americans; men and women, and LGBTQ adults. This report presents the results specifically for a nationally representative probability sample of 802 African-American U.S. adults. Future reports will analyze each other group, and the final report will discuss major highlights from the series.</p>
+<p>For more information:</p>
+<p>Todd Datz<br />
+617.432.8413<br />
+<a href="mailto:tdatz@hsph.harvard.edu">tdatz@hsph.harvard.edu</a></p>
+<p class="p1"><span class="s1">Visit the Harvard Chan School website for the <a href="https://www.hsph.harvard.edu/news/"><span class="s2">latest news</span></a>, <a href="https://www.hsph.harvard.edu/news/press-releases/"><span class="s2">press releases,</span></a> and <a href="https://www.hsph.harvard.edu/news/multimedia_categories/2017/"><span class="s2">multimedia offerings</span></a>.</span></p>
+<p class="p1"><span class="s1">###</span><span class="s1"> </span></p>
+<p class="p1"><span class="s2"><a href="https://www.hsph.harvard.edu/"><i>Harvard T.H. Chan School of Public Health</i></a></span><span class="s1"><i> brings together dedicated experts from many disciplines to educate new generations of global health leaders and produce powerful ideas that improve the lives and health of people everywhere. As a community of leading scientists, educators, and students, we work together to take innovative ideas from the laboratory to people’s lives—not only making scientific breakthroughs, but also working to change individual behaviors, public policies, and health care practices. Each year, more than 400 faculty members at Harvard Chan School teach 1,000-plus full-time students from around the world and train thousands more through online and executive education courses. Founded in 1913 as the Harvard-MIT School of Health Officers, the School is recognized as America’s oldest professional training program in public health.</i></span></p>
+		</div><!-- .entry-content -->
+			<footer class="entry-footer">
+		<div class="hsph-share-buttons hsph-bootstrap"><span class="hsph-share-btns-label">Share this:</span><a rel="external noreferrer nofollow" target="_blank" href="https://www.facebook.com/sharer/sharer.php?u=https%3A%2F%2Fwww.hsph.harvard.edu%2Fnews%2Fpress-releases%2Fblack-americans-discrimination-work-police%2F" aria-label="Facebook  button link" class="btn btn-light btn-sm btn-squared shadow-none mr-2 mb-2 hsph-share-button-facebook"><i class="fa fa-facebook" aria-hidden="true"></i>Facebook</a><a rel="external noreferrer nofollow" target="_blank" href="https://twitter.com/intent/tweet?url=https%3A%2F%2Fwww.hsph.harvard.edu%2Fnews%2Fpress-releases%2Fblack-americans-discrimination-work-police%2F&text=Poll+finds+at+least+half+of+Black+Americans+say+they+have+experienced+racial+discrimination+in+their+jobs+and+from+the+police" aria-label="Twitter  button link" class="btn btn-light btn-sm btn-squared shadow-none mr-2 mb-2 hsph-share-button-twitter"><i class="fa fa-twitter" aria-hidden="true"></i>Twitter</a><a rel="external noreferrer nofollow" target="_blank" href="https://www.linkedin.com/shareArticle?mini=true&url=https%3A%2F%2Fwww.hsph.harvard.edu%2Fnews%2Fpress-releases%2Fblack-americans-discrimination-work-police%2F&title=Poll+finds+at+least+half+of+Black+Americans+say+they+have+experienced+racial+discrimination+in+their+jobs+and+from+the+police" aria-label="LinkedIn  button link" class="btn btn-light btn-sm btn-squared shadow-none mr-2 mb-2 hsph-share-button-linkedin"><i class="fa fa-linkedin" aria-hidden="true"></i>LinkedIn</a><a rel="external noreferrer nofollow" target="_blank" href="http://www.reddit.com/submit?url=https%3A%2F%2Fwww.hsph.harvard.edu%2Fnews%2Fpress-releases%2Fblack-americans-discrimination-work-police%2F&title=Poll+finds+at+least+half+of+Black+Americans+say+they+have+experienced+racial+discrimination+in+their+jobs+and+from+the+police" aria-label="Reddit  button link" class="btn btn-light btn-sm btn-squared shadow-none mr-2 mb-2 hsph-share-button-reddit"><i class="fa fa-reddit-alien" aria-hidden="true"></i>Reddit</a></span></div>	</footer><!-- .entry-footer -->
+</article><!-- #post-## -->
+
+	</main><!-- .site-main -->
+
+	
+	<aside id="secondary" class="sidebar widget-area" role="complementary">
+		<section id="custom_html-5" class="widget_text widget widget_custom_html"><h2 class="widget-title">Subscribe</h2><div class="textwidget custom-html-widget"><div class="hsph-bootstrap">
+<article class="news-mailing-cta">
+<h2><i class="fa fa-envelope" aria-hidden="true"></i>The COVID-19 Update
+</h2>Our researchers are on the front lines of the global response to the COVID-19 pandemic. Sign up here to receive our weekly newsletter highlighting their efforts.
+	<br><a class="btn btn-primary my-3 shadow-none" href="https://signup.e2ma.net/signup/1940466/1914949/" target="_blank" rel="noopener">Join mailing list</a><br>
+<a href="https://www.hsph.harvard.edu/news/newsletters/" class="mt-5">Additional newsletters and mailing lists</a>
+</article></div></div></section><section id="hsph_related_news_topics-2" class="widget widget_hsph_related_news_topics">		<h2 class="widget-title">Related Articles </h2>
+		<div id='news-related-topics-container'>
+			<div id="news-related-topics-container">
+				<div class="related-topics-cloud">
+																		<a data-topic="34" class="active-topic" href=" https://www.hsph.harvard.edu/news/multitaxo/topic/health-disparities/">health disparities</a>
+																															<a data-topic="76" class="" href=" https://www.hsph.harvard.edu/news/multitaxo/topic/public-opinion/">public opinion</a>
+																						</div>
+				<div class="related-topics-links">
+					
+						
+							<div data-topic="34" class="active-topic">
+								<ul>
+																			<li><a href="http://www.hsph.harvard.edu/news/?p=111354858090">A hub for training better public health communicators</a></li>
+																			<li><a href="http://www.hsph.harvard.edu/news/?p=111354858048">Epidemiologist Tamarra James-Todd receives Alice Hamilton Award</a></li>
+																			<li><a href="http://www.hsph.harvard.edu/news/?p=111354858015">Better Off Podcast: Is clean beauty for real?</a></li>
+																	</ul>
+								<div class="related-more-link">
+										<a href=" https://www.hsph.harvard.edu/news/multitaxo/topic/health-disparities/">More on this topic</a>
+								</div>
+							</div>
+																		
+						
+							<div data-topic="76" class="">
+								<ul>
+																			<li><a href="http://www.hsph.harvard.edu/news/?p=111354858241">How the results of the 2022 midterms may affect health policy</a></li>
+																			<li><a href="http://www.hsph.harvard.edu/news/?p=111354857546">Poll: Inflation, guns, abortion top voters’ midterm concerns</a></li>
+																			<li><a href="http://www.hsph.harvard.edu/news/?p=111354856836">Poll: Most in U.S. oppose ending public health order used to expel migrants</a></li>
+																	</ul>
+								<div class="related-more-link">
+										<a href=" https://www.hsph.harvard.edu/news/multitaxo/topic/public-opinion/">More on this topic</a>
+								</div>
+							</div>
+																						</div>
+			</div>
+		</div>
+		</section><section id="text-116" class="widget widget_text">			<div class="textwidget"><p><a class="multisite-terms-explore" href="https://www.hsph.harvard.edu/news/multitaxo/topic/"><strong>Explore HSPH research by topic</strong></a></p>
+</div>
+		</section>	</aside><!-- .sidebar .widget-area -->
+
+</div><!-- .content-area -->
+
+
+		</div><!-- .site-content -->
+			<footer id="colophon" class="site-footer" role="contentinfo">
+							<div id="footer-audience-menu" class="footer-audience-menu">
+					<span class="footer-information-for">Information For:</span>
+					<nav id="footer-audience-navigation" class="footer-audience-navigation" aria-label="Audience Menu">
+						<div class="menu-audience-menu-container"><ul id="menu-audience-menu" class="hsph-audience-menu"><li class="menu-item menu-item-type-custom menu-item-object-custom menu-item-111354113411"><a href="/admissions/">Prospective Students</a></li>
+<li class="menu-item menu-item-type-custom menu-item-object-custom menu-item-111354113412"><a href="/current-students/">Current Students</a></li>
+<li class="menu-item menu-item-type-custom menu-item-object-custom menu-item-111354113413"><a href="https://alumni.sph.harvard.edu">Alumni</a></li>
+<li class="menu-item menu-item-type-custom menu-item-object-custom menu-item-111354113414"><a href="/faculty-staff/">Faculty &#038; Staff</a></li>
+<li class="menu-item menu-item-type-custom menu-item-object-custom menu-item-111354113415"><a href="/giving/">Friends &#038; Supporters</a></li>
+</ul></div>					</nav><!-- .footer-audience-navigation -->
+				</div><!-- .footer-audience-menu -->
+										<div id="footer-primary-menu" class="footer-primary-menu">
+					<nav id="footer-primary-navigation" class="footer-primary-navigation" aria-label="Primary Menu">
+						<div class="menu-footer-menu-container"><ul id="menu-footer-menu" class="hsph-footer-primary-menu"><li id="menu-item-111354113445" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-has-children menu-item-111354113445"><a href="https://www.hsph.harvard.edu/about/">About</a>
+<ul class="sub-menu">
+	<li id="menu-item-111354113446" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-111354113446"><a href="https://www.hsph.harvard.edu/about/key-facts/">Key Facts</a></li>
+	<li id="menu-item-111354113447" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-111354113447"><a href="https://www.hsph.harvard.edu/harvard-chan-naming-gift/">Renaming the School</a></li>
+	<li id="menu-item-111354113448" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-111354113448"><a href="https://www.hsph.harvard.edu/deans-office/">Office of the Dean</a></li>
+	<li id="menu-item-111354113449" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-111354113449"><a href="https://www.hsph.harvard.edu/location-and-facilities/">Location and Facilities</a></li>
+	<li id="menu-item-111354113450" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-111354113450"><a href="https://www.hsph.harvard.edu/about/administrative-offices/">Administrative Offices</a></li>
+	<li id="menu-item-111354113451" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-111354113451"><a href="https://www.hsph.harvard.edu/contact-us/">Contact Us</a></li>
+</ul>
+</li>
+<li id="menu-item-111354113452" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-has-children menu-item-111354113452"><a href="https://www.hsph.harvard.edu/faculty-research/">Faculty and Research</a>
+<ul class="sub-menu">
+	<li id="menu-item-111354113453" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-111354113453"><a href="https://www.hsph.harvard.edu/faculty/">Faculty and Researcher Directory</a></li>
+	<li id="menu-item-111354113454" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-111354113454"><a href="https://www.hsph.harvard.edu/departments/">Academic Departments, Divisions and Centers</a></li>
+	<li id="menu-item-111354113455" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-111354113455"><a href="https://www.hsph.harvard.edu/world-map/">International Research</a></li>
+	<li id="menu-item-111354113456" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-111354113456"><a href="https://www.hsph.harvard.edu/faculty-affairs/postdoctoral-research-fellows/">Postdoctoral Research Fellows</a></li>
+	<li id="menu-item-111354113457" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-111354113457"><a href="https://www.hsph.harvard.edu/faculty-affairs/">Office of Faculty Affairs</a></li>
+	<li id="menu-item-111354113458" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-111354113458"><a href="https://www.hsph.harvard.edu/searches/">Faculty Searches</a></li>
+	<li id="menu-item-111354113459" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-111354113459"><a href="https://www.hsph.harvard.edu/diversity/">Office of Diversity and Inclusion</a></li>
+</ul>
+</li>
+<li id="menu-item-111354113460" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-has-children menu-item-111354113460"><a href="https://www.hsph.harvard.edu/admissions/">Admissions &#038; Aid</a>
+<ul class="sub-menu">
+	<li id="menu-item-111354113461" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-111354113461"><a href="https://www.hsph.harvard.edu/admissions/why-harvard-chan/">Why Harvard Chan</a></li>
+	<li id="menu-item-111354113462" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-111354113462"><a href="https://www.hsph.harvard.edu/admissions/degree-programs/">Degree Programs</a></li>
+	<li id="menu-item-111354113463" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-111354113463"><a href="https://www.hsph.harvard.edu/admissions/non-degree-programs/">Non-Degree Programs</a></li>
+	<li id="menu-item-111354113464" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-111354113464"><a href="https://www.hsph.harvard.edu/admissions/financial-aid/">Financial Aid</a></li>
+	<li id="menu-item-111354113465" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-111354113465"><a href="https://www.hsph.harvard.edu/admissions/student-experience/">Student Experience</a></li>
+	<li id="menu-item-111354113466" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-111354113466"><a href="https://www.hsph.harvard.edu/admissions/careers/">Career Advancement</a></li>
+	<li id="menu-item-111354113467" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-111354113467"><a href="https://www.hsph.harvard.edu/admissions/admissions/">Apply</a></li>
+</ul>
+</li>
+<li id="menu-item-111354113468" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-has-children menu-item-111354113468"><a href="https://www.hsph.harvard.edu/departments/">Academics</a>
+<ul class="sub-menu">
+	<li id="menu-item-111354113469" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-111354113469"><a href="https://www.hsph.harvard.edu/departments/#academicdepartments">Academic Departments</a></li>
+	<li id="menu-item-111354113482" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-111354113482"><a href="https://www.hsph.harvard.edu/departments/#divisions">Divisions</a></li>
+	<li id="menu-item-111354113470" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-111354113470"><a href="https://www.hsph.harvard.edu/departments/#researchcenters">Research Centers</a></li>
+	<li id="menu-item-111354113472" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-111354113472"><a href="https://www.hsph.harvard.edu/departments/#flagshipinitiatives">Flagship Initiatives</a></li>
+	<li id="menu-item-111354113473" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-111354113473"><a href="https://www.hsph.harvard.edu/departments/#internationalresearch">International Research</a></li>
+	<li id="menu-item-111354113475" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-111354113475"><a href="https://www.hsph.harvard.edu/research-strategy-and-development/">Research Administration and Support</a></li>
+	<li id="menu-item-111354113474" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-111354113474"><a href="https://www.hsph.harvard.edu/admissions/degree-programs/">Degree Programs</a></li>
+	<li id="menu-item-111354113476" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-111354113476"><a href="https://www.hsph.harvard.edu/departments/#Fellowships-and-Residencies">Fellowships and Residencies</a></li>
+	<li id="menu-item-111354113477" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-111354113477"><a href="https://www.hsph.harvard.edu/departments/#summerprograms">Summer Programs</a></li>
+	<li id="menu-item-111354113478" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-111354113478"><a href="https://ecpe.sph.harvard.edu/">Continuing Professional Education</a></li>
+	<li id="menu-item-111354113615" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-111354113615"><a href="https://www.hsph.harvard.edu/admissions/degree-programs/interdisciplinary-concentrations/">Interdisciplinary Concentrations</a></li>
+	<li id="menu-item-111354113616" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-111354113616"><a href="https://www.hsph.harvard.edu/registrar/academic-calendar/">Academic Calendar</a></li>
+	<li id="menu-item-111354113617" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-111354113617"><a href="https://cdn1.sph.harvard.edu/wp-content/uploads/sites/1904/2015/12/Harvard-Chan-Viewbook-2015-162.pdf">Harvard Chan Viewbook</a></li>
+</ul>
+</li>
+<li id="menu-item-111354113479" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-has-children menu-item-111354113479"><a href="/ecpe/">Executive/Continuing Ed</a>
+<ul class="sub-menu">
+	<li id="menu-item-111354113483" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-111354113483"><a href="https://www.hsph.harvard.edu/ecpe/programs/">Program Offerings</a></li>
+	<li id="menu-item-111354113484" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-111354113484"><a href="https://www.hsph.harvard.edu/ecpe/programs-for-organizations/">Custom Programs</a></li>
+	<li id="menu-item-111354113485" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-111354113485"><a href="https://execed.sph.harvard.edu/executive-education-program-portfolio/">Request Information</a></li>
+	<li id="menu-item-111354113486" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-111354113486"><a href="https://www.hsph.harvard.edu/ecpe/news/">News and Resources</a></li>
+	<li id="menu-item-111354113487" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-111354113487"><a href="https://www.hsph.harvard.edu/ecpe/about/">About ECPE</a></li>
+	<li id="menu-item-111354113488" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-111354113488"><a href="https://www.hsph.harvard.edu/ecpe/contact/">Contact</a></li>
+</ul>
+</li>
+<li id="menu-item-111354113480" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-has-children menu-item-111354113480"><a href="https://www.hsph.harvard.edu/news/">News</a>
+<ul class="sub-menu">
+	<li id="menu-item-111354113493" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-111354113493"><a href="https://www.hsph.harvard.edu/news/features/">Featured News</a></li>
+	<li id="menu-item-111354113494" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-111354113494"><a href="https://www.hsph.harvard.edu/news/press-releases/">Press Releases</a></li>
+	<li id="menu-item-111354113495" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-111354113495"><a href="https://www.hsph.harvard.edu/multitaxo/tag/student-stories/">Student Stories</a></li>
+	<li id="menu-item-111354113496" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-111354113496"><a href="https://www.hsph.harvard.edu/news/hsph-in-the-news/">In the News</a></li>
+	<li id="menu-item-111354113497" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-111354113497"><a href="https://www.hsph.harvard.edu/news/newsletters/">Newsletters</a></li>
+	<li id="menu-item-111354113498" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-111354113498"><a href="https://www.hsph.harvard.edu/magazine/">HPH Magazine</a></li>
+	<li id="menu-item-111354113500" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-111354113500"><a href="https://www.hsph.harvard.edu/news/why-public-health/">Why Public Health?</a></li>
+</ul>
+</li>
+</ul></div>					</nav><!-- .footer-primary-menu -->
+				</div><!-- .footer-primary-navigation -->
+			
+			<div class="site-info">
+				<div class="site-footer-logo"><a href="https://www.hsph.harvard.edu/" rel="home">Harvard T.H. Chan School of Public Health</a></div>
+				<address class="vcard">
+					<div class="adr">
+						<span class="street-address">677 Huntington Avenue</span>
+						<span class="locality">Boston</span>,
+						<abbr class="region" title="Massachusetts">MA</abbr>
+						<span class="postal-code">02115</span>
+					</div>
+					<div class="tel">+1 (617) 495‑1000</div>
+				</address>
+			</div><!-- .site-info -->
+							<div id="footer-social-menu" class="footer-social-menu">
+					<nav id="footer-social-navigation" class="footer-social-navigation" aria-label="Primary Menu">
+						<div class="menu-footer-social-container"><ul id="menu-footer-social" class="social-navigation"><li id="menu-item-111354108407" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-111354108407"><a title="Twitter" target="_blank" rel="noopener noreferrer" href="http://twitter.com/HarvardChanSPH">Twitter</a></li>
+<li id="menu-item-111354108408" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-111354108408"><a title="Facebook" target="_blank" rel="noopener noreferrer" href="http://www.facebook.com/harvardpublichealth">Facebook</a></li>
+<li id="menu-item-111354108409" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-111354108409"><a title="YouTube" target="_blank" rel="noopener noreferrer" href="https://www.youtube.com/user/HarvardPublicHealth">YouTube</a></li>
+<li id="menu-item-111354108411" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-111354108411"><a title="LinkedIn" target="_blank" rel="noopener noreferrer" href="http://www.linkedin.com/edu/school?id=20305&#038;trk=tyah">LinkedIn</a></li>
+<li id="menu-item-111354113570" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-111354113570"><a href="https://www.instagram.com/harvardchansph/">Instagram</a></li>
+<li id="menu-item-111354108412" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-111354108412"><a title="iTunes U" target="_blank" rel="noopener noreferrer" href="https://itunes.apple.com/us/podcast/harvard-public-health/id1079574471">iTunes</a></li>
+</ul></div>					</nav><!-- .footer-social-navigation -->
+				</div><!-- .footer-social-menu -->
+										<div id="footer-footer-menu" class="footer-footer-menu">
+					<nav id="footer-navigation" class="footer-navigation" aria-label="Primary Menu">
+						<div class="menu-sub-footer-menu-container"><ul id="menu-sub-footer-menu" class="hsph-footer-menu"><li id="menu-item-1020" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-home menu-item-1020"><a href="https://www.hsph.harvard.edu/">Harvard Chan Home</a></li>
+<li id="menu-item-111354105449" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-111354105449"><a href="https://www.hsph.harvard.edu/contact-us/">Contact Us</a></li>
+<li id="menu-item-111354105212" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-111354105212"><a href="https://www.harvard.edu">Harvard University Home</a></li>
+<li id="menu-item-1021" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-1021"><a href="https://www.hsph.harvard.edu/giving/">Make a Gift</a></li>
+<li id="menu-item-111354108039" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-111354108039"><a href="https://www.hsph.harvard.edu/privacy-policy/">Privacy Policy</a></li>
+<li id="menu-item-111354105198" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-111354105198"><a href="https://www.harvard.edu/copyright-issue">Report Copyright Violation</a></li>
+<li id="menu-item-111354119821" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-111354119821"><a title="Online Accessibility at Harvard University" href="https://accessibility.huit.harvard.edu">Accessibility</a></li>
+</ul></div>					</nav><!-- .footer-navigation -->
+				</div><!-- .footer-footer-menu -->
+							<div id="copyright" class="copyright">
+					Copyright &copy; 2023 The President and Fellows of Harvard College				</div><!-- .footer-footer-menu -->
+		</footer><!-- .site-footer -->
+	</div><!-- .site -->
+</div><!-- .wrapper -->
+<div class="menu-mask"></div>
+
+			<!-- Google Tag Manager (noscript) -->
+			<noscript><iframe src="https://www.googletagmanager.com/ns.html?id=GTM-XL6K"
+			height="0" width="0" title="Google tag manager" aria-hidden="true" style="display:none;visibility:hidden"></iframe></noscript>			<!-- End Google Tag Manager (noscript) -->
+			
+		<script>
+			// Slide controls for the sub brand carousel template
+			jQuery(document).ready(function($) {
+				if ( $('#sidebar-carousel-widget .flexslider').length && $().flexslider ) {
+					$('#sidebar-carousel-widget .flexslider').flexslider({
+						animation: 'fade',
+						prevText: ' ',
+						nextText: ' ',
+						controlsContainer: '#hsph-carousel-widget-controls',
+					});
+				}
+			});
+		</script>
+		
+		<script>
+			// Slide controls for the sub brand carousel template
+			jQuery(document).ready(function($) {
+				if ( $('#news-sidebar-carousel-widget .flexslider').length && $().flexslider ) {
+					$('#news-sidebar-carousel-widget .flexslider').flexslider({
+						animation: 'fade',
+						prevText: ' ',
+						nextText: ' ',
+						controlsContainer: '#hsph-news-carousel-widget-controls',
+					});
+				}
+			});
+		</script>
+				<div id="jp-carousel-loading-overlay">
+			<div id="jp-carousel-loading-wrapper">
+				<span id="jp-carousel-library-loading">&nbsp;</span>
+			</div>
+		</div>
+		<div class="jp-carousel-overlay" style="display: none;">
+
+		<div class="jp-carousel-container">
+			<!-- The Carousel Swiper -->
+			<div
+				class="jp-carousel-wrap swiper-container jp-carousel-swiper-container jp-carousel-transitions"
+				itemscope
+				itemtype="https://schema.org/ImageGallery">
+				<div class="jp-carousel swiper-wrapper"></div>
+				<div class="jp-swiper-button-prev swiper-button-prev">
+					<svg width="25" height="24" viewBox="0 0 25 24" fill="none" xmlns="http://www.w3.org/2000/svg">
+						<mask id="maskPrev" mask-type="alpha" maskUnits="userSpaceOnUse" x="8" y="6" width="9" height="12">
+							<path d="M16.2072 16.59L11.6496 12L16.2072 7.41L14.8041 6L8.8335 12L14.8041 18L16.2072 16.59Z" fill="white"/>
+						</mask>
+						<g mask="url(#maskPrev)">
+							<rect x="0.579102" width="23.8823" height="24" fill="#FFFFFF"/>
+						</g>
+					</svg>
+				</div>
+				<div class="jp-swiper-button-next swiper-button-next">
+					<svg width="25" height="24" viewBox="0 0 25 24" fill="none" xmlns="http://www.w3.org/2000/svg">
+						<mask id="maskNext" mask-type="alpha" maskUnits="userSpaceOnUse" x="8" y="6" width="8" height="12">
+							<path d="M8.59814 16.59L13.1557 12L8.59814 7.41L10.0012 6L15.9718 12L10.0012 18L8.59814 16.59Z" fill="white"/>
+						</mask>
+						<g mask="url(#maskNext)">
+							<rect x="0.34375" width="23.8822" height="24" fill="#FFFFFF"/>
+						</g>
+					</svg>
+				</div>
+			</div>
+			<!-- The main close buton -->
+			<div class="jp-carousel-close-hint">
+				<svg width="25" height="24" viewBox="0 0 25 24" fill="none" xmlns="http://www.w3.org/2000/svg">
+					<mask id="maskClose" mask-type="alpha" maskUnits="userSpaceOnUse" x="5" y="5" width="15" height="14">
+						<path d="M19.3166 6.41L17.9135 5L12.3509 10.59L6.78834 5L5.38525 6.41L10.9478 12L5.38525 17.59L6.78834 19L12.3509 13.41L17.9135 19L19.3166 17.59L13.754 12L19.3166 6.41Z" fill="white"/>
+					</mask>
+					<g mask="url(#maskClose)">
+						<rect x="0.409668" width="23.8823" height="24" fill="#FFFFFF"/>
+					</g>
+				</svg>
+			</div>
+			<!-- Image info, comments and meta -->
+			<div class="jp-carousel-info">
+				<div class="jp-carousel-info-footer">
+					<div class="jp-carousel-pagination-container">
+						<div class="jp-swiper-pagination swiper-pagination"></div>
+						<div class="jp-carousel-pagination"></div>
+					</div>
+					<div class="jp-carousel-photo-title-container">
+						<h2 class="jp-carousel-photo-caption"></h2>
+					</div>
+					<div class="jp-carousel-photo-icons-container">
+						<a href="#" class="jp-carousel-icon-btn jp-carousel-icon-info" aria-label="Toggle photo metadata visibility">
+							<span class="jp-carousel-icon">
+								<svg width="25" height="24" viewBox="0 0 25 24" fill="none" xmlns="http://www.w3.org/2000/svg">
+									<mask id="maskInfo" mask-type="alpha" maskUnits="userSpaceOnUse" x="2" y="2" width="21" height="20">
+										<path fill-rule="evenodd" clip-rule="evenodd" d="M12.7537 2C7.26076 2 2.80273 6.48 2.80273 12C2.80273 17.52 7.26076 22 12.7537 22C18.2466 22 22.7046 17.52 22.7046 12C22.7046 6.48 18.2466 2 12.7537 2ZM11.7586 7V9H13.7488V7H11.7586ZM11.7586 11V17H13.7488V11H11.7586ZM4.79292 12C4.79292 16.41 8.36531 20 12.7537 20C17.142 20 20.7144 16.41 20.7144 12C20.7144 7.59 17.142 4 12.7537 4C8.36531 4 4.79292 7.59 4.79292 12Z" fill="white"/>
+									</mask>
+									<g mask="url(#maskInfo)">
+										<rect x="0.8125" width="23.8823" height="24" fill="#FFFFFF"/>
+									</g>
+								</svg>
+							</span>
+						</a>
+												<a href="#" class="jp-carousel-icon-btn jp-carousel-icon-comments" aria-label="Toggle photo comments visibility">
+							<span class="jp-carousel-icon">
+								<svg width="25" height="24" viewBox="0 0 25 24" fill="none" xmlns="http://www.w3.org/2000/svg">
+									<mask id="maskComments" mask-type="alpha" maskUnits="userSpaceOnUse" x="2" y="2" width="21" height="20">
+										<path fill-rule="evenodd" clip-rule="evenodd" d="M4.3271 2H20.2486C21.3432 2 22.2388 2.9 22.2388 4V16C22.2388 17.1 21.3432 18 20.2486 18H6.31729L2.33691 22V4C2.33691 2.9 3.2325 2 4.3271 2ZM6.31729 16H20.2486V4H4.3271V18L6.31729 16Z" fill="white"/>
+									</mask>
+									<g mask="url(#maskComments)">
+										<rect x="0.34668" width="23.8823" height="24" fill="#FFFFFF"/>
+									</g>
+								</svg>
+
+								<span class="jp-carousel-has-comments-indicator" aria-label="This image has comments."></span>
+							</span>
+						</a>
+											</div>
+				</div>
+				<div class="jp-carousel-info-extra">
+					<div class="jp-carousel-info-content-wrapper">
+						<div class="jp-carousel-photo-title-container">
+							<h2 class="jp-carousel-photo-title"></h2>
+						</div>
+						<div class="jp-carousel-comments-wrapper">
+															<div id="jp-carousel-comments-loading">
+									<span>Loading Comments...</span>
+								</div>
+								<div class="jp-carousel-comments"></div>
+								<div id="jp-carousel-comment-form-container">
+									<span id="jp-carousel-comment-form-spinner">&nbsp;</span>
+									<div id="jp-carousel-comment-post-results"></div>
+																														<form id="jp-carousel-comment-form">
+												<label for="jp-carousel-comment-form-comment-field" class="screen-reader-text">Write a Comment...</label>
+												<textarea
+													name="comment"
+													class="jp-carousel-comment-form-field jp-carousel-comment-form-textarea"
+													id="jp-carousel-comment-form-comment-field"
+													placeholder="Write a Comment..."
+												></textarea>
+												<div id="jp-carousel-comment-form-submit-and-info-wrapper">
+													<div id="jp-carousel-comment-form-commenting-as">
+																													<fieldset>
+																<label for="jp-carousel-comment-form-email-field">Email (Required)</label>
+																<input type="text" name="email" class="jp-carousel-comment-form-field jp-carousel-comment-form-text-field" id="jp-carousel-comment-form-email-field" />
+															</fieldset>
+															<fieldset>
+																<label for="jp-carousel-comment-form-author-field">Name (Required)</label>
+																<input type="text" name="author" class="jp-carousel-comment-form-field jp-carousel-comment-form-text-field" id="jp-carousel-comment-form-author-field" />
+															</fieldset>
+															<fieldset>
+																<label for="jp-carousel-comment-form-url-field">Website</label>
+																<input type="text" name="url" class="jp-carousel-comment-form-field jp-carousel-comment-form-text-field" id="jp-carousel-comment-form-url-field" />
+															</fieldset>
+																											</div>
+													<input
+														type="submit"
+														name="submit"
+														class="jp-carousel-comment-form-button"
+														id="jp-carousel-comment-form-button-submit"
+														value="Post Comment" />
+												</div>
+											</form>
+																											</div>
+													</div>
+						<div class="jp-carousel-image-meta">
+							<div class="jp-carousel-title-and-caption">
+								<div class="jp-carousel-photo-info">
+									<h3 class="jp-carousel-caption" itemprop="caption description"></h3>
+								</div>
+
+								<div class="jp-carousel-photo-description"></div>
+							</div>
+							<ul class="jp-carousel-image-exif" style="display: none;"></ul>
+							<a class="jp-carousel-image-download" target="_blank" style="display: none;">
+								<svg width="25" height="24" viewBox="0 0 25 24" fill="none" xmlns="http://www.w3.org/2000/svg">
+									<mask id="mask0" mask-type="alpha" maskUnits="userSpaceOnUse" x="3" y="3" width="19" height="18">
+										<path fill-rule="evenodd" clip-rule="evenodd" d="M5.84615 5V19H19.7775V12H21.7677V19C21.7677 20.1 20.8721 21 19.7775 21H5.84615C4.74159 21 3.85596 20.1 3.85596 19V5C3.85596 3.9 4.74159 3 5.84615 3H12.8118V5H5.84615ZM14.802 5V3H21.7677V10H19.7775V6.41L9.99569 16.24L8.59261 14.83L18.3744 5H14.802Z" fill="white"/>
+									</mask>
+									<g mask="url(#mask0)">
+										<rect x="0.870605" width="23.8823" height="24" fill="#FFFFFF"/>
+									</g>
+								</svg>
+								<span class="jp-carousel-download-text"></span>
+							</a>
+							<div class="jp-carousel-image-map" style="display: none;"></div>
+						</div>
+					</div>
+				</div>
+			</div>
+		</div>
+
+		</div>
+		<!-- `jetpack-carousel-swiper-css` is included in the concatenated jetpack.css -->
+<!-- `jetpack-carousel` is included in the concatenated jetpack.css -->
+<script type='text/javascript' src='https://www.hsph.harvard.edu/news/wp-content/plugins/plugin-tagging/assets/js/hsph-plugin-tagging.js?ver=1.1.5' id='hsph-plugin-tagging-js'></script>
+<script type='text/javascript' src='https://www.hsph.harvard.edu/news/wp-content/plugins/plugin-tinymce-tweaks/assets/js/jquery.tablesorter.min.js?ver=2.31.1' id='jquery-tablesorter-js-js'></script>
+<script type='text/javascript' src='https://www.hsph.harvard.edu/news/wp-content/plugins/plugin-tinymce-tweaks/assets/js/hsph-table-sortable.js?ver=1.1.1' id='hsph-table-sortable-js-js'></script>
+<script type='text/javascript' src='https://www.hsph.harvard.edu/news/wp-content/themes/theme-main-2016/assets/js/jquery.flexslider-min.js?ver=1.3.96' id='jquery-flexslider-js'></script>
+<script type='text/javascript' src='https://www.hsph.harvard.edu/news/wp-content/themes/theme-main-2016-child-news/js/news-front.js?ver=1.0' id='news_scripts-js'></script>
+<script type='text/javascript' src='https://www.hsph.harvard.edu/news/wp-content/themes/theme-main-2016/assets/js/skip-link-focus-fix.js?ver=1.3.96' id='hsph-skip-link-focus-fix-js'></script>
+<script type='text/javascript' id='hsph-script-js-extra'>
+/* <![CDATA[ */
+var screenReaderText = {"expand":"<span class=\"screen-reader-text\">expand child menu<\/span>","collapse":"<span class=\"screen-reader-text\">collapse child menu<\/span>"};
+/* ]]> */
+</script>
+<script type='text/javascript' src='https://www.hsph.harvard.edu/news/wp-content/themes/theme-main-2016/assets/js/functions.js?ver=1.3.96' id='hsph-script-js'></script>
+<script type='text/javascript' src='https://www.hsph.harvard.edu/news/wp-content/plugins/plugin-design-system/assets/js/hsph-bootstrap.bundle.min.js?ver=1.4.11' id='hsph-bootstrap-js'></script>
+<script type='text/javascript' id='jetpack-carousel-js-extra'>
+/* <![CDATA[ */
+var jetpackSwiperLibraryPath = {"url":"https:\/\/www.hsph.harvard.edu\/news\/wp-content\/plugins\/jetpack\/_inc\/build\/carousel\/swiper-bundle.min.js"};
+var jetpackCarouselStrings = {"widths":[370,700,1000,1200,1400,2000],"is_logged_in":"","lang":"en","ajaxurl":"https:\/\/www.hsph.harvard.edu\/news\/wp-admin\/admin-ajax.php","nonce":"a2919e77ec","display_exif":"1","display_comments":"1","single_image_gallery":"1","single_image_gallery_media_file":"","background_color":"black","comment":"Comment","post_comment":"Post Comment","write_comment":"Write a Comment...","loading_comments":"Loading Comments...","download_original":"View full size <span class=\"photo-size\">{0}<span class=\"photo-size-times\">\u00d7<\/span>{1}<\/span>","no_comment_text":"Please be sure to submit some text with your comment.","no_comment_email":"Please provide an email address to comment.","no_comment_author":"Please provide your name to comment.","comment_post_error":"Sorry, but there was an error posting your comment. Please try again later.","comment_approved":"Your comment was approved.","comment_unapproved":"Your comment is in moderation.","camera":"Camera","aperture":"Aperture","shutter_speed":"Shutter Speed","focal_length":"Focal Length","copyright":"Copyright","comment_registration":"0","require_name_email":"1","login_url":"https:\/\/www.hsph.harvard.edu\/news\/wp-login.php?redirect_to=https%3A%2F%2Fwww.hsph.harvard.edu%2Fnews%2Fpress-releases%2Fblack-americans-discrimination-work-police%2F","blog_id":"21","meta_data":["camera","aperture","shutter_speed","focal_length","copyright"]};
+/* ]]> */
+</script>
+<script type='text/javascript' src='https://www.hsph.harvard.edu/news/wp-content/plugins/jetpack/_inc/build/carousel/jetpack-carousel.min.js?ver=11.4' id='jetpack-carousel-js'></script>
+<script src='https://stats.wp.com/e-202301.js' defer></script>
+<script>
+	_stq = window._stq || [];
+	_stq.push([ 'view', {v:'ext',j:'1:11.4',blog:'44963119',post:'111354835980',tz:'-5',srv:'www.hsph.harvard.edu'} ]);
+	_stq.push([ 'clickTrackerInit', '44963119', '111354835980' ]);
+</script>
+<script type="text/javascript">window.NREUM||(NREUM={});NREUM.info={"beacon":"bam.nr-data.net","licenseKey":"NRJS-26d49e9cd1d82010791","applicationID":"529647296","transactionName":"YlBRN0pRWBUDBU1dWFsacgBMWVkITRVQWlBZUA==","queueTime":0,"applicationTime":1156,"atts":"ThdSQQJLSxs=","errorBeacon":"bam.nr-data.net","agent":""}</script></body>
+</html>
