@@ -1,0 +1,14 @@
+##Exercice 2b
+
+Pour vérifier si je suis en retard par rapport à la version en ligne, 
+
+Afin de répercuter les changements du dépôt sur ma machine, j'accède au terminal de mon dossier PPE_perso et je fais un git pull pour obtenir la dernière version de mon GitHub, sur mon ordinateur. 
+
+##Exercice 2c 
+
+Commandes à utiliser pour ajouter mes modifications à mon dépot : 
+- git add <dossier concerné>
+- git commit -m 'commentaire que je souhaite mettre'
+- git push 
+- git status
+- git log 
